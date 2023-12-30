@@ -2,6 +2,8 @@
 
 * 说明
 
+联系方式：微信公众号 OneKBase 或 B站 OneKBase 发消息
+
 记录整理有关电、磁、物质组成等方面的知识。
 
 所有知识会标注知识分类：
@@ -14,4 +16,5 @@
 
 * 文档清单
 
-- [[file:./his/idx-his.org][历史史实索引]]
+- [[file:./1his/readme.org][历史史实索引]]
+- [[file:2doc/readme.org::*文档目录][文档目录索引]]

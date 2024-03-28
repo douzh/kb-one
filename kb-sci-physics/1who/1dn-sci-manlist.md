@@ -1,8 +1,41 @@
 # 历史人物清单
 
-本清单记录的人物除了历史著名人物外，可能有大量一些不广为人知的人物，可能还有些有争议的人物。
+本清单记录的人物除了历史著名人物外，有大量一些不广为人知的人物，可能还有些有争议的人物。
 
-相关文献下载：[One文献](/kb-sci-book/)
+| 人物                             | 关键词               | 单位 | 简介            |
+| -------------------------------- | -------------------- | ---- | --------------- |
+| 1473-1543 哥白尼 Kopernik        | 日心说               |      |                 |
+| 1564-1642 伽利略 Galileo         | 加速度、望远镜       |      |                 |
+| 1643-1727 牛顿 Newton            | 力学 微积分          | N    |                 |
+| 1706-1790 富兰克林 Franklin      | 避雷针               |      |                 |
+| 1736-1806 库仑 Coulomb           | 库仑定律             | C    |                 |
+| 1745-1827 伏特 Volta             | 伏打电堆             | V    |                 |
+| 1775-1836 安培 Ampere            | 安培定则             | A    |                 |
+| 1777-1851 奥斯特 Orsted          | 电生磁               |      |                 |
+| 1791-1867 法拉第 Faraday         | 电磁感应 电学之父    | F    | [[1791faraday]] |
+| 1831-1879 麦克斯韦 Maxwell       | 麦克斯韦方程         |      |                 |
+| 1834-1907 门捷列夫               | 元素周期律           |      |                 |
+| 1837-1898 基利 Keely             |                      |      |                 |
+| 1853-1928 洛伦兹 Lorentz         | 电子论               |      | [[1853lorentz]] |
+| 1856-1943 特斯拉 Tesla           | 特斯拉线圈           | T    |                 |
+| 1856-1940 汤姆逊 Thomson         | 电子                 |      |                 |
+| 1857-1894 赫兹 Hertz             | 电磁波               | Hz   |                 |
+| 1858-1947 普朗克 Planck          | 普朗克常量 量子力学  |      | [[1858planck]]  |
+| 1869-1942 拉霍夫斯基 Lakhovsky   |                      |      |                 |
+| 1871-1963 拉塞尔 Russell         |                      |      |                 |
+| 1887-1951 爱德华 Edward          |                      |      |                 |
+| 1888-1971 莱夫 Rife              |                      |      |                 |
+| 1897-1957 赖希 Reich             | orgone               |      |                 |
+| 1927 维克多·格雷本尼科夫 Viktor |                      |      |                 |
+| 1927 维克多·格雷本尼科夫 Viktor |                      |      |                 |
+| 1932 瑟尔 Searl                  | SEG                  |      |                 |
+| 1936-2015 纽曼 Newman            |                      |      |                 |
+| 1958 凯史 Keshe                  |                      |      |                 |
+| 戴维森 Davidson                  | 《形状的力量》       |      |                 |
+| 吉姆·汉伯 Jim Humble            | 神奇矿物质溶液-MMS使 |      |                 |
+|                                  |                      |      |                 |
+
+各人物相关文献下载：[One文献](/kb-sci-book/)
 
 ## 1473-1543 哥白尼 Kopernik
 
@@ -12,7 +45,7 @@
 
 在哥白尼40岁时，他提出了日心说，改变了人类对自然对自身的看法。当时罗马天主教廷认为他的日心说违反《圣经》，哥白尼仍坚信日心说，并认为日心说与其并无矛盾，并经过长年的观察和计算完成他的伟大著作《天球运行论》。
 
-## 1564-1642 伽利略 Galileo 
+## 1564-1642 伽利略 Galileo
 
 ![](assets/1564galileo.webp)
 
@@ -44,7 +77,9 @@
 
 查利·奥古斯丁·库仑（Charles-Augustin de Coulomb，1736年6月14日---1806年8月23日）法国工程师、物理学家。1736年6月14日生于法国昂古莱姆。1806年8月23日在巴黎逝世。主要贡献有扭秤实验、库仑定律、库伦土压力理论等。同时也被称为“土力学之始祖”
 
-库仑终于找出了在真空中两个点电荷之间的相互作用力与两点电荷所带的电量及它们之间的距离的定量关系，这就是静电学中的库仑定律，即两电荷间的力与两电荷的乘积成正比，与两者的距离平方成反比。库仑定律是电学发展史上的第一个定量规律，它使电学的研究从定性进入定量阶段，是电学史中的一块重要的里程碑。电荷的单位库仑就是以他的姓氏命名的。
+库仑终于找出了在真空中两个点电荷之间的相互作用力与两点电荷所带的电量及它们之间的距离的定量关系，这就是静电学中的库仑定律，即两电荷间的力与两电荷的乘积成正比，与两者的距离平方成反比。
+
+库仑定律是电学发展史上的第一个定量规律，它使电学的研究从定性进入定量阶段，是电学史中的一块重要的里程碑。电荷的单位库仑就是以他的姓氏命名的。
 
 ## 1745-1827 伏特 Volta
 
@@ -54,7 +89,7 @@
 
 意大利物理学家。因在1800年发明伏打电堆而著名。后受封为伯爵。
 
-## 1775-1836 安培 
+## 1775-1836 安培 Ampere
 
 ![](assets/1775apere.webp)
 
@@ -63,12 +98,13 @@
 安培最主要的成就是1820～1827年对电磁作用的研究，他被麦克斯韦誉为“电学中的牛顿”。在电磁作用方面的研究成就卓著。电流的国际单位安培即以其姓氏命名。
 
 安培定则是表示电流和电流激发磁场的磁感线方向间关系的定则，也叫右手螺旋定则。
+
 1. 直线电流的安培定则用右手握住导线，让伸直的大拇指所指的方向跟电流的方向一致，那么弯曲的四指所指的方向就是磁感线的环绕方向。
 2. 环形电流的安培定则让右手弯曲的四指和环形电流的方向一致，那么伸直的大拇指所指的方向就是环形电流中心轴线上磁感线的方向。
 
 直线电流的安培定则对一小段直线电流也适用。环形电流可看成许多小段直线电流组成，对每一小段直线电流用直线电流的安培定则判定出环形电流中心轴线上磁感强度的方向。叠加起来就得到环形电流中心轴线上磁感线的方向。直线电流的安培定则是基本的，环形电流的安培定则可由直线电流的安培定则导出，直线电流的安培定则对电荷作直线运动产生的磁场也适用，这时电流方向与正电荷运动方向相同，与负电荷运动方向相反。
 
-## 1777-1851 奥斯特 
+## 1777-1851 奥斯特 Orsted
 
 ![](assets/1777orsted.webp)
 
@@ -79,6 +115,12 @@
 ![](assets/1791faraday.png)
 
 迈克尔·法拉第（英语：Michael Faraday，1791年9月22日—1867年8月25日）
+
+迈克尔·法拉第是英国著名化学家汉弗里·戴维的学生和助手，他的发现奠定了电磁学的基础，是詹姆斯·克拉克·麦克斯韦的先导。1831年10月17日，法拉第首次发现电磁感应现象，并进而得到产生交流电的方法。1831年10月28日法拉第发明了圆盘发电机，是人类创造出的第一个发电机。
+
+由于他在电磁学方面做出了伟大贡献，被称为“电学之父”和“交流电之父”。
+
+[[1791faraday]]
 
 ## 1831-1879 麦克斯韦 Maxwell
 
@@ -92,21 +134,19 @@
 
 《动态电磁场理论》《电磁通论》
 
- ## 1834-1907 门捷列夫 
+## 1834-1907 门捷列夫
 
  ![](assets/1834menjieleifu.webp)
- 
+
  德米特里·伊万诺维奇·门捷列夫（俄语：Дмитрий Иванович Менделеев，1834年2月7日---1907年2月2日）
 
  俄国科学家，发现并归纳元素周期律，依照原子量，制作出世界上第一张元素周期表，并据以预见了一些尚未发现的元素。
-
-
 
 ## 1837-1898 基利 Keely
 
 ![](assets/1837keely.png)
 
-约翰·恩斯特·沃雷尔·基利 John Ernst Worrell Keely (September 3, 1837 – November 18, 1898) 
+约翰·恩斯特·沃雷尔·基利 John Ernst Worrell Keely (September 3, 1837 – November 18, 1898)
 
 ## 1853-1928 洛伦兹 Lorentz
 
@@ -118,7 +158,7 @@
 
 洛伦兹认为一切物质分子都含有电子，阴极射线的粒子就是电子。把以太与物质的相互作用归结为以太与电子的相互作用。这一理论成功地解释了塞曼效应，因此与塞曼一起获1902年诺贝尔物理学奖。
 
-[[1854lorentz]]
+[[1853lorentz]]
 
 ## 1856-1943 特斯拉 Tesla
 
@@ -136,7 +176,7 @@
 
 1897年在真空管阴极射线实验中证明了电子的存在。除了在物理研究中的贡献，汤姆逊还是一位杰出的教师，培养了7位诺贝尔奖得奖者。
 
-
+[[1856thomson]]
 
 ## 1857-1894 赫兹 Hertz
 
@@ -148,13 +188,15 @@
 
  赫兹用实验证明电磁波是存在的，且电磁波的传播速度相当于光速，赫兹实验为无线电、雷达和电视等无线电电子技术的发展开拓了创新途径。他对紫外光对火花放电的影响进行了研究，并从中发现了光电效应，认为在光的照射下物体能够释放电子，这个发现成为爱因斯坦建立光量子理论的基础。
 
- ## 1858-1947 普朗克 Planck
+## 1858-1947 普朗克 Planck
 
  ![](assets/1858planck.jpeg)
 
 马克斯·普朗克（全名：马克斯·卡尔·恩斯特·路德维希·普朗克，Max Karl Ernst Ludwig Planck，1858年4月23日---1947年10月4日）
 
 德国物理学家、量子力学重要创始人之一，普鲁士科学院院士，美国艺术与科学院院士，美国国家科学院外籍院士，1918年诺贝尔物理学奖获得者
+
+[[1858planck][1858planck]]
 
 ## 1869-1942 拉霍夫斯基 Lakhovsky
 
@@ -167,6 +209,14 @@
 
 作品
 The Secret of Life, London: William Heinemann (Medical Books), Ltd., 1939; Modern edition 2007 ISBN 978-142092995-9.
+
+## 1871-1937 卢瑟福 Rutherford
+
+欧内斯特·卢瑟福（Ernest Rutherford，1871年8月30日---1937年10月19日）
+
+物理学家，纳尔逊男爵，英国皇家学会院士，诺贝尔化学奖获得者，生前是卡文迪许实验室主任。
+
+欧内斯特·卢瑟福主要从事核科学和放射性方面的研究。
 
 ## 1871-1963 拉塞尔 Russell
 
@@ -205,13 +255,17 @@ Edward Leedskalnin (Latvian: Edvards Liedskalniņš) (January 12, 1887 – Decem
 
 威廉·赖希（Wilhelm Reich，1897年3月24日—1957年11月3日），生于奥匈帝国杜布萨乌（现乌克兰），美国心理学家，心理分析家，弗洛伊德主义马克思主义代表人物。
 
-## 1927 维克多·格雷本尼科夫 Viktor 
+## 1927 维克多·格雷本尼科夫 Viktor
 
 ![](assets/1927viktor.png)
 
-维克多·斯捷潘诺维奇·格雷本尼科夫（Viktor Stepanovich Grebennikov；1927年4月23日生于辛菲罗波尔- 2001年生于新西伯利亚）是一位自称为俄罗斯 科学家、生物学家、昆虫学家和超自然现象研究者的人，最著名的是他发明了一种通过附着死者来操作的悬浮平台。昆虫身体部位位于底部。格雷本尼科夫详细描述了他使用悬浮装置飞越俄罗斯乡村的经历。这些飞行经历以及他对其他超自然现象（通常涉及昆虫巢穴或部件）的观察报告出现在他自行出版的书《我的世界》（Moi Mir。新西伯利亚，俄罗斯：Sovetskaya Sibir，1997）中。
+维克多·斯捷潘诺维奇·格雷本尼科夫（Viktor Stepanovich Grebennikov；1927年4月23日生于辛菲罗波尔- 2001年生于新西伯利亚）
 
-Viktor Stepanovich Grebennikov (Russian: Виктор Степанович Гребенников; 23 April 1927 in Simferopol – 2001 in Novosibirsk) was a self-proclaimed Russian scientist, biologist, entomologist and paranormal researcher best known for his claim to have invented a levitation platform which operated by attaching dead insect body parts to the underside. Grebennikov wrote detailed accounts of his experiences flying over the Russian countryside using his levitation device. These flying experiences as well as his reported observations of other paranormal phenomena, usually involving insect nests or parts, appear in his self-published book My World (Moi Mir. Novosibirsk, Russia: Sovetskaya Sibir, 1997).
+俄罗斯 科学家、生物学家、昆虫学家和超自然现象研究者的人，最著名的是他发明了一种通过附着昆虫结构来操作的悬浮平台。昆虫身体部位位于底部。格雷本尼科夫详细描述了他使用悬浮装置飞越俄罗斯乡村的经历。这些飞行经历以及他对其他超自然现象（通常涉及昆虫巢穴或部件）的观察报告出现在他自行出版的书《我的世界》（Moi Mir。新西伯利亚，俄罗斯：Sovetskaya Sibir，1997）中。
+
+Viktor Stepanovich Grebennikov (Russian: Виктор Степанович Гребенников; 23 April 1927 in Simferopol – 2001 in Novosibirsk)
+
+ Russian scientist, biologist, entomologist and paranormal researcher best known for his claim to have invented a levitation platform which operated by attaching dead insect body parts to the underside. Grebennikov wrote detailed accounts of his experiences flying over the Russian countryside using his levitation device. These flying experiences as well as his reported observations of other paranormal phenomena, usually involving insect nests or parts, appear in his self-published book My World (Moi Mir. Novosibirsk, Russia: Sovetskaya Sibir, 1997).
 
 ## 1932 瑟尔 Searl
 
@@ -219,7 +273,7 @@ Viktor Stepanovich Grebennikov (Russian: Виктор Степанович Гр�
 
 约翰·瑟尔 John Searl 　1932年5月2日，约翰·瑟尔 John Roy Robert Searl 出生于英国旺蒂奇(Wantage)的一个贫困的家庭
 
-## 1936-2015 纽曼 Newman 
+## 1936-2015 纽曼 Newman
 
 ![](assets/1936newman.png)
 
@@ -240,7 +294,6 @@ M.T.Keshe，中文名迈赫兰·塔瓦科利·凯史，男，1958年出生于伊
 - 事迹1：微型等离子反应器和相应专利
 - 事迹2：在《光的结构》《宇宙的起源》《物质造物的普遍秩序》三本书提出了以太粒子概念模型，给出了常见物理学现象的新解释
 
-
 ## 戴维森 Davidson
 
 达恩·A·戴维森 (Dan A. Davidson)
@@ -253,13 +306,12 @@ M.T.Keshe，中文名迈赫兰·塔瓦科利·凯史，男，1958年出生于伊
 
 《神奇矿物质溶液-MMS使用手册》
 
--   1858-1947 普朗克
-    马克斯·普朗克（全名：马克斯·卡尔·恩斯特·路德维希·普朗克，Max Karl
-    Ernst Ludwig Planck，1858年4月23日---1947年10月4日）
--   1871-1937 卢瑟福 欧内斯特·卢瑟福（Ernest
-    Rutherford，1871年8月30日---1937年10月19日）
+- 
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
-[1854lorentz]: 1854lorentz.md "1853-1928 洛伦兹 Lorentz"
+[1791faraday]: 1791faraday.md "1791-1867 法拉第 Faraday"
+[1853lorentz]: 1853lorentz.md "1853-1928 洛伦兹 Lorentz"
+[1858planck]: 1858planck.md "1858-1947 普朗克 Planck"
+[1856thomson]: 1856thomson.md "1856-1940 汤姆逊 Thomson"
 [//end]: # "Autogenerated link references"

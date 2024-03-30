@@ -20,7 +20,7 @@
   - [[2dn-sci-manlist-phy]]
   - [[2dn-sci-manlist-phy-uhis]]
   - [[2dn-sci-nuclear-timeline]]
-  - [[1科学重点事件]]
+  - [[2dn-sci-em-timeline]]
   - [[1电磁原子的物理现象]]
 - 文献 
   - [[1865电磁场的动力学理论]]
@@ -33,7 +33,7 @@
 [2dn-sci-manlist-phy]: kb-sci-physics/1who/2dn-sci-manlist-phy.md "物理正史人物清单"
 [2dn-sci-manlist-phy-uhis]: kb-sci-physics/1who/2dn-sci-manlist-phy-uhis.md "野史史人物清单"
 [2dn-sci-nuclear-timeline]: kb-sci-physics/2what/2dn-sci-nuclear-timeline.md "核物理重要发现时间线"
-[1科学重点事件]: kb-sci-physics/2what/1%E7%A7%91%E5%AD%A6%E9%87%8D%E7%82%B9%E4%BA%8B%E4%BB%B6.md "科学重点事件"
+[2dn-sci-em-timeline]: kb-sci-physics/2what/2dn-sci-em-timeline.md "电磁学重要发现时间线"
 [1电磁原子的物理现象]: kb-sci-physics/2what/1%E7%94%B5%E7%A3%81%E5%8E%9F%E5%AD%90%E7%9A%84%E7%89%A9%E7%90%86%E7%8E%B0%E8%B1%A1.md "1电磁原子的物理现象"
 [1865电磁场的动力学理论]: kb-sci-physics/3doc/1831maxwell/1865%E7%94%B5%E7%A3%81%E5%9C%BA%E7%9A%84%E5%8A%A8%E5%8A%9B%E5%AD%A6%E7%90%86%E8%AE%BA.md "1865电磁场的动力学理论"
 [1865电磁通论摘录]: kb-sci-physics/3doc/1831maxwell/1865%E7%94%B5%E7%A3%81%E9%80%9A%E8%AE%BA%E6%91%98%E5%BD%95.md "1865电磁通论摘录"

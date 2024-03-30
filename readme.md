@@ -17,8 +17,8 @@
 # 目录
 - 史实
   - [[1dn-sci-manlist-math]]
-  - [[1dn-sci-manlist-phy]]
-  - [[1dn-sci-manlist-phy-uhis]]
+  - [[2dn-sci-manlist-phy]]
+  - [[2dn-sci-manlist-phy-uhis]]
   - [[1科学重点事件]]
   - [[1电磁原子的物理现象]]
 - 文献 

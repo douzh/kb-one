@@ -24,8 +24,8 @@
   - [[2dn-sci-em-timeline]]
   - [[1电磁原子的物理现象]]
 - 文献 
-  - [[1865电磁场的动力学理论]]
-  - [[1865电磁通论摘录]]
+  - [[1865dynamical-theory-emf]]
+  - [[1873treatise-em]]
 
 
 

@@ -62,8 +62,11 @@ There is always, however, enough of matter left to receive and transmit the undu
 We have therefore some reason to believe, from the phenomena of light and heat, that there is an aethereal medium filling space and permeating bodies, capable of being set in motion and of transmitting that motion from one part to another, and of communicating that motion to gross matter so as to heat it and affect it in various ways.
 
 （4） 电磁场是在电或磁条件下包含并围绕物体的空间部分。
+
 它可能充满了任何种类的物质，或者我们可能会努力使它没有所有的总物质，就像GEISSLER的管子和其他所谓的真空吸尘器一样。
+
 然而，总有足够的物质来接收和传输光和热的波动，正是因为当具有可测量密度的透明体取代所谓的真空时，这些辐射的传输不会发生很大变化，所以我们不得不承认，这些波动是空灵物质的波动，而不是总物质的波动，它的存在只是在某种程度上改变了以太的动作。
+
 因此，我们有理由相信，从光和热的现象来看，存在一种充满空间和渗透体的以太介质，它能够运动，并将运动从一个部分传递到另一个部分，并将这种运动传递给总物质，从而以各种方式加热和影响它。
 
 (5) Now the energy communicated to the body in heating it must have formerly existed in the moving medium, for the undulations had left the source of heat some time before they reached the body, and during that time the energy must have been half in the form of motion of the medium and half in the form of elastic resilience. From these considerations Professor W. THOMSON has argued, that the medium must have a density capable of comparison with that of gross matter, and has even assigned an inferior limit to that density.

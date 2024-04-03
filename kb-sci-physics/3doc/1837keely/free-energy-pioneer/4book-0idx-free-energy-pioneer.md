@@ -27,7 +27,7 @@ Part II: Secrets of Occult Technology
 4. [动力千年：基利的最后几年](4book-fep-1-4.md)
 5. [消失：基利谜团的最后阶段](4book-fep-1-5.md)
 6. [揭示谎言的剖析](4book-fep-1-6.md)
-7. 理解艺术：基利的发现 
+7. [理解艺术：基利的发现](4book-fep-1-7.md)
 8. 中性点的囚徒：基利的反重力实验 
 
 第二部分：神秘技术的秘密 

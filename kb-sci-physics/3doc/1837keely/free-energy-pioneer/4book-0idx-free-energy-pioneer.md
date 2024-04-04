@@ -21,36 +21,37 @@ Part II: Secrets of Occult Technology
 5.  Into the Realms of Speculation: Anomalous Documentation and Mythological Tales
 
 第一部分：约翰·沃雷尔·基利的生平与时代 
-1. [以太的发现者：约翰·基利的早年生活](4book-fep-1-1.md)
-2. [分子舞蹈的地方：第一个十年](4book-fep-1-2.md)
-3. [新力量的预言者：第三个十年](4book-fep-1-3.md)
-4. [动力千年：基利的最后几年](4book-fep-1-4.md)
-5. [消失：基利谜团的最后阶段](4book-fep-1-5.md)
-6. [揭示谎言的剖析](4book-fep-1-6.md)
-7. [理解艺术：基利的发现](4book-fep-1-7.md)
-8. 中性点的囚徒：基利的反重力实验 
+1. [以太的发现者：约翰·基利的早年生活](4book-fep-1.md)
+2. [分子舞蹈的地方：第一个十年](4book-fep-2.md)
+3. [新力量的预言者：第三个十年](4book-fep-3.md)
+4. [动力千年：基利的最后几年](4book-fep-4.md)
+5. [消失：基利谜团的最后阶段](4book-fep-5.md)
+6. [揭示谎言的剖析](4book-fep-6.md)
+7. [理解艺术：基利的发现](4book-fep-7.md)
+8. [中性点的囚徒：基利的反重力实验](4book-fep-8.md)
 
 第二部分：神秘技术的秘密 
-1. 巫师的学徒：神秘联系 
-2. 秘密传统：神秘技术和自由能源 
-3. 来自亚特兰蒂斯的Vril：基利的遗产 
-4. 19世纪的大飞艇浪潮 
-5. 进入推测的领域：异常文献和神话故事
+1. [巫师的学徒：神秘联系](4book-fep-9.md)
+2. [秘密传统：神秘技术和自由能源](4book-fep-10.md)
+3. [来自亚特兰蒂斯的Vril：基利的遗产](4book-fep-11.md)
+4. [19世纪的大飞艇浪潮](4book-fep-12.md)
+5. [进入推测的领域：异常文献和神话故事](4book-fep-13.md)
 
 Over a century ago, a man in Philadelphia made the most important discovery of all time: a mysterious source of free, unlimited energy. He experimented with the substance for years, building a staggering 2,000 machines and devices that ran on his esoteric force.
 
+一个世纪以前，费城的一个人发现了有史以来最重要的发现：一种神秘的自由、无限能源。他对这种物质进行了多年的实验，建造了2,000台机器和装置，运行在他的神秘力上。 
+
 His eccentric vision led him to experiment with anti-gravity and the disintegration of solid matter. Numerous people witnessed his demonstrations, and his work was well known to Nikola Tesla, Jules Verne and Thomas Edison. The occult underground was inescapably drawn to him, and early science fiction still owes him a debt of gratitude. The name of the enigmatic inventor: John Worrell Keely. He was one of the world's first and foremost free-energy pioneers.
+
+他的古怪想法让他尝试抗重力和固体物质的瓦解。许多人见证了他的演示，他的工作被尼古拉·特斯拉、儒勒·凡尔纳和托马斯·爱迪生广泛知晓。神秘的地下组织不可避免地被吸引到他身上，早期的科幻小说仍然欠他一个恩情。这位神秘的发明家的名字叫约翰·沃雷尔·基利。他是世界上最早和最杰出的自由能源先驱之一。 
+ 
 
 In a dazzling and extremely detailed tour de force, European author and researcher Theo Paijmans takes us on a unique journey through the very underground of freeenergy research, exploring the depths of numerous secret societies and occult orders, and examining the influence of these mysterious techno-occultists and their incredible ideas - including the ultimate evolution of humans through free-energy. Paijmans clearly demonstrates that Keely and these inventors did not work in isolation, but in the confines of a very secret and silent tradition - the tradition of occult technology.
 
+欧洲作家和研究员西奥·佩曼斯通过一次令人眼花缭乱的非常详细的壮举带领我们穿越自由能源研究的地下世界，探索了众多秘密社团和神秘组织的深处，探讨了这些神秘的技术-神秘主义者及其令人难以置信的想法的影响，包括通过自由能源的最终人类进化。佩曼斯清楚地证明，基利和这些发明家并不是孤立工作的，而是在一种非常秘密和沉默的传统中工作——神秘主义技术传统。 
+
 Introduction by noted Fortean and paranormal researcher John A. Keel.
 
-一个世纪以前，费城的一个人发现了有史以来最重要的发现：一种神秘的自由、无限能源。他对这种物质进行了多年的实验，建造了2,000台机器和装置，运行在他的神秘力上。 
- 
-他的古怪想法让他尝试抗重力和固体物质的瓦解。许多人见证了他的演示，他的工作被尼古拉·特斯拉、儒勒·凡尔纳和托马斯·爱迪生广泛知晓。神秘的地下组织不可避免地被吸引到他身上，早期的科幻小说仍然欠他一个恩情。这位神秘的发明家的名字叫约翰·沃雷尔·基利。他是世界上最早和最杰出的自由能源先驱之一。 
- 
-欧洲作家和研究员西奥·佩曼斯通过一次令人眼花缭乱的非常详细的壮举带领我们穿越自由能源研究的地下世界，探索了众多秘密社团和神秘组织的深处，探讨了这些神秘的技术-神秘主义者及其令人难以置信的想法的影响，包括通过自由能源的最终人类进化。佩曼斯清楚地证明，基利和这些发明家并不是孤立工作的，而是在一种非常秘密和沉默的传统中工作——神秘主义技术传统。 
- 
 该书的介绍由著名的超自然和神秘研究员约翰·A·基尔撰写。
 
 To my parents, my brother Robin and his Charity. To my little niece Anouk, my beloved Anouk Helder and her parents.

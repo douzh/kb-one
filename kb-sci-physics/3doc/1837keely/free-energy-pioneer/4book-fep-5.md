@@ -118,7 +118,7 @@ Doubts among those interested in Keely's legacy arose once more: "The late inven
 
 那些对基利的遗产感兴趣的人再次产生了怀疑：“已故发明家基利的神秘秘密今天和他活着的时候一样被牢牢地锁住了，汽车公司的董事或许多股东都不知道基利在论文或模型方面留下了什么。”几天后，《科学美国人》想知道，“他留下的大量手稿是否有价值，还有待观察。”
 
-On December 1, Keely's will did turn up; perhaps it was found during Mrs. Keely's search of his workshop. Keely's widow was made sole legatee and testatrix of an estate of $10,000. The will made no mention whatsoever of his motor.
+On December 1, Keely's will did turn up; perhaps it was found during Mrs. Keely's search of his workshop. Keely's widow was made sole legatee and testatrix of an estate of \$10,000. The will made no mention whatsoever of his motor.
 
 By December 5, the Board of Directors of the Keely Motor Company were in high hopes again. Much was expected from a conference to be held between Ackermann, Schuellerman who represented the company, and Charles S. Hill, attorney for Mrs. Keely.
 
@@ -210,7 +210,7 @@ There were also Keely's engines, which by this time had also disappeared. It was
 
 还有基利的发动机，到这个时候也不见了。有人多次表示，Keely建造并丢弃了129种不同型号的奇妙发动机，其中50种是Keely自己制造的，而Keely本人曾表示他已经制造了“2000种！”
 
-Many of the engines were no longer in existence because they were sold as "scrap iron" as Schuellerman stated. Babcock wrote: "many tons of these have been sold from time to time as old iron, brass and copper. One apparatus thus disposed of weighed twenty-two tons. Several similar ones, though somewhat lighter, have likewise gone to the scrap-heap. From this source money has often been raised by the inventor." With these funds, he was able to continue his researches at a time when the Keely Motor Company left him without any financial support. Not that he earned much money from the sale of his discarded devices. At one time Collier lamented that, "Our generator, which cost us $60,000, we were forced to sell for $200 as old form." Keely, or the companies that built his devices destroyed his older prototypes whenever a new, smaller and better one was built. This was customary from the beginning, and in 1881 Babcock remarked that, "had they all been preserved, (they) would make an interesting museum of mechanical curiosities."
+Many of the engines were no longer in existence because they were sold as "scrap iron" as Schuellerman stated. Babcock wrote: "many tons of these have been sold from time to time as old iron, brass and copper. One apparatus thus disposed of weighed twenty-two tons. Several similar ones, though somewhat lighter, have likewise gone to the scrap-heap. From this source money has often been raised by the inventor." With these funds, he was able to continue his researches at a time when the Keely Motor Company left him without any financial support. Not that he earned much money from the sale of his discarded devices. At one time Collier lamented that, "Our generator, which cost us \$60,000, we were forced to sell for \$200 as old form." Keely, or the companies that built his devices destroyed his older prototypes whenever a new, smaller and better one was built. This was customary from the beginning, and in 1881 Babcock remarked that, "had they all been preserved, (they) would make an interesting museum of mechanical curiosities."
 
 正如舒尔曼所说，许多发动机已经不复存在，因为它们被当作“废铁”出售。巴布科克写道：“这些东西中有很多吨是作为旧铁、黄铜和铜不时出售的。这样处理的一台设备重达22吨。一些类似的设备虽然有些轻，但也被扔进了废料堆。发明家经常从这个来源筹集资金。” 有了这些资金，他得以在基利汽车公司没有任何资金支持的情况下继续研究。并不是说他通过出售被丢弃的设备赚了多少钱。科利尔曾哀叹道：“我们的发电机花了6万美元，但我们被迫以200美元的价格出售。” 基利，或者说，每当制造出一个新的、更小的、更好的原型时，制造他的设备的公司就会销毁他的旧原型。这从一开始就是惯例，1881年巴布科克评论道，“如果它们都被保存下来，（它们）将成为一个有趣的机械古玩博物馆。”
 
@@ -340,7 +340,7 @@ Perhaps a detailed inventory was made of the remaining devices at the time of hi
 
 Behind the scene, the battle over the rights of ownership of the engines continued. Hill stated to a reporter that, "Whatever the property rights may be, that question will remain in abeyance. The company has simply agreed to turn over the machines to Mr. Kinraide for his experiments."
 
-On January 3, 1899, an inventory of Keely's personal estate was filed with Register of Wills Hackett: "An inventory of the personal estate of the late inventor John W. Keely, the appraisal being placed at $1,536." The only reference to the famous motor was the following unspecified clause: "Fifteen pieces of experimental apparatus, a certain right of unknown valuation in certain uncompleted and unpatented inventions."
+On January 3, 1899, an inventory of Keely's personal estate was filed with Register of Wills Hackett: "An inventory of the personal estate of the late inventor John W. Keely, the appraisal being placed at \$1,536." The only reference to the famous motor was the following unspecified clause: "Fifteen pieces of experimental apparatus, a certain right of unknown valuation in certain uncompleted and unpatented inventions."
 
 在幕后，争夺发动机所有权的斗争仍在继续。希尔向一名记者表示，“无论产权是什么，这个问题都将被搁置。该公司只是同意将机器移交给金雷德先生进行实验。”
 

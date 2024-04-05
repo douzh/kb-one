@@ -252,8 +252,51 @@ It was obvious to me from this conclusion that the strength of the magnetic fiel
 
 这个结论明显的告诉我，磁场强度和输入的电能无关。一旦给定材料的原子完全排序完成，输入能量大1000倍永磁体的磁场强度也不增加。因此，上面的事实12-C进一步证实了12-A。
 
-D.The facts also taught that if one took a permanent magnet (such as in Figure 12-01 below) which has a strong magnetic field and heated the magnet to its Curie temperature, the magnetic field would virtually disappear! (See Figure 12-D2 below.)
+D.The facts also taught that if one took a permanent magnet (such as in Figure 12-D1 below) which has a strong magnetic field and heated the magnet to its Curie temperature, the magnetic field would virtually disappear! (See Figure 12-D2 below.)
 
 事实同样说明如果一个人将一块有很强磁场强度永磁铁加热到它的居里温度，磁场将消失于无形！
 
 ![](assets/12-D1.png)
+
+Again, it was obvious to me that the magnetic field disappeared in Figure 12-D2 because the heat input created a random atomic motion and non-alignment within the material. One can clearly see that in Figure 12-D2 one is transferring energy into the system of the magnetic material, i.e., one is not taking energy from the magnetic material and yet the magnetic field virtually disappears.
+
+对我来说这是很显而易见的，图12-D2的磁场消失，因为加热使原子无规则运动，材料中没有了排序。可以清楚的看到图12-D2中，传入能量到磁体材料系统中，从中没得到磁体材料上的能量，可以磁场消失于无形。
+
+13.The conclusions which I drew from the above FACTS l- 12D clearly proved to me the following:
+
+从上面FACTS 1-12D中得到的结论清楚的证明下面的结论：
+
+- A.The energy in a magnetic field is the energy which comprises the component parts of the atoms from which the energy comes!
+- B.The energy in a magnetic field is therefore literally Einstein’s Equation of E = MC2 !
+- C. The energy in a magnetic field must be moving in a direction at the speed of light and must also have a gyroscopic spin at the speed of light: herein lies the mechanical essence of $E = MC^2$ !
+
+- A.磁场能量来自原子中的组成部分！
+- B.磁场中的能量真正的符合爱因斯坦的方程 $E = MC^2$ 
+- C.磁场中的能量一定在一个方向上以光速运动，一定是以光速陀螺仪式的快速旋转：这是 $E = MC^2$ 力学的本质！
+
+
+The Kinetic Energy of a moving particle is 1/2 MV2. If the particle is moving with speed V and also rotating about its axis at speed V,  then the total Kinetic Energy is 1/2 MV2 (for forward motion) plus  1/2 MV2 (for the rotational motion [not  1/2 Iw2]) which equals MV2 . If V is equal to C, then the total Kinetic Energy is equal to MC2 (Hypothetically, this particle is mathematically an infinitely small entity which, in a literal and mechanical sense, moves laterally and rotationally to generate a gyroscopic \[spiral\] helix effect.)
+
+运动中的粒子的动能是  $1/2 MV^2$ 。如果粒子以速度V运动并绕轴线以V做圆周运动，总动能是$1/2 MV^2$前进运动）加$1/2 MV^2$圆周运动[不是 $1/2 Iw^2$]）等于MV2。如果V等于C，总动能是 $MC^2$（假想，粒子是算术无穷小的粒子，在字面和力学意义上，横向旋转运动产生陀螺仪螺旋效果）。
+
+D.The literal and mechanical configuration of a magnetic field is simply a result of the summation of atom alignment within the material from which the magnetic field is generated.
+
+D.字面和实际磁场的结构只是生成磁场的材料原子排序的总的结果。
+
+E.At Dhis time, I had also mechanically explained why electric charges as well as magnets attracted and repelled. (Conventional teachings only state that "like" magnetic poles repel and "unlike" magnetic poles attract. It is also said that "like" electrical charges repel and "unlike" electrical charges attract. This is a superficial analysis.) The answer to such attraction/repulsion is simple. The gyroscopic spin has a mechanical action which causes the observed results and can be mechanically understood and predicted.
+
+E.这时，这已经力学的解释了为什么电荷也和磁体一样会吸引和排斥。（传统教学只说“同”极排斥，“异”极相吸。也说“相同”电荷排斥“相异”电荷吸引。这是肤浅的分析。）吸引/排斥的答案很简单。陀螺仪式旋转会产生一种力学行为，这引起观察到的结果并可力学的理解和预测。
+
+F.The same conventional and superficial analysis was also applied to electric charges, i.e., "like" charges repel and "unlike" charges attract. My mechanical explanation concerning electric charges was developed 3/2 years before I understood the gyroscopic composition of magnetic fields. In essence, I mechanically viewed the electric charges as rotating arrows similar to the mechanics of gear interaction. This enabled me to easily envision and draw the mechanical effects of attraction and repulsion. However, I did not call this mechanical effect of attraction and repulsion a gyroscopic effect since (at that time) I had still not studied gyroscopes. Upon understanding gyroscopes, I instantly understood that the mechanics I had originally drawn for electric charges was a gyroscopic action. The fact that the same mechanical explanation for gyroscopic action explained both magnetism and electric charges made me even more certain of the correctness of the mechanical explanation. [Electric charges consist of millions (plus) of gyroscopic particles and such charges will be discussed in more detail in a later chapter (Sections 29 A-M) discussing gravity.] At this point, you should first intellectually master the concept and mechanical nature of magnetism.
+
+F.同样传统浅显的分析也用于电荷，“相同”电荷排斥“相异”电荷吸引。我的关于电荷的力学的解释在一年半以前，在我理解磁场陀螺仪式的组成以前。本质上，我力学的把电荷看作旋转的箭头，和机械中的齿轮运动相似。这可以让我很容易想象的画出吸引和排斥的力学效果。然而，我没有把这种吸引和排斥的力学效果叫做陀螺仪效果，那时我还没学习陀螺仪理论。自从理解了陀螺仪，我马上理解我原来对电荷描绘的力学是陀螺运动。实际上，对陀螺仪的力学解释同样是磁场和电荷的力学解释，使我更加确信这种力学解释的正确性。\[电荷由无数陀螺粒子组成，这样的粒子将在后面讨论重力时详细讨论。\]这时，你应该第一时间熟知这个观念和磁性的力学原理。
+
+The following two pages of drawings describe MAGNETS IN REPULSION and MAGNETS IN ATTRACTION, (as  well  as electrical  repulsion  and attraction),  visually explaining  the discussion  in  13 A-E. These drawings have been unselfishly produced for me by_ Mr. Evan R. Soule', Jr. (talented artist and teacher). See also the following pages presenting a Technical Description of the drawings. This Technical Description was also unselfishly written by Mr. Evan R. Soule', Jr. from information developed by me, with the purpose being that if Mr. Soule' could understand what I have taught, then as an experienced teacher he could put forth this information so that you, the reader, would also understand.
+
+下面的两页图描述排斥的磁场和吸引的磁场，（同样适用于电荷的吸引与排斥），解释13 A-E的讨论。这些图是Mr. Evan R. Soule', Jr.（天才的艺术家和老师）无私制作的。下面还有图的技术说明。技术说明同样是Mr. Evan R. Soule', Jr.根据我发布的信息无私的写的，我发布信息带着这样的目的，如果Mr. Soule'能理解我所说的，那么一个经验丰富的教师能传播这些信息，这样你、读者都将可以理解。
+
+![](assets/13-1.png)
+
+![](assets/13-2.png)
+
+

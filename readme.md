@@ -28,7 +28,7 @@
   - 麦克斯韦 [[1873treatise-em]]
   - 麦克斯韦 [[1873treatise-em-54ether-vortices]]
   - Keely [[4book-0idx-free-energy-pioneer]]
-  - Russell [[4book-0idx-book-russell]]]
+  - Russell [[4book-0idx-book-russell]]
   - Newman [[4book-0dix-emn]]
 - [[0dix-sci-wave]]
 - [[0idx-sci-vertex]]

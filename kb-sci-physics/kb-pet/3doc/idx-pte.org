@@ -1,33 +1,33 @@
 
 ** 元素
-1：氢：qīng：H：Hydrogen
-2：氦：hài：He：Helium
-3：锂：lǐ：Li：Lithium
-4：铍：pí：Be：Beryllium
-5：硼：péng：B：Boron
+1：氢：qīng：H：Hydrogen 1787年 拉瓦锡
+2：氦：hài：He：Helium 1868年 皮埃尔·让森
+3：锂：lǐ：Li：Lithium 1817年 阿弗韦聪
+4：铍：pí：Be：Beryllium 1798年 沃克兰
+5：硼：péng：B：Boron 1808年 戴维
 6：碳：tàn：C：Carbon
-7：氮：dàn：N：Nitrogen
-8：氧：yǎng：O：Oxygen
-9：氟：fú：F：Fluorine
-10：氖：nǎi：Ne：Neon
-11：钠：nà：Na：Sodium
-12：镁：měi：Mg：Magnesium
-13：铝：lǚ：Al：Aluminium
-14：硅：guī：Si：Silicon
-15：磷：lín：P：Phosphorus
-16：硫：liú：S：Sulphur
-17：氯：lǜ：Cl：Chlorine
-18：氩：yà：Ar：Argon
-19：钾：jiǎ：K：Potassium
-20：钙：gài：Ca：Calcium
-21：钪：kàng：Sc：Scandium
-22：钛：tài：Ti：Titanium
-23：钒：fán：V：Vanadium
-24：铬：gè：Cr：Chromium
-25：锰：měng：Mn：Manganese
-26：铁：tiě：Fe：Iron
-27：钴：gǔ：Co：Cobalt
-28：镍：niè：Ni：Nickel
+7：氮：dàn：N：Nitrogen 1787年 拉瓦锡
+8：氧：yǎng：O：Oxygen 1774年 舍勒
+9：氟：fú：F：Fluorine 19世纪初 安培
+10：氖：nǎi：Ne：Neon 1898年 拉姆塞
+11：钠：nà：Na：Sodium  19世纪初 戴维
+12：镁：měi：Mg：Magnesium 1808年 戴维
+13：铝：lǚ：Al：Aluminium 1809年 拉瓦锡
+14：硅：guī：Si：Silicon 1787年 拉瓦锡
+15：磷：lín：P：Phosphorus 1669年 布兰德
+16：硫：liú：S：Sulphur 1776年 拉瓦锡
+17：氯：lǜ：Cl：Chlorine 1810年 戴维
+18：氩：yà：Ar：Argon 1894年 
+19：钾：jiǎ：K：Potassium 1808年 戴维
+20：钙：gài：Ca：Calcium 1808年 戴维
+21：钪：kàng：Sc：Scandium 19世纪晚期 克利夫
+22：钛：tài：Ti：Titanium 1795年 
+23：钒：fán：V：Vanadium 1803年 里欧
+24：铬：gè：Cr：Chromium 1798年 沃克兰
+25：锰：měng：Mn：Manganese 1774年 姜翰
+26：铁：tiě：Fe：Iron 
+27：钴：gǔ：Co：Cobalt 1735年 Brandt
+28：镍：niè：Ni：Nickel 1775年 Bergman
 29：铜：tóng：Cu：Copper
 30：锌：xīn：Zn：Zinc
 31：镓：jiā：Ga：Gallium

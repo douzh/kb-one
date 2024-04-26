@@ -28,72 +28,72 @@
 26：铁：tiě：Fe：Iron 
 27：钴：gǔ：Co：Cobalt 1735年 Brandt
 28：镍：niè：Ni：Nickel 1775年 Bergman
-29：铜：tóng：Cu：Copper
+29：铜：tóng：Cu：Copper 
 30：锌：xīn：Zn：Zinc
-31：镓：jiā：Ga：Gallium
-32：锗：zhě：Ge：Germanium
-33：砷：shēn：As：Arsenic
-34：硒：xī：Se：Selenium
-35：溴：xiù：Br：Bromine
-36：氪：kè：Kr：Krypton
-37：铷：rú：Rb：Rubidium
-38：锶：sī：Sr：Strontium
-39：钇：yǐ：Y：Yttrium
-40：锆：gào：Zr：Zirconium
-41：铌：ní：Nb：Niobium
-42：钼：mù：Mo：Molybdenum
-43：锝：dé：Tc：Technetium
-44：钌：liǎo：Ru：Ruthenium
-45：铑：lǎo：Rh：Rhodium
-46：钯：bǎ：Pd：Palladium
-47：银：yín：Ag：Silver
-48：镉：gé：Cd：Cadmium
-49：铟：yīn：In：Indium
-50：锡：xī：Sn：Tin
-51：锑：tī：Sb：Antimony
-52：碲：dì：Te：Tellurium
-53：碘：diǎn：I：Iodine
-54：氙：xiān：Xe：Xenon
-55：铯：sè：Cs：Cesium
-56：钡：bèi：Ba：Barium
-57：镧：lán：La：Lanthanum
-58：铈：shì：Ce：Cerium
-59：镨：pǔ：Pr：Praseodymium
-60：钕：nǚ：Nd：Neodymium
-61：钷：pǒ：Pm：Promethium
-62：钐：shān：Sm：Samarium
-63：铕：yǒu：Eu：Europium
-64：钆：gá：Gd：Gadolinium
-65：铽：tè：Tb：Terbium
-66：镝：dí：Dy：Dysprosium
-67：钬：huǒ：Ho：Holmium
-68：铒：ěr：Er：Erbium
-69：铥：diū：Tm：Thulium
-70：镱：yì：Yb：Ytterbium
-71：镥：lǔ：Lu：Lutetium
-72：铪：hā：Hf：Hafnium
-73：钽：tǎn：Ta：Tantalum
-74：钨：wū：W：Tungsten
-75：铼：lái：Re：Rhenium
-76：锇：é：Os：Osmium
-77：铱：yī：Ir：Iridium
-78：铂：bó：Pt：Platinum
-79：金：jīn：Au：Gold
+31：镓：jiā：Ga：Gallium 1871年 门捷列夫 预言 1875年证实
+32：锗：zhě：Ge：Germanium 1871年 门捷列夫 预言 1885年发现
+33：砷：shēn：As：Arsenic 13世纪
+34：硒：xī：Se：Selenium 1818年 贝采利乌斯
+35：溴：xiù：Br：Bromine 1825年 卡尔·贾古柏·罗威
+36：氪：kè：Kr：Krypton 1898年 拉姆赛
+37：铷：rú：Rb：Rubidium  1861年 本生
+38：锶：sī：Sr：Strontium 1808年 戴维
+39：钇：yǐ：Y：Yttrium 1828年
+40：锆：gào：Zr：Zirconium 1789年 Klaproth
+41：铌：ní：Nb：Niobium 钶 Cb 1844年
+42：钼：mù：Mo：Molybdenum 1782年 埃尔姆
+43：锝：dé：Tc：Technetium 1871年 门捷列夫 预言
+44：钌：liǎo：Ru：Ruthenium 1844年 克劳斯
+45：铑：lǎo：Rh：Rhodium 1803年 武拉斯顿
+46：钯：bǎ：Pd：Palladium 1803年 武拉斯顿
+47：银：yín：Ag：Silver 
+48：镉：gé：Cd：Cadmium 1817年 斯特罗迈尔
+49：铟：yīn：In：Indium 1863年 赖希和李希特
+50：锡：xī：Sn：Tin 
+51：锑：tī：Sb：Antimony 18世纪
+52：碲：dì：Te：Tellurium 1783年 
+53：碘：diǎn：I：Iodine 1811年 吕瓦尔
+54：氙：xiān：Xe：Xenon 1898年 特拉维斯
+55：铯：sè：Cs：Cesium 1860年 基尔霍夫
+56：钡：bèi：Ba：Barium 1808年 戴维
+57：镧：lán：La：Lanthanum 1839年 莫桑德尔
+58：铈：shì：Ce：Cerium 1803年 贝采利乌斯
+59：镨：pǔ：Pr：Praseodymium 1885年
+60：钕：nǚ：Nd：Neodymium 1885年
+61：钷：pǒ：Pm：Promethium 1945年
+62：钐：shān：Sm：Samarium 1879年
+63：铕：yǒu：Eu：Europium 1901年
+64：钆：gá：Gd：Gadolinium 1880年
+65：铽：tè：Tb：Terbium 1843年 莫桑德尔
+66：镝：dí：Dy：Dysprosium 1886年 
+67：钬：huǒ：Ho：Holmium 1878年
+68：铒：ěr：Er：Erbium 1843年
+69：铥：diū：Tm：Thulium 1878年
+70：镱：yì：Yb：Ytterbium 1878年
+71：镥：lǔ：Lu：Lutetium 1906年
+72：铪：hā：Hf：Hafnium 1923年 赫维西
+73：钽：tǎn：Ta：Tantalum  1802年 埃克伯格
+74：钨：wū：W：Tungsten 1783年 
+75：铼：lái：Re：Rhenium 1871年 门捷列夫 预言 1925年探测到了此元素
+76：锇：é：Os：Osmium 1803年 
+77：铱：yī：Ir：Iridium 1803年
+78：铂：bó：Pt：Platinum 1735年
+79：金：jīn：Au：Gold 
 80：汞：gǒng：Hg：Mercury
-81：铊：tā：Tl：Thallium
-82：铅：qiān：Pb：Lead
-83：铋：bì：Bi：Bismuth
-84：钋：pō：Po：Polonium
-85：砹：ài：At：Astatine
-86：氡：dōng：Rn：Radon
-87：钫：fāng：Fr：Francium
-88：镭：léi：Ra：Radium
-89：锕：ā：Ac：Actinium
-90：钍：tǔ：Th：Thorium
-91：镤：pú：Pa：Protactinium
-92：铀：yóu：U：Uranium
-93：镎：ná：Np：Neptunium
-94：钚：bù：Pu：Plutonium
+81：铊：tā：Tl：Thallium 1861年 
+82：铅：qiān：Pb：Lead 公元前3000年
+83：铋：bì：Bi：Bismuth 1753年
+84：钋：pō：Po：Polonium 1898年 居里
+85：砹：ài：At：Astatine 1871年 门捷列夫 预言 1940年发现
+86：氡：dōng：Rn：Radon 1899年 卢瑟福
+87：钫：fāng：Fr：Francium 1871年 门捷列夫 预言 1939年发现
+88：镭：léi：Ra：Radium 1902年 居里
+89：锕：ā：Ac：Actinium 1899年 德拜耳尼
+90：钍：tǔ：Th：Thorium 1828年 贝齐里乌斯
+91：镤：pú：Pa：Protactinium 1871年 门捷列夫 预言 1917年发现
+92：铀：yóu：U：Uranium 1789年 克拉普罗特
+93：镎：ná：Np：Neptunium 1940年
+94：钚：bù：Pu：Plutonium 1941年
 95：镅：méi：Am：Americium
 96：锔：jú：Cm：Curium
 97：锫：péi：Bk：Berkelium

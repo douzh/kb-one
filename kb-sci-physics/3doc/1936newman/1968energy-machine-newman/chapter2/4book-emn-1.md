@@ -1,4 +1,4 @@
-# 旋涡运动
+# 第二章 旋涡运动
 
 Chapter 2 GYROSCOPIC ACTIONS
 

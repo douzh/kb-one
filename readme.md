@@ -32,7 +32,7 @@
   - Russell [[4book-0idx-book-russell]]
   - Newman [[4book-0dix-emn]]
 - [[0dix-sci-wave]]
-- [[0idx-sci-vertex]]
+- [[0idx-sci-vortex]]
 - [[0idx-sci-pet]]
 
 

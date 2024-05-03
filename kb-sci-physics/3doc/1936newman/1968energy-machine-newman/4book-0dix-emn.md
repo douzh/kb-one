@@ -1,5 +1,7 @@
 # 纽曼的能源机
 
+翻译后的PDF请到文献部分下载，这里摘取比较重要的部分。
+
 - Chapter 1 Historical Perspective
 - 第1章 历史的回顾
 - Chapter 2 Gyroscopic Actions

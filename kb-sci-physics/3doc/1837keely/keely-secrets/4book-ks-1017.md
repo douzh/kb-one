@@ -69,11 +69,32 @@ GRAVITY is the mutual attraction of atomoles.
 
 GRAVISM is the transmissive form through a medium of atomoles in the fourth state, or a medium composed of atomolini.
 
-引⼒ 是通过第四态原⼦介质或由原⼦组成的介质的传输形式。
+引⼒ 是通过第四态原⼦分子介质或由原⼦组成的介质的传输形式。
 
 ATOMOLINI are ultimate units of atomoles, and when in a liquid state are the media for the transmission of gravism. The illimitable divisibility and aggregation of matter is a logical sequence.
 
+ATOMOLINI 是原⼦分⼦的终极单位，处于液态时是重⼒传输的媒介。物质的⽆限可分性和聚合性是⼀个逻辑顺序。
 
-引力是通过第四态原子介质或由原子组成的介质的透射形式。
+![](assets/ks-1017-1.png)
 
-ATOMOLINI是ato-摩尔的终极单位，当处于液态时，它是传递引力的介质。物质的无限可分性和可分性是一个逻辑序列。
+The Law of One 
+
+太极之道
+
+This law can be broken down into three separate parts:
+I. Law of Assimilation: Every individualized object assimilates itself to all other objects.
+II. Law of Individualization: Every such object tends to asimilate all other objects to itself.
+
+该法则可分为三个独立部分：
+一、同化定律：每一个个体化的物体都会将自己同化为所有其他物体。
+二、个体化规律：每一个这样的对象都倾向于将所有其他对象同化为自己。
+
+Applying these fundamental laws to an explanation of the universe, as it is brought to human cognition, all manifestations of force may be treated as modes of vibrations. The essential differences give rise to three modes of vibration:
+- The Radiating
+- The Focalizing
+- The Dominant
+
+将这些基本定律应用于宇宙的解释，当它被带到人类的认知中时，力的所有表现都可以被视为振动模式。本质上的差异导致了三种振动模式：
+- 辐射
+- 聚焦
+- 支配者

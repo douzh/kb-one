@@ -3,6 +3,8 @@
 资料：
 - [流体空间 知乎](https://www.zhihu.com/people/fluid_space)
 - 微信公众号 流体空间
+- Sympathetic Vibratory Physics 交感震动物理
+  - [SVP](www.svpwiki.com)
 - [[vortex-tube/3doc-vortex-tube]]
 
 

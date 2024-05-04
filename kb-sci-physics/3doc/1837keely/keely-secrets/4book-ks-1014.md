@@ -54,42 +54,48 @@ Keely's first efforts toward disintegration of the elements of water were succes
 
 "In the dissociation of water, molecular and intermolecular dissociation produces the first order of ozone, which is refreshing and vitalizing to breathe. Atomic and interatomic dissociation produces the second order of ozone, which is too pure to breathe, for it produces insensibility." The third order of ozone, produced by etheric and interetheric dissociation, Keely used in his "carbon register" to produce a high vibratory circuit to break up cohesion, which he recognized as molecular magnetism. It is possible that this "dissociation" in the "carbon register" depolarized the iron molecules by allowing the corpuscular outreach to return within the molecular embrace. The acceleration of vibration producing these different orders is governed by the introductory impulse and the subsequent chords, as arranged in his Liberator, by which he dissociated water. In molecular dissociation he used one fork of 620, setting chords on the first octave. In atomic separation, he used two forks, one of 620 and one of 630, setting chords on the second octave. In etheric separation he used three forks, one of 620, one of 630 and one of 12,000, setting the chords on the third octave.
 
-“在水的离解过程中，分子和分子间离解产生一级臭氧，使人耳目一新，呼吸充满活力。原子和原子间离解产生二级臭氧，臭氧太纯净，无法呼吸，因为它会产生麻木感。”第三级臭氧由以太和以太间离解产生，Keely在他的“碳寄存器”中使用它来产生一个高振动回路，破坏内聚力，他认为这是分子磁性。这种在“碳寄存器”中的“解离”可能通过允许粒子外展回到分子怀抱中来使铁分子去极化。产生这些不同阶数的振动加速度由引入脉冲和随后的和弦决定，正如他在《解放者》中所安排的那样，他通过这些和弦离解水。在分子离解中，他使用了620的一个音叉，在第一个八度音阶上设置和弦。在原子分离中，他使用了两个叉子，一个620，一个630，在第二个八度音阶上设置和弦。在以太分离中，他使用了三个分叉，一个620，一个630和一个12000，将和弦设置在第三个八度音阶上。
+中文: “在水的离解过程中，分子和分子间离解产生一级臭氧，使人耳目一新，呼吸充满活力。原子和原子间离解产生二级臭氧，臭氧太纯净，无法呼吸，因为它会产生麻木感。”第三级臭氧由以太和以太间离解产生，Keely在他的“碳寄存器”中使用它来产生一个高振动回路，破坏内聚力，他认为这是分子磁性。这种在“碳寄存器”中的“解离”可能通过允许粒子外展回到分子怀抱中来使铁分子去极化。产生这些不同阶数的振动加速度由引入脉冲和随后的和弦决定，正如他在《解放者》中所安排的那样，他通过这些和弦离解水。在分子离解中，他使用了620的一个音叉，在第一个八度音阶上设置和弦。在原子分离中，他使用了两个叉子，一个620，一个630，在第二个八度音阶上设置和弦。在以太分离中，他使用了三个分叉，一个620，一个630和一个12000，将和弦设置在第三个八度音阶上。
 
 "Not until the intermolecular structure of hydrogen is subdivided by interatomic vibrations, can it assimilate with the introductory etheric element."
 
-“直到氢的分子间结构被原子间振动细分，它才能与引入的以太元素同化。”
+中文: “直到氢的分子间结构被原子间振动细分，它才能与引入的以太元素同化。”
 
 Certain differential, dual, triple or quadruple chords act as an introductory impulse exciting action on molecular masses (liquid or gaseous) decreasing molecular oscillation. They are then in a receptive state for vibratory disintegration. The diatonic-enharmonic is sounded, increasing molecular oscillation. Molecular subdivision takes place when oscillation exceeds 50% of their diameters. (Molecular or intermolecular?) The gas is now molecularly subdivided and assumes a high velocity of rotation in any confining container, be it sphere or tube and becomes the medium or prepared subject for further disintegration. At this particular time Keely sought to further excite this preparatory medium by the use of an "illuminated revolving prism" a condenser (concave mirror or convex lens) and colored lenses, thereby giving the vibratory frequencies of their respective colors. In his disintegrator a glass tube of sufficient strength to withstand a pressure of 1000 Ibs. per square inch was arranged leading to the neutral center and the Trexar was attached to the external end of this glass tube. His use of this tube was probably also to convince the skeptics that the production of his power was genuine and possibly also was used to transmit color vibrations of such frequencies as to release the energy in the neutral center of the sphere.
 
-某些微分、对偶、三弦或四弦对分子质量（液体或气体）起到引入脉冲激励作用，从而降低分子振荡。然后，它们处于振动解体的接受状态。全声增强音响起，增加分子振荡。当振荡超过其直径的50%时，分子发生细分。（分子还是分子间？）气体现在被分子细分，并在任何封闭容器（无论是球体还是管道）中呈现高速旋转，成为介质或准备进一步分解的对象。在这个特定的时刻，Keely试图通过使用“照明旋转棱镜”、聚光镜（凹面镜或凸面透镜）和彩色透镜来进一步激发这种预备介质，从而给出它们各自颜色的振动频率。在他的崩解器中有一个玻璃管，其强度足以承受1000磅的压力。每平方英寸布置成通向中性中心，并且Trexar连接到该玻璃管的外端。他使用这种管子可能也是为了说服怀疑论者，他的力量是真实的，也可能是用来传递这种频率的彩色振动，从而释放球体中性中心的能量。
+中文: 某些微分、对偶、三弦或四弦对分子质量（液体或气体）起到引入脉冲激励作用，从而降低分子振荡。然后，它们处于振动解体的接受状态。全声增强音响起，增加分子振荡。当振荡超过其直径的50%时，分子发生细分。（分子还是分子间？）气体现在被分子细分，并在任何封闭容器（无论是球体还是管道）中呈现高速旋转，成为介质或准备进一步分解的对象。在这个特定的时刻，Keely试图通过使用“照明旋转棱镜”、聚光镜（凹面镜或凸面透镜）和彩色透镜来进一步激发这种预备介质，从而给出它们各自颜色的振动频率。在他的崩解器中有一个玻璃管，其强度足以承受1000磅的压力。每平方英寸布置成通向中性中心，并且Trexar连接到该玻璃管的外端。他使用这种管子可能也是为了说服怀疑论者，他的力量是真实的，也可能是用来传递这种频率的彩色振动，从而释放球体中性中心的能量。
 
 When the triple introductory impulse or chords in three octaves, are transmitted to the disintegrator it SUBSERVES OR RENDERS NONOPERATIVE THE MOLECULAR CONCORDANT THIRDS AND ANTAGONIZES WITH DISCORDANT THIRDS, extending their range of oscillation and thereby inducing the highest degree of repellant antagonism or repulsion toward the neutral center of the sphere volume.
 
-当三个八度音阶中的三个引入脉冲或和弦被传递到分解器时，分解器推动或提供不可操作的分子协调THIRDS和对抗的不协调THIRDS，扩大了它们的振荡范围，从而对球体体积的中性中心产生最高程度的排斥性对抗或排斥。
+中文: 当三个八度音阶中的三个引入脉冲或和弦被传递到分解器时，分解器推动或提供不可操作的分子协调THIRDS和对抗的不协调THIRDS，扩大了它们的振荡范围，从而对球体体积的中性中心产生最高程度的排斥性对抗或排斥。
 
 The etheric dominant or celestial current induces aqueous disintegration and thermal concentration which two prime conductors display a coincident chord of sympathy with the celestial current. These two prime conductors link the terrestrial to the celestial, without which electricity and magnetism would tend to become static or stable, all life and motion are governed by a dual power disturbance of equilibrium and sympathetic equation, both of which are in turn moved and regulated by electricity and magnetism.
 
-以太主导流或天流引起水分解和热集中，分解与集中与天流表现出一致的共鸣。分解与集中将地球与天体连接起来，如果没有分解和集中，电和磁往往会变得静止或稳定，所有的生命和运动都受到平衡和共振方程的双功率扰动的控制，而这两个扰动又受到电和磁的运动和调节。
+中文: 以太主导流或天流引起水分解和热集中，分解与集中与天流表现出一致的共鸣。分解与集中将地球与天体连接起来，如果没有分解和集中，电和磁往往会变得静止或稳定，所有的生命和运动都受到平衡和共振方程的双功率扰动的控制，而这两个扰动又受到电和磁的运动和调节。
 
 Progressive molecular and intermolecular dissociation reproduces on a small scale Nature's system of light production and also invariably results in vortex motion. All corpuscular action in Nature is vortex motion. The vortex action between the terrestrial and celestial streams, terrestrial condensation against solar tensions, shows conditions analogous to those displayed in the dissociation of water into hydrogen and oxygen, that is, vortex motion of the highest order, but peripheral only.
 
-渐进的分子和分子间解离在小规模上再现了自然界的光产生系统，也总是导致涡旋运动。自然界中所有的微粒作用都是旋涡运动。陆地流和天体流之间的涡旋作用，即对抗太阳张力的陆地凝结，显示出与水分解成氢气和氧气类似的条件，即最高阶但仅为外围的涡旋运动。
+中文: 渐进的分子和分子间解离在小规模上再现了自然界的光产生系统，也总是导致涡旋运动。自然界中所有的微粒作用都是旋涡运动。陆地流和天体流之间的涡旋作用，即对抗太阳张力的陆地凝结，显示出与水分解成氢气和氧气类似的条件，即最高阶但仅为外围的涡旋运动。
 
 EXAMPLE OF DISINTEGRATION
 
-分解的例子
+中文: 分解的例子
 
 If the mass chord of the disintegrator is B flat, the resonators of that structure are set at B flat first octave, B flat third octave and B flat ninth octave, by drawing out the resonator caps and clamping the set screws. A simple movement of the fingers on the diatonic scale at the head will determine by the tremulous action of the caps when exactly resonant. Neutral focalization is then established by dampening the steel rods on the back of the scale representing thirds, sixths, and ninths, by drawing a piece of small gum tube over them, which establishes harmony to the mass chord of the instrument. This effects concordance between the disintegrator and the ninths of the scale at baseof transmitter with telephone head.
 
-如果分解器的质量弦是B平坦的，则通过拔出谐振器帽并夹紧固定螺钉，将该结构的谐振器设置在B平坦的第一倍频程、B平坦的第三倍频程和B平坦的九倍频程。手指在头部全音阶上的简单运动将取决于帽子在精确共振时的颤抖动作。然后，通过在代表三分之一、六分之一和九分之一的音阶背面润湿钢杆，在钢杆上画一根小胶管，建立中性聚焦，从而与乐器的质量和弦建立和谐。这影响了分解器和带电话头的发射机底部刻度的九分之一之间的一致性。
+中文: 如果分解器的质量弦是B平坦的，则通过拔出谐振器帽并夹紧固定螺钉，将该结构的谐振器设置在B平坦的第一倍频程、B平坦的第三倍频程和B平坦的九倍频程。手指在头部全音阶上的简单运动将取决于帽子在精确共振时的颤抖动作。然后，通过在代表thirds、sixths和ninths的音阶背面润湿钢杆，在钢杆上画一根小胶管，建立中性聚焦，从而与乐器的质量和弦建立和谐。这影响了分解器和带电话头的发射机底部刻度的ninths之间的一致性。
 
 This instrument had a universal accommodator for all ninths in all multiple variations. This was possibly his sphere resonator.
 
-这台仪器有一个通用的调节器，适用于所有多种变体的所有九分之一。这可能是他的球面谐振器。
+中文: 这台仪器有一个通用的调节器，适用于所有多种变体的所有ninths。这可能是他的球面谐振器。
 
 Concordant harmony must now be established between the transmitter and the disintegrator by spinning the siren disk and waiting for the sympa- thetic note as its velocity decreases. As soon as this note sounds, the negative accelerator must be rapidly rotated inducing high disturbance of equilibrium between the disintegrator and the transmitter by triple negative evolution resulting in enormous pressure. By triple negative evolution he doubtless means disintegration to the etheric stage.
 
-现在，发射器和分解器之间必须建立和谐的和谐，方法是旋转警笛盘，并随着速度的降低等待交感音。这个音符一响，负加速器就必须迅速旋转，通过三重负演化导致巨大的压力，从而引起崩解器和发射器之间的高度平衡扰动。通过三重负进化，他无疑意味着解体到以太阶段。
+中文: 现在，发射器和分解器之间必须建立和谐的和谐，方法是旋转警笛盘，并随着速度的降低等待交感音。这个音符一响，负加速器就必须迅速旋转，通过三重负演化导致巨大的压力，从而引起崩解器和发射器之间的高度平衡扰动。通过三重负进化，他无疑意味着解体到以太阶段。
 
 ![](assets/ks-1014.png)
+
+![](assets/ks-1014-02.png)
+
+点评：这个理解着意思是一个中心点怎么演化出三正三负的物质形态
+
+联想：如果在三维空间，是不是可以抽象为一正一负四面体的梅尔卡巴

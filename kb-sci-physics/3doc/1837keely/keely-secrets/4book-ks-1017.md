@@ -98,3 +98,17 @@ Applying these fundamental laws to an explanation of the universe, as it is brou
 - 辐射
 - 聚焦
 - 支配者
+
+![](assets/ks-1017-2.png)
+
+Tones of Colors
+
+颜色的色调
+
+By using the wavelengths of various colors of light and ratioing them as one would musical tones they combine to form equivalent intervals as are found in music.
+
+通过使用各种颜色的光的波长，并将其与音乐音调进行比较，它们结合起来形成音乐中的等效音程。
+
+The colors given are of the hues or light and not of pigment.
+
+给出的颜色是色调或光线，而不是颜料。

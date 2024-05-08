@@ -61,7 +61,7 @@ INDUCTION is the transmissive force of the electric vibration in ether.
 
 MAGNETISM is the mutual attraction of juxtaposed bodies vibrating at unison or harmonic electric pitches.
 
-磁⼒ 是并列物体以⼀致或谐波电⾳调振动的相互吸引⼒。
+磁⼒ 是并列物体以⼀致或和声电⾳调振动的相互吸引⼒。
 
 GRAVITY is the mutual attraction of atomoles.
 

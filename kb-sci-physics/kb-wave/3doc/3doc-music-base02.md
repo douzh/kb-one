@@ -18,6 +18,9 @@ A=432      A=440.00
 B=486      B=493.88
 ```
 
+![](assets/music-hz432.webp)
+![](assets/music-hz.jpeg)
+
 物理上根据波动方程求解得到。弦振动频率（基频）具体表达式为：
 
 ![](assets/base02-1.webp)

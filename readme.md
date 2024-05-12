@@ -31,9 +31,11 @@
   - Keely [[4book-0idx-keely-secrets]]
   - Russell [[4book-0idx-book-russell]]
   - Newman [[4book-0dix-emn]]
-- [[0dix-sci-wave]]
-- [[0idx-sci-vortex]]
-- [[0idx-sci-pet]]
+- 物理
+  - [[0dix-sci-wave]]
+  - [[0idx-sci-vortex]]
+- 化学
+  - [[0idx-sci-pet]]
 - [[0idx-sci-math]]
 
 

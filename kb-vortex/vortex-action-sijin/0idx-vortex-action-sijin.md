@@ -29,7 +29,7 @@
 [3doc-vortex-action-sijin-03]: va03/3doc-vortex-action-sijin-03.md "3说磁性起源"
 [3doc-vortex-action-sijin-04]: va04/3doc-vortex-action-sijin-04.md "4说说现代物理学的空间与运动"
 [3doc-vortex-action-sijin-05]: va05/3doc-vortex-action-sijin-05.md "5现代磁学研究物理模型定理"
-[3doc-vortex-action-sijin-06]: va06/3doc-vortex-action-sijin-06.md "磁陀螺运动与现代物理学漫谈（6）——重论法拉第力线 ——对法拉第磁力线形成物理原理及其应用的探讨"
+[3doc-vortex-action-sijin-06]: va06/3doc-vortex-action-sijin-06.md "6重论法拉第力线"
 [3doc-vortex-action-sijin-07]: va07/3doc-vortex-action-sijin-07.md "7说说磁场空间构成形式及属性"
 [3doc-vortex-action-sijin-08]: va08/3doc-vortex-action-sijin-08.md "8陀螺运动基本原理简介"
 [3doc-vortex-action-sijin-09]: va09/3doc-vortex-action-sijin-09.md "9磁陀螺在磁场中运动基本原理"

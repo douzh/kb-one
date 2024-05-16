@@ -17,6 +17,7 @@
   - [[3doc-vortex-action-sijin-11]]
   - [[3doc-vortex-action-sijin-12]]
   - [[3doc-vortex-action-sijin-13]]
+- [[3doc-vortex-action-sijin-vae]]
 - 非系列
   - [[3doc-vortex-action-sijin-b01]]
   - [[3doc-vortex-action-sijin-b02]]

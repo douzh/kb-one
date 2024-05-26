@@ -44,7 +44,7 @@ original_url: https://zhuanlan.zhihu.com/p/72238268
 
   
 
-![](assets/1715521873-e9bbd4e431c86dcb132d891888d827d5.svg)
+![](assets/1715521873-68d90e4c3764de17a819db0f3b8b4022.jpg)
 
   
 
@@ -78,7 +78,7 @@ original_url: https://zhuanlan.zhihu.com/p/72238268
 
   
 
-![](assets/1715521873-82c2ac35a34ce80fb8fc30514cef92e9.svg)
+![](assets/1715521873-9a2d70c4e1bec8c2a91f719bb8efbc23.jpg)
 
   
 
@@ -90,7 +90,7 @@ original_url: https://zhuanlan.zhihu.com/p/72238268
 
   
 
-![](assets/1715521873-1184928c6734eaf11ad0d3f786eb2645.svg)
+![](assets/1715521873-202d0574c5b79be31eff18f3ec13a28f.jpg)
 
   
 
@@ -128,13 +128,13 @@ original_url: https://zhuanlan.zhihu.com/p/72238268
 
   
 
-![](assets/1715521873-a683992773ec686a1732af10cedb7463.svg)
+![](assets/1715521873-b75c2e892abbd76d1e65d87dff0bf782.jpg)
 
   
 
   
 
-![](assets/1715521873-e3c29b7ef403b2f623df9f3b9b9c1afe.svg)
+![](assets/1715521873-96a82102c11d4117637632ac56d695ce.jpg)
 
   
 
@@ -146,7 +146,7 @@ original_url: https://zhuanlan.zhihu.com/p/72238268
 
   
 
-![](assets/1715521873-e3146e6ec9e98b589aa007cc5cb4e1f7.svg)
+![](assets/1715521873-430c88e82c8025fa8a441600b4c87890.jpg)
 
   
 
@@ -158,7 +158,7 @@ original_url: https://zhuanlan.zhihu.com/p/72238268
 
   
 
-![](assets/1715521873-b9740ed8894f7cef5b46eded498b36bd.svg)
+![](assets/1715521873-9038aad1c5ae0f3ea48e014c2220c627.jpg)
 
   
 
@@ -176,7 +176,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-41762e69345eb1d162b4b229036a257c.svg)
+![](assets/1715521873-74a69a908d2090e55f758792eb36b5e3.jpg)
 
   
 
@@ -196,19 +196,11 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-7ceb26b25de2e91e7559320ca3772982.svg)
+![](assets/va7.jpg)
 
-  
+![](assets/va8.jpg)
 
-  
-
-![](assets/1715521873-06dc6b7fd9d89f49435cc84bc92a8538.svg)
-
-  
-
-  
-
-![](assets/1715521873-0f7df47b873c50a0c8290cf3c555e2aa.svg)
+![](assets/va9.jpg)
 
   
 
@@ -224,7 +216,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-128b8c0ac9a70aa4d55115d247125042.svg)
+![](assets/va10.jpg)
 
   
 
@@ -248,7 +240,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-67faa58445568143091dea5e95098ddf.svg)
+![](assets/va11.jpg)
 
   
 
@@ -272,7 +264,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-55ea0cee7a7b82604ffd3e07082211d5.svg)
+![](assets/va12.jpg)
 
   
 
@@ -280,13 +272,10 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-d7c9e24297d99067955c01143ce163d2.svg)
-
+![](assets/va13.jpg)
   
 
-  
-
-![](assets/1715521873-e09ae871765d9d9b3d10f6edf771df10.svg)
+![](assets/va14.jpg)
 
   
 
@@ -308,7 +297,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-8d7c49dfdda01d83a2a5e7d9da5ffd9c.svg)
+![](assets/va15.jpg)
 
   
 
@@ -318,7 +307,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-37cd5c62430b23f8328f1b678afdd8ca.svg)
+![](assets/va16.jpg)
 
   
 
@@ -330,7 +319,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-b3055573d3e8a88dc52bd4f293feeb10.svg)
+![](assets/va17.jpg)
 
   
 
@@ -342,7 +331,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-acb33865bdc78cbf30cec79cdf84d967.svg)
+![](assets/va18.jpg)
 
   
 
@@ -350,7 +339,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-e3ba6296743a147398a098664f095522.svg)
+![](assets/va19.jpg)
 
   
 
@@ -368,7 +357,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-de5af95040cfddff60d1497745e6fedd.svg)
+![](assets/va20.jpg)
 
   
 
@@ -380,7 +369,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-19c2fb7501f4b7a471b79bb57bd9e4f5.svg)
+![](assets/va21.jpg)
 
   
 
@@ -388,7 +377,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-e189cfc6789782533b07f0624fee74ed.svg)
+![](assets/va22.jpg)
 
   
 
@@ -398,7 +387,7 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-045735e78e1004fd820f84ae63eecb92.svg)
+![](assets/va23.jpg)
 
   
 
@@ -414,13 +403,13 @@ f:为小磁针片与玻璃板之间的静摩擦力，它阻止小磁针向磁体
 
   
 
-![](assets/1715521873-7038206c905e1b0f5093cf1ea736c908.svg)
+![](assets/va24.jpg)
 
   
 
   
 
-![](assets/1715521873-a84b7ffd83cdea6be736e09aebaefc0f.svg)
+![](assets/va25.jpg)
 
   
 

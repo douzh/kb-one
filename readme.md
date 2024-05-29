@@ -31,6 +31,7 @@
   - Keely [[4book-0idx-keely-secrets]]
   - Russell [[4book-0idx-book-russell]]
   - Newman [[4book-0dix-emn]]
+  - Keshe [[4book-0idx-keshe-com]]
 - 物理
   - [[0dix-sci-wave]]
   - [[0idx-sci-vortex]]
@@ -56,6 +57,7 @@
 [4book-0idx-keely-secrets]: kb-sci-doc/1837keely/keely-secrets/4book-0idx-keely-secrets.md "从未揭示的宇宙法则：基利的秘密"
 [4book-0idx-book-russell]: kb-sci-doc/1871russell/4book-0idx-book-russell.md "Russell文献"
 [4book-0dix-emn]: kb-sci-doc/1936newman/1968energy-machine-newman/4book-0dix-emn.md "纽曼的能源机"
+[4book-0idx-keshe-com]: kb-sci-doc/1958keshe/2009creation-of-matter/4book-0idx-keshe-com.md "物质造物的普遍秩序"
 [0dix-sci-wave]: kb-sci-physics/kb-wave/0dix-sci-wave.md "波物理学"
 [0idx-sci-vortex]: kb-vortex/0idx-sci-vortex.md "涡旋物理学"
 [0idx-sci-pet]: kb-sci-physics/kb-pet/0idx-sci-pet.md "元素周期律"

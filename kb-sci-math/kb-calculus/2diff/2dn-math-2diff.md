@@ -14,10 +14,6 @@ $$\Delta y=A\Delta x - o(x_0)$$
 
 $$dy= A\Delta x$$
 
-## 说明
-
-$$dy=f^`(x)dx$$
-
 ## 现实问题
 
 一块正方形金属薄片受温度变化的影响面积变化：
@@ -38,6 +34,8 @@ $$\Delta y - A\Delta x = o(x_0)$$
 
 
 是比 $\Delta x$ 高阶的无穷小所以,当 $A \ne 0$ 且 $\Delta x$ 很小时,我们就可以用 $\Delta x$  的线性函数 $A\Delta x$ 来近似代替 $\Delta y$。
+
+$$\Delta y \approx dy=f^`(x)\Delta x $$
 
 
 

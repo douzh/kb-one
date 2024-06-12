@@ -110,9 +110,39 @@ $$\int_a^{-\infty} f(x)dx=\lim\limits_{t \to -\infty}\int_a^tf(x)dx$$
 
 设函数$f(x)$在区间$[-\infty,+\infty)$上连续，如果反常积分$\int_a^{-\infty} f(x)dx$和$\int_a^{+\infty} f(x)dx$都收敛，则称上述两反常积分之和为函数$f(x)$在无穷区间$[-\infty,+\infty)$上的反常积分，记作$\int_{-\infty}^{+\infty} f(x)dx$，即
 
-$$\int_{-\infty}^{+\infty} f(x)dx=\int_{-\infty}^0 f(x)dx+\int_0^{+\infty} f(x)dx=\lim\limits_{t \to -\infty}\int_t^0f(x)+\lim\limits_{t \to +\infty}\int_0^tf(x)dx$$
+$$\int_{-\infty}^{+\infty} f(x)dx=\int_{-\infty}^0 f(x)dx+\int_0^{+\infty} f(x)dx\\
+=\lim\limits_{t \to -\infty}\int_t^0f(x)+\lim\limits_{t \to +\infty}\int_0^tf(x)dx$$
 
 这时也称反常积分$\int_{-\infty}^{+\infty} f(x)dx$收敛，否则就称反常积分$\int_{-\infty}^{+\infty} f(x)dx$发散。
 
 上述反常积分统称为无穷限的反常积分。
+
+**无界函数的反常积分**
+
+如果函数$f(x)$在点 的任一邻域内都无界,那么点$a$称为函数$f(x)$的瑕点(也称为无界间断点).无界函数的反常积分又称为瑕积分
+
+定义2 设函数$f(x)$在区间$(a,b]$上连续，点a为$f(x)$的瑕点，取$t>a$,如果极限
+
+$$\lim\limits_{t \to a^+}\int_t^bf(x)dx$$
+
+存在,则称此极限为函数$f(x)$在区间$(a,+b]$上的反常积分,记作$\int_a^b f(x)dx$，即
+
+$$\int_a^b f(x)dx=\lim\limits_{t \to a^+}\int_t^bf(x)dx$$
+
+这时也称反常积分$\int_a^b f(x)dx$收敛;如果上述极限不存在,则称为反常积分$\int_a^b f(x)dx$发散。
+
+类似地，设函数$f(x)$在区间$[a,b)$上连续，点b为$f(x)$的瑕点，取$t<b$,如果极限
+
+$$\lim\limits_{t \to b^-}\int_a^tf(x)dx$$
+
+存在，则定义
+
+$$\int_a^b f(x)dx=\lim\limits_{t \to b^-}\int_a^tf(x)dx$$
+
+否则就称反常积分$\int_a^b f(x)dx$发散。
+
+设函数$f(x)$在区间$[a,b]$上除c点$(a<c<b)$外连续，点c为$f(x)$的瑕点，如果两个反常积分$\int_a^c f(x)dx$和$\int_c^b f(x)dx$都收敛，则定义
+
+$$\int_a^b f(x)dx=\int_a^c f(x)dx+\int_c^b f(x)dx\\
+=\lim\limits_{t \to c^-}\int_a^tf(x)dx+\lim\limits_{t \to c^+}\int_t^bf(x)dx$$
 

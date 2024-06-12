@@ -88,4 +88,31 @@ $$\int_a^b f(x)dx=F(b)-F(a)=[F(x)]_a^b$$
 
 ## 反常积分
 
+定义1 设函数$f(x)$在区间$[a,+\infty)$上连续,取$t>a$,如果极限
+
+$$\lim\limits_{t \to +\infty}\int_a^tf(x)$$
+
+存在,则称此极限为函数$f(x)$在无穷区间$[a，+\infty)$上的反常积分,记作$\int_a^{+\infty} f(x)dx$，即
+
+$$\int_a^{+\infty} f(x)dx=\lim\limits_{t \to +\infty}\int_a^tf(x)dx$$
+
+这时也称反常积分$\int_a^{+\infty} f(x)dx$收敛;如果上述极限不存在,则函数在无穷区间$[a,+\infty)$上的反常积分$\int_a^{+\infty} f(x)dx$就没有意义，习惯上称为反常积分$\int_a^{+\infty} f(x)dx$发散，这时记号为$\int_a^{+\infty} f(x)dx$不再表示数值了
+
+类似的，设函数$f(x)$在区间$[a,+\infty)$上连续,取$t<a$,如果极限
+
+$$\lim\limits_{t \to -\infty}\int_a^tf(x)$$
+
+存在,则称此极限为函数$f(x)$在无穷区间$[a，-\infty)$上的反常积分,记作$\int_a^{-\infty} f(x)dx$，即
+
+$$\int_a^{-\infty} f(x)dx=\lim\limits_{t \to -\infty}\int_a^tf(x)dx$$
+
+这时也称反常积分$\int_a^{-\infty} f(x)dx$收敛;如果上述极限不存在,则称为反常积分$\int_a^{-\infty} f(x)dx$发散。
+
+设函数$f(x)$在区间$[-\infty,+\infty)$上连续，如果反常积分$\int_a^{-\infty} f(x)dx$和$\int_a^{+\infty} f(x)dx$都收敛，则称上述两反常积分之和为函数$f(x)$在无穷区间$[-\infty,+\infty)$上的反常积分，记作$\int_{-\infty}^{+\infty} f(x)dx$，即
+
+$$\int_{-\infty}^{+\infty} f(x)dx=\int_{-\infty}^0 f(x)dx+\int_0^{+\infty} f(x)dx=\lim\limits_{t \to -\infty}\int_t^0f(x)+\lim\limits_{t \to +\infty}\int_0^tf(x)dx$$
+
+这时也称反常积分$\int_{-\infty}^{+\infty} f(x)dx$收敛，否则就称反常积分$\int_{-\infty}^{+\infty} f(x)dx$发散。
+
+上述反常积分统称为无穷限的反常积分。
 

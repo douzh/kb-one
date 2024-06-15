@@ -24,9 +24,6 @@
 
 当两个平行向量的起点放在同一点时,它们的终点和公共起点应在一条直线上.因此,两向量平行,又称两向量共线。
 
-
-## 向量运算
-
 ## 线性运算
 
 **三角形法则**
@@ -62,7 +59,7 @@ $\lambda(\vec a+\vec b)=\lambda\vec a+\lambda\vec b$
 
 $(\lambda+\mu)\vec{a}=\lambda\vec a+\mu\vec a$
 
-### 空间直角坐标系
+## 空间直角坐标系
 
 在空间取定一点O和三个两两垂直的单位向量i、j、k，就确定了三条都以O为原点的两两垂直的数轴,依次记为 x轴(横轴)、y 轴(纵轴)、z轴(竖轴)统称坐标轴。它们构成一个空间直角坐标系,称为 Oxyz 坐标系或$[O;i,j,k]$坐标系. 通常把x轴和y轴配置在水平面上,而z轴则是铅垂线;它们的正向通常符合右手规则,即以右手握住 z 轴,右手的四个手指从正向x轴以$\frac{\pi}{2}$角度转向正向y轴时,大指的指向就是轴的正向。
 
@@ -74,8 +71,30 @@ $(\lambda+\mu)\vec{a}=\lambda\vec a+\mu\vec a$
 
 **坐标分解式**
 
+![](assets/sag4.png)
 
+$$\vec r=\vec{OM}=\vec{OP}+\vec{PN}+\vec{NM}=\vec{OP}+\vec{OQ}+\vec{OR}$$
 
+设$\vec{OP}=x\vec i,\vec{OQ}=y\vec j,\vec{OR}=z\vec k$
 
+$$\vec r=\vec{OM}=x\vec i+y\vec j+y\vec k$$
+
+定义:有序数x、y、z称为向量$\vec r$(在坐标系 Oxyz 中)的坐标,记作$r=(x,y,z)$;有序数x、y、z称为点M(在坐标系 Oxyz 中)的坐标,记作$M(x,y,z)$。
+
+记号(z,y,z)既表示点M,又表示向量$\vec{OM}$
+
+## 向量的模
+
+$$|\vec r|=\sqrt{x^2+y^2+z^2}$$
+
+设有点 $A(z_1,y_1,z_1)$和点 $B(x_2,y_2,z_2)$,则点 A 与点B 间的距离|AB|就是向量$\vec{AB}$的模.由
+
+$$\vec{AB}=\vec{OB}-\vec{OA}=(x_2,y_2,z_2)-(z_1,y_1,z_1)=(x_2-z_1,y_2-y_1,z_2-z_1)$$
+
+即得 A、B 两点间的距离
+
+$$|AB|=|\vec{AB}|=\sqrt{(x_2-z_1)^2+(y_2-y_1)^2+(z_2-z_1)^2}$$
+
+## 方向角与方向余弦
 
 

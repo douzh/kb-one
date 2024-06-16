@@ -97,4 +97,49 @@ $$|AB|=|\vec{AB}|=\sqrt{(x_2-z_1)^2+(y_2-y_1)^2+(z_2-z_1)^2}$$
 
 ## 方向角与方向余弦
 
+非零向量$\vec r$与三条坐标轴的夹角$\alpha、\beta、\gamma$称为向量$\vec r$的方向角.设$\vec{OM}=\vec r=(x,y,z)$,由于x是有向线段OP的值,$MP\perp OP$故
+
+$$\cos\alpha =\frac{x}{|\vec{OM}|} = \frac{x}{|\vec r|}$$
+
+$$\cos\beta =\frac{y}{|\vec{OM}|} = \frac{y}{|\vec r|}$$
+
+$$\cos\gamma =\frac{z}{|\vec{OM}|} = \frac{z}{|\vec r|}$$
+
+从而
+
+$$(\cos\alpha,\cos\beta,\cos\gamma)=(\frac{x}{|\vec r|},\frac{y}{|\vec r|},\frac{z}{|\vec r|})\\=\frac{1}{|\vec r|}(x,y,z)=\frac{\vec r}{|\vec r|}=\vec e_r$$
+
+$\cos\alpha,\cos\beta,\cos\gamma$称为向量$\vec r$的方向余弦.上式表明,以向量$\vec r$的方向余弦为坐标的向量就是与$\vec r$同方向的单位向量$\vec e_r$.并由此可得
+
+$$cos^2\alpha + cos^2\beta + cos^2\gamma = 1$$
+
+## 向量投影
+
+向量$\vec a$ 在直角坐标系 Oxyz 中的坐标$a_x,a_y,a_z$就是$\vec a$在三条坐标轴上的投影,即
+
+$$a_x=Prj_x\vec a,a_y=Prj_y\vec a,a_z=Prj_z\vec a$$
+
+或记作
+
+$$a_x=(\vec a)_x,a_y=(\vec a)_y,a_z=(\vec a)_z$$
+
+性质1 $(\vec a)_u=|\vec a|cos\varphi$，其中$\varphi$为向量$\vec a$与u轴的夹角。
+
+性质2 $(\vec a+\vec b)_u=(\vec a)_u+(\vec b)_u$
+
+性质2 $(\lambda\vec a)_u=\lambda(\vec a)_u$
+
+## 数量积
+
+$$\vec a \cdot \vec b=|\vec a||\vec b|cos\theta$$
+
+场景如物理学功的计算概念。
+
+交换律：$\vec a \cdot \vec b = \vec b \cdot \vec a$
+
+分配律：$\vec a \cdot (\vec b+\vec c)=\vec a \cdot \vec b+\vec a \cdot \vec c$
+
+$$\vec a \cdot \vec b =a_xb_x+a_yb_y+a_zb_z$$
+
+$$cos\theta=\frac{\vec a \vec b}{|\vec a||\vec b|}=\frac{a_xb_x+a_yb_y+a_zb_z}{\sqrt{a_x^2+a_y^2+a_z^2}\sqrt{b_x^2+b_y^2+b_z^2}}$$
 

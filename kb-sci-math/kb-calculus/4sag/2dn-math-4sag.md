@@ -152,3 +152,19 @@ $$cos\theta=\frac{\vec a \vec b}{|\vec a||\vec b|}=\frac{a_xb_x+a_yb_y+a_zb_z}{\
 $\vec c$的模$|\vec c|=|\vec a||\vec b|sin\theta$,其中$\theta$为$\vec a、\vec b$间的夹角;$\vec c$的方向垂直于$\vec a$与$\vec b$ 所决定的平面(即$\vec c$既垂直于$\vec a$又垂直于$\vec b$),$\vec c$的指向按右手规则从$\vec a$转向$\vec b$来确定,那么，向量$\vec c$叫做向量$\vec a$ 与$\vec b$ 的向量积,记作$\vec a \times \vec b$,即
 
 $$\vec c=\vec a \times \vec b$$
+
+运算规律
+
+$\vec a \times \vec b = - \vec b \times \vec a$
+
+$(\vec a+\vec b)\times \vec c = \vec a \times \vec c + \vec b \times \vec c$
+
+$(\lambda \vec a)\times \vec b = \lambda(\vec a \times \vec b)= \vec a \times (\lambda \vec b)$
+
+坐标表示
+
+$$\vec a \times \vec b = (\vec a_y\vec b_z-\vec a_z\vec b_y)\vec i+ (\vec a_z\vec b_x-\vec a_x\vec b_z)\vec j + (\vec a_x\vec b_y-\vec a_y\vec b_x)\vec k$$
+
+$$\vec a \times \vec b = \begin{vmatrix} \vec i & \vec j & \vec k \\ \vec a_x & \vec a_y & \vec a_z \\ \vec b_x & \vec b_y & \vec b_z \end{vmatrix} $$
+
+场景：物理力矩的计算概念

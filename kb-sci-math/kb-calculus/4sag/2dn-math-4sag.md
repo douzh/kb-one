@@ -165,6 +165,43 @@ $(\lambda \vec a)\times \vec b = \lambda(\vec a \times \vec b)= \vec a \times (\
 
 $$\vec a \times \vec b = (\vec a_y\vec b_z-\vec a_z\vec b_y)\vec i+ (\vec a_z\vec b_x-\vec a_x\vec b_z)\vec j + (\vec a_x\vec b_y-\vec a_y\vec b_x)\vec k$$
 
-$$\vec a \times \vec b = \begin{vmatrix} \vec i & \vec j & \vec k \\ \vec a_x & \vec a_y & \vec a_z \\ \vec b_x & \vec b_y & \vec b_z \end{vmatrix} $$
+$$\vec a \times \vec b = \begin{vmatrix} \vec i & \vec j & \vec k \\  a_x &  a_y &  a_z \\  b_x & b_y & b_z \end{vmatrix} $$
 
 场景：物理力矩的计算概念
+
+## 混合积
+
+设已知三个向量$\vec a$、$\vec b$和$\vec c$。如果先作两向量$\vec a$和$\vec b$的向量积$\vec a \times \vec b$把所得到的向量与第三个向量$\vec c$再作数量积$(\vec a \times \vec b)\cdot \vec c$这样得到的数量叫做三向量$\vec a、\vec b、\vec c$的混合积记作$[\vec a \vec b \vec c]$。
+
+坐标表示
+
+$$[\vec a \vec b \vec c]= (\vec a \times \vec b)\cdot \vec c = \begin{vmatrix}  a_x & a_y & a_z \\  b_x &  b_y &  b_z \\ c_x & c_y & c_z \end{vmatrix}$$
+
+向量的混合积是这样一个数，它的绝对值表示以向量$\vec a、\vec b、\vec c$为棱的平行六面体的体积.
+
+## 曲面
+
+### 球面
+
+$$(x-x_0)^2+(y-y_0)^2+(z-z_0)^2=r^2$$
+
+### 旋转曲面
+
+z为轴
+
+$$f(\pm\sqrt {x^2+y^2},z)=0$$
+
+y为轴
+
+$$f(y,\pm\sqrt {x^2+z^2})=0$$
+
+圆锥(半顶角为$\theta$)
+
+$$z^2=cot^2\theta(x^2+y^2)$$
+
+## 柱面
+
+$$(x-x_0)^2+(y-y_0)^2=r^2$$
+
+
+

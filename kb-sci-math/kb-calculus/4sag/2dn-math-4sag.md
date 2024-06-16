@@ -143,3 +143,12 @@ $$\vec a \cdot \vec b =a_xb_x+a_yb_y+a_zb_z$$
 
 $$cos\theta=\frac{\vec a \vec b}{|\vec a||\vec b|}=\frac{a_xb_x+a_yb_y+a_zb_z}{\sqrt{a_x^2+a_y^2+a_z^2}\sqrt{b_x^2+b_y^2+b_z^2}}$$
 
+## 向量积
+
+![](assets/sag8.png)
+
+设向量 $\vec c$ 由两个向量$\vec a$ 与$\vec b$ 按下列方式定出:
+
+$\vec c$的模$|\vec c|=|\vec a||\vec b|sin\theta$,其中$\theta$为$\vec a、\vec b$间的夹角;$\vec c$的方向垂直于$\vec a$与$\vec b$ 所决定的平面(即$\vec c$既垂直于$\vec a$又垂直于$\vec b$),$\vec c$的指向按右手规则从$\vec a$转向$\vec b$来确定,那么，向量$\vec c$叫做向量$\vec a$ 与$\vec b$ 的向量积,记作$\vec a \times \vec b$,即
+
+$$\vec c=\vec a \times \vec b$$

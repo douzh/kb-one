@@ -109,3 +109,56 @@ $$A(x-x_0)+B(y-y_0)+C(z-z_0)=0$$
 $$Ax+By+Cz+D=0$$
 
 法向量$\vec{n}=(A,B,C)$
+
+**平面夹角**
+
+两平面的法线向量的夹角(通常指锐角)称为两平面的夹角
+
+$\vec n_1=(A_1,B_1,C_1),\vec n_2=(A_2,B_2,C_2)$
+
+$$cos\theta=\frac{n_1\cdot n_2}{|n_1||n_2|}=\frac{|A_1A_2+B_1B_2+C_1C_2|}{\sqrt{A_1^2+B_1^2+C_1^2}\sqrt{A_2^2+B_2^2+C_2^2}}$$
+
+## 空间直线
+
+**一般方程**
+
+$$
+ \begin{cases}
+A_1x+B_1y+C_1z+D=0\\
+A_2x+B_2y+C_2z+D=0
+ \end{cases}
+$$
+
+**对称式方程/点向式方程**
+
+方向向量 $\vec n=(m,n,p)$,直线的点 $M(x,y,z) M_0(x_0,y_0,z_0)$,$\vec n$与$\vec {M_0M}$平行
+
+$$\frac {x-x_0}{m}=\frac {y-y_0}{n}=\frac {z-z_0}{p}$$
+
+**参数方程**
+
+令点向方程等于t
+
+$$
+ \begin{cases}
+x=x_0+mt\\
+y=y_0+nt\\
+z=z_0+pt
+ \end{cases}
+$$
+
+**两直线的夹角**
+
+两直线的方向向量的夹角(通常指锐角)叫做两直线的夹角
+
+方向向量 $\vec s_1=(m_1,n_1,p_1),\vec s_2=(m_2,n_2,p_2)$
+
+$$cos\theta=\frac{|m_1m_2+n_1n_2+p_1p_2|}{\sqrt{m_1^2+n_1^2+p_1^2}\sqrt{m_2^2+n_2^2+p_2^2}}$$
+
+**直线与平面的夹角**
+
+直线方向向量 $\vec s=(m,n,p)$,平面法向量$\vec n =(A,B,C)$,
+
+$$sin\theta=\frac{|mA+nB+pC|}{\sqrt{m^2+n^2+p^2}\sqrt{A^2+B^2+C^2}}$$
+
+因为$sin\theta=cos(\frac{\pi}{2}-\theta)$

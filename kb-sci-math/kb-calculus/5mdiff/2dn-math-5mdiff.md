@@ -107,3 +107,60 @@ $$\frac{\alpha^2z}{\alpha x^2}+\frac{\alpha^2z}{\alpha y^2}+\frac{\alpha^2z}{\al
 
 ## 全微分
 
+定义 设函数 $z=f(x,y)$在点$(x，y)$的某邻域内有定义,如果函数在点$(x，y)$的全增量
+
+$$\Delta z=f(x+\Delta x,y+\Delta y)-f(x,y)$$
+
+可表示为
+
+$$\Delta z=A\Delta x+B\Delta y+o(\rho)$$
+
+其中A、B不依赖于$\Delta x、\Delta y$而且仅与$x、y$有关,$\rho=\sqrt{\Delta x^2+\Delta y^2}$,则称函数$z=f(x,y)$在点$(x，y)$可微分，而$A\Delta x+B\Delta y$称为函数$z=f(x,y)$在点$(x，y)$的全微分,记作$dz$，即
+
+$$dz=A\Delta x+B\Delta y$$
+
+如果函数在区域 D 内各点处都可微分,那么称这函数在 D 内可微分
+
+定理1(必要条件) 如果函数 $z=f(x,y)$在点$(x，y)$可微分,则该函数在点$(x,y)$的偏导数$\frac{\alpha^2z}{\alpha x^2}、\frac{\alpha^2z}{\alpha y^2}$必定存在，且函数 $z=f(x,y)$在点$(x，y)$的全微分为
+
+$$dz=\frac{\alpha^2z}{\alpha x^2}\Delta x+\frac{\alpha^2z}{\alpha y^2}\Delta y$$
+
+定理 2(充分条件) 如果函数 $z=f(x,y)$的偏导数$\frac{\alpha^2z}{\alpha x^2}、\frac{\alpha^2z}{\alpha y^2}$点$(x，y)$连续，则该函数在该点可微分。
+
+## 多元复合函数求导
+
+## 隐函数求导
+
+## 方向导数与梯度
+
+### 方向导数
+
+偏导数反映的是函数沿坐标轴方向的变化率.但许多物理现象告诉我们,只考虑函数沿坐标轴方向的变化率是不够的.因此我们有必要来讨论函数沿任一指定方向的变化率问题
+
+定理 如果函数$f(x,y)$在点 $P_0(x_0,y_0)$可微分,那么函数在该点沿任一方向$l$的方向导数存在,且有
+
+$$\frac{\alpha f}{\alpha l}|_{(x_0,y_0)}=f_x(x_0,y_0)cos\alpha+f_y(x_0,y_0)sin\beta$$
+
+其中$cos\alpha、cos\beta$是方向$l$的方向余弦。
+
+### 梯度
+
+函数$f(x,y)$在点 $P_0(x_0,y_0)$的梯度
+
+$$f_x(x_0,y_0)\vec i+f_y(x_0,y_0)\vec j$$
+
+记作$\vec{grad}f(x_0,y_0)$或$\nabla f(x_0,y_0)$$即
+
+$$\vec{grad}f(x_0,y_0)=\nabla f(x_0,y_0)=f_x(x_0,y_0)\vec i+f_y(x_0,y_0)\vec j$$
+
+其中$\nabla=\frac{\alpha}{\alpha x}\vec i+\frac{\alpha}{\alpha y}\vec j$称为(二维的)向量微分算子或Nabla算子,$\nabla f=\frac{\alpha f}{\alpha x}\vec i+\frac{\alpha f}{\alpha y}\vec j$
+
+$\vec e_i=(cos\alpha,cos\beta)$是与方向$l$同向的单位向量，则
+
+$$\frac{\alpha f}{\alpha l}|_{(x_0,y_0)}=f_x(x_0,y_0)cos\alpha+f_y(x_0,y_0)sin\beta\\ =\vec{grad}f(x_0,y_0)\vec e_i=|\vec{grad}f(x_0,y_0)|cos\theta$$
+
+其中$\theta=(\widehat{\vec{grad}f(x_0,y_0),\vec e_i})$
+
+这一关系式表明了函数在一点的梯度与函数在这点的方向导数间的关系
+
+

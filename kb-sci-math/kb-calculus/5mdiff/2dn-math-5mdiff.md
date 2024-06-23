@@ -60,3 +60,50 @@ $$\lim\limits_{(x,y) \to (x_0,y_0)}f(x,y)=f(x_0,y_0)$$
 那么称$f(x,y)$在$P_0(x_0,y_0)$连续.
 
 定义4 设函数$f(x,y)$的定义域为 D,$P_0(x_0，y_0)$是 D 的聚点.如果函数$f(x,y)$在点$P_0(x_0，y_0)$不连续,则称$P_0(x_0，y_0)$为函数$f(x,y)$的间断点
+
+## 偏导数
+
+定义 设函数 $z=f(x,y)$在点$(z_0,y_0)$的某一邻域内有定义,当$y$固定在$y_0$而$x$在$x_0$处有增量$\Delta x$时,相应的函数有增量
+
+$$f(x_0+\Delta x,y_0)-f(x_0,y_0)$$
+
+如果
+
+$$\lim\limits_{\Delta x \to 0} \frac{f(x_0+\Delta x,y_0)-f(x_0,y_0)}{\Delta x}$$
+
+存在, 则称些极限为函数$z=f(x,y)$在点$(x_0,y_0)$处对x的偏导数,记为
+
+$$\frac{\alpha z}{\alpha x}|_{x=x_0,y=y_0},\frac{\alpha f}{\alpha x}|_{x=x_0,y=y_0},z_x|_{x=x_0,y=y_0} 或 f_x(x_0,y_0)$$
+
+类似的，函数$z=f(x,y)$在点$(x_0,y_0)$处对y的偏导数定义为
+
+$$\lim\limits_{\Delta y \to 0} \frac{f(x_0,y_0+\Delta y)-f(x_0,y_0)}{\Delta y}$$
+
+记作
+
+$$\frac{\alpha z}{\alpha y}|_{x=x_0,y=y_0},\frac{\alpha f}{\alpha y}|_{x=x_0,y=y_0},z_y|_{x=x_0,y=y_0} 或 f_y(x_0,y_0)$$
+
+### 高阶偏导数
+
+$$\frac{\alpha }{\alpha x}(\frac{\alpha z}{\alpha x})=\frac{\alpha^2z}{\alpha x^2}=f_{xx}=(x,y)$$
+
+$$\frac{\alpha }{\alpha y}(\frac{\alpha z}{\alpha y})=\frac{\alpha^2z}{\alpha y^2}=f_{yy}=(x,y)$$
+
+$$\frac{\alpha }{\alpha x}(\frac{\alpha z}{\alpha y})=\frac{\alpha^2z}{\alpha y\alpha x}=f_{yx}=(x,y)$$
+
+$$\frac{\alpha }{\alpha y}(\frac{\alpha z}{\alpha x})=\frac{\alpha^2z}{\alpha x\alpha y}=f_{xy}=(x,y)$$
+
+定理 如果函数 $z=f(x，y)$的两个二阶混合偏导数$\frac{\alpha^2z}{\alpha x\alpha y}$及$\frac{\alpha^2z}{\alpha y\alpha x}$在区域D内连续，那么在该区域内这两个二阶混合偏导数必相等
+
+对于二元以上的函数,也可以类似地定义高阶偏导数.而且高阶混合偏导数在偏导数连续的条件下也与求导的次序无关
+
+### 拉普拉斯方程
+
+拉普拉斯(Laplace)方程
+
+$$\frac{\alpha^2z}{\alpha x^2}+\frac{\alpha^2z}{\alpha y^2}=0$$
+
+$$\frac{\alpha^2z}{\alpha x^2}+\frac{\alpha^2z}{\alpha y^2}+\frac{\alpha^2z}{\alpha z^2}=0$$
+
+## 全微分
+

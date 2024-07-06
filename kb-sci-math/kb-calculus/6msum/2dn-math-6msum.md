@@ -81,8 +81,17 @@ $$\int_Lf(x,y)ds\le\int_Lg(x,y)ds$$
 
 $$|\int_Lf(x,y)ds|\le\int_L|g(x,y)|ds\$$
 
+### 弧长曲线积分计算
 
+定理 设$f(x,y)$在曲线弧L上有定义且连续, L 的参数方程为
+$$
+ \begin{cases}
+ x=\varphi(t)  (\alpha<t<\beta)\\
+ y=\psi(t)
+ \end{cases}
+$$
 
+其中 $\varphi(t),\psi(t) $ 为函数，则
 
 
 

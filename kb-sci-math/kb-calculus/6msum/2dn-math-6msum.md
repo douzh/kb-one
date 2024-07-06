@@ -23,7 +23,7 @@ $$\iint_D f(x,y)dxdy$$
 
 $$\iint_D f(x,y)d\sigma=\int_a^b dx\int_{\varphi_1(x)}^{\varphi_2(x)} f(x,y)dy\\=\int_a^b dy\int_{\varphi_1(y)}^{\varphi_2(y)} f(x,y)dx$$
 
-## 利用极坐标计算二重积分
+### 利用极坐标计算二重积分
 
 ## 三重积分
 
@@ -41,10 +41,49 @@ $dv$叫体积元素。
 
 $$\iiint_\Omega f(x,y,z)dxdydz$$
 
-## 三重积分的计算
+### 三重积分的计算
 
 $$\iiint_\Omega f(x,y,z)dxdydz=\int_a^b dx\int_{y_1(x)}^{y_2(x)}\int_{z_1(x,y)}^{z_2(x,y)} f(x,y)dy$$
 
-## 利用柱面坐标计算三重积分
+### 利用柱面坐标计算三重积分
 
-## 利用球面坐标计算三重积分
+### 利用球面坐标计算三重积分
+
+## 曲线积分
+
+定义 设L为xOy面内的一条光滑曲线驱,函数 $f(x,y)$在L上有界在L上任意插入一点列$M_1,M_2,\cdots,M_{n-1}$把L分成n个小段设第个$i$小段的长度为$\Delta s_i$. 又$(\xi_i,\eta_i)$为第个小段上任意取定的一点, 作乘积 $f(\xi_i,\eta_i)\Delta s_i(i=1,2,\cdots,n)$, 并作和$\sum_{i=1}^n f(\xi_i,\eta_i)\Delta s_i$,如果当各小弧段的长度的最大值$\lambda \to0$, 这和的极限总存在,则称此极限为函数 $f(x,y)$在曲线弧L上对弧长的曲线积分或第一类曲线积分,记作$\int_Lf(x,y)ds$,即
+
+$$\int_Lf(x,y)ds=\lim_{\lambda\to 0}\sum_{i=1}^n f(\xi_i,\eta_i)\Delta s_i$$
+
+其中$f(x,y)$叫做被积函数, L叫做积分弧段。
+
+空间曲线
+
+$$\int_\Gamma f(x,y,z)ds=\lim_{\lambda\to 0}\sum_{i=1}^n f(\xi_i,\eta_i,\zeta_i)\Delta s_i$$
+
+如果$L=L_1+L_2$
+
+如果L是闭曲线，曲线积分记作为$\oint_Lf(x,y)ds$。
+
+性质1 设$\alpha,\beta$为常数，则
+
+$$\int_L [\alpha f(x,y)+\beta g(x,y)]ds=\alpha\int_Lf(x,y)ds+\beta\int_Lg(x,y)ds$$
+
+性质2 若积分弧段L可分成两段光滑的曲线弧$L_1,L_2$，则
+
+$$\int_{L_1+L_2}f(x,y)ds=\int_{L_1}f(x,y)ds+\int_{L_2}f(x,y)ds$$
+
+性质3 设在L上$f(x,y)\le g(x,y)$，则
+
+$$\int_Lf(x,y)ds\le\int_Lg(x,y)ds$$
+
+特别的有
+
+$$|\int_Lf(x,y)ds|\le\int_L|g(x,y)|ds\$$
+
+
+
+
+
+
+

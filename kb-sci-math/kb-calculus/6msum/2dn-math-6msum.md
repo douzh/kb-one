@@ -49,7 +49,7 @@ $$\iiint_\Omega f(x,y,z)dxdydz=\int_a^b dx\int_{y_1(x)}^{y_2(x)}\int_{z_1(x,y)}^
 
 ### 利用球面坐标计算三重积分
 
-## 曲线积分
+## 弧长曲线积分计算
 
 定义 设L为xOy面内的一条光滑曲线驱,函数 $f(x,y)$在L上有界在L上任意插入一点列$M_1,M_2,\cdots,M_{n-1}$把L分成n个小段设第个$i$小段的长度为$\Delta s_i$. 又$(\xi_i,\eta_i)$为第个小段上任意取定的一点, 作乘积 $f(\xi_i,\eta_i)\Delta s_i(i=1,2,\cdots,n)$, 并作和$\sum_{i=1}^n f(\xi_i,\eta_i)\Delta s_i$,如果当各小弧段的长度的最大值$\lambda \to0$, 这和的极限总存在,则称此极限为函数 $f(x,y)$在曲线弧L上对弧长的曲线积分或第一类曲线积分,记作$\int_Lf(x,y)ds$,即
 
@@ -57,13 +57,15 @@ $$\int_Lf(x,y)ds=\lim_{\lambda\to 0}\sum_{i=1}^n f(\xi_i,\eta_i)\Delta s_i$$
 
 其中$f(x,y)$叫做被积函数, L叫做积分弧段。
 
-空间曲线
+**空间曲线**
 
 $$\int_\Gamma f(x,y,z)ds=\lim_{\lambda\to 0}\sum_{i=1}^n f(\xi_i,\eta_i,\zeta_i)\Delta s_i$$
 
 如果$L=L_1+L_2$
 
 如果L是闭曲线，曲线积分记作为$\oint_Lf(x,y)ds$。
+
+**性质**
 
 性质1 设$\alpha,\beta$为常数，则
 
@@ -81,7 +83,7 @@ $$\int_Lf(x,y)ds\le\int_Lg(x,y)ds$$
 
 $$|\int_Lf(x,y)ds|\le\int_L|g(x,y)|ds\$$
 
-### 弧长曲线积分计算
+**计算**
 
 定理 设$f(x,y)$在曲线弧L上有定义且连续, L 的参数方程为
 $$
@@ -91,7 +93,88 @@ $$
  \end{cases}
 $$
 
-其中 $\varphi(t),\psi(t) $ 为函数，则
+其中 $\varphi(t),\psi(t)$ 在$[\alpha,\beta]$上具有一阶连续导数，且$\varphi^{'2}(t)+\psi^{'2}(t)\ne 0$，则曲线积分$\int_Lf(x,y)ds$存在且
+
+$$\int_Lf(x,y)ds=\int_{\alpha}^{\beta}f[\varphi(t),\psi(t)]\sqrt{\varphi^{'2}(t)+\psi^{'2}(t)}dt$$
+
+## 对坐标的曲线积分
+
+定义 设L为xOy面内从点 A 到点B 的一条有向光滑曲线弧，函数$P(x,y)Q(z,y)$在 L 上有界. 在 L 上沿L 的方向任意插入一点列 $M(x_1,y_1),M,(x_2,y_2),\cdots,M_{n-1}(x_{n-1},y_{n-1})$,把L分成n 个有向小弧段
+
+$$\widehat{M_{i-1}M_i}(i=1,2,\cdots,n-1;M_0=A,M_n=B)$$
+
+设$\Delta x_i=x_i-x_{i-1}$，$\Delta y_i=y_i-y_{i-1}$，点$(\xi_i,\eta_i)$为$\widehat{M_{i-1}M_i}$上任取一点，如果当各小弧段长度的最大$\lambda \to 0$时，$sum_{i=1}^n P(\xi_i,\eta_i)\Delta x_i$的极限总存在, 则称此极限为函数 $P(x,y)$在有向曲线弧 L 上对坐标$x$的曲线积分, 记作 $\int_L P(x,y)dx$. 类似地,如果$sum_{i=1}^n P(\xi_i,\eta_i)\Delta y_i$总存在,则称此极限为函数 $Q(x,y)$在有向曲线弧 L 上对坐标$y$的曲线积分,记作$\int_L Q(x,y)dy$. 即 
+
+$$\int_L P(x,y)dx=\lim_{\lambda\to 0}\sum_{i=1}^n P(\xi_i,\eta_i)\Delta x_i$$
+
+$$\int_L Q(x,y)dy=\lim_{\lambda\to 0}\sum_{i=1}^n Q(\xi_i,\eta_i)\Delta y_i$$
+
+其中$P(x,y)$和$Q(x,y)$分别称为被积函数，L称为积分弧段。
+
+以上两个积分也称为第二类曲线积分
+
+**空间曲线**
+
+$$\int_\Gamma P(x,y,z)dx=\lim_{\lambda\to 0}\sum_{i=1}^n P(\xi_i,\eta_i,\zeta_i\Delta x_i$$
+
+$$\int_\Gamma Q(x,y,z)dy=\lim_{\lambda\to 0}\sum_{i=1}^n Q(\xi_i,\eta_i,\zeta_i)\Delta y_i$$
+
+$$\int_\Gamma R(x,y,z)dx=\lim_{\lambda\to 0}\sum_{i=1}^n R(\xi_i,\eta_i,\zeta_i)\Delta x_i$$
+
+**简化写法**
+
+$$\int_L P(x,y)dx+\int_L Q(x,y)dy$$
+
+$$\int_L P(x,y)dx+ Q(x,y)dy$$
+
+$$\int_L \vec F(x,y)d\vec r$$
+
+其中$\vec F=P(x,y)\vec i+Q(x,y)\vec j$为向量值函数，$d\vec r=dx\vec i+dy\vec j$.
+
+类似的
+
+$$\int_\Gamma P(x,y,z)dx+\int_\Gamma Q(x,y,z)dy+\int_\Gamma R(x,y,z)dz$$
+
+$$\int_\Gamma P(x,y,z)dx+ Q(x,y,z)dy+ R(x,y,z)dz$$
+
+$$\int_\Gamma \vec A(x,y,z)d\vec r$$
+
+其中$\vec A=P(x,y,z)\vec i+Q(x,y,z)\vec j+R(x,y,z)\vec k$为向量值函数，$d\vec r=dx\vec i+dy\vec j+dz\vec k$.
+
+**性质**
+
+性质1 设$\alpha,\beta$为常数，则
+
+$$\int_L [\alpha \vec F_1(x,y)+\beta \vec F_2(x,y)]d\vec r=\alpha\int_L\vec F_1(x,y)d\vec r+\beta\int_L\vec F_2(x,y)d\vec r$$
+
+性质2 若积分弧段L可分成两段光滑的曲线弧$L_1,L_2$，则
+
+$$\int_L \vec F(x,y)d\vec r=\int_{L_1}\vec F(x,y)d\vec r+\int_{L_2}\vec F(x,y)d\vec r$$
+
+性质3 设L是有几光滑曲线弧，$L^-$是$L$的反向曲线弧，则
+
+$$\int_{L^-} \vec F(x,y)d\vec r=-\int_L\vec F(x,y)d\vec r$$
+
+**计算**
+
+定理 设$P(x,y)、Q(x,y)$在有向曲线弧L上有定义且连续, L 的参数方程为
+$$
+ \begin{cases}
+ x=\varphi(t) \\
+ y=\psi(t)
+ \end{cases}
+$$
+
+当参数t单调的由$\alpha$变到$\beta$时，点$M(x,y)$从L的起点A沿L运动到终点B,  $\varphi(t),\psi(t)$ 在$[\alpha,\beta]$上具有一阶连续导数，且$\varphi^{'2}(t)+\psi^{'2}(t)\ne 0$，则曲线积分$\int_LP(x,y)ds+Q(x,y)dy$存在,且
+
+$$\int_L P(x,y)dx+ Q(x,y)dy=\int_{\alpha}^{\beta} |P[\varphi(t),\psi(t)]\varphi'(t)+Q[\varphi(t),\psi(t)]\psi'(t)|dt$$
+
+
+
+
+
+
+
 
 
 

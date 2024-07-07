@@ -51,7 +51,7 @@ $$\iiint_\Omega f(x,y,z)dxdydz=\int_a^b dx\int_{y_1(x)}^{y_2(x)}\int_{z_1(x,y)}^
 
 ## 弧长曲线积分计算
 
-定义 设L为xOy面内的一条光滑曲线驱,函数 $f(x,y)$在L上有界在L上任意插入一点列$M_1,M_2,\cdots,M_{n-1}$把L分成n个小段设第个$i$小段的长度为$\Delta s_i$. 又$(\xi_i,\eta_i)$为第个小段上任意取定的一点, 作乘积 $f(\xi_i,\eta_i)\Delta s_i(i=1,2,\cdots,n)$, 并作和$\sum_{i=1}^n f(\xi_i,\eta_i)\Delta s_i$,如果当各小弧段的长度的最大值$\lambda \to0$, 这和的极限总存在,则称此极限为函数 $f(x,y)$在曲线弧L上对弧长的曲线积分或第一类曲线积分,记作$\int_Lf(x,y)ds$,即
+定义 设L为xOy面内的一条光滑曲线驱,函数 $f(x,y)$在L上有界.在L上任意插入一点列$M_1,M_2,\cdots,M_{n-1}$把L分成n个小段设第个$i$小段的长度为$\Delta s_i$. 又$(\xi_i,\eta_i)$为第个小段上任意取定的一点, 作乘积 $f(\xi_i,\eta_i)\Delta s_i(i=1,2,\cdots,n)$, 并作和$\sum_{i=1}^n f(\xi_i,\eta_i)\Delta s_i$,如果当各小弧段的长度的最大值$\lambda \to0$, 这和的极限总存在,则称此极限为函数 $f(x,y)$在曲线弧L上对弧长的曲线积分或第一类曲线积分,记作$\int_Lf(x,y)ds$,即
 
 $$\int_Lf(x,y)ds=\lim_{\lambda\to 0}\sum_{i=1}^n f(\xi_i,\eta_i)\Delta s_i$$
 
@@ -168,6 +168,46 @@ $$
 当参数t单调的由$\alpha$变到$\beta$时，点$M(x,y)$从L的起点A沿L运动到终点B,  $\varphi(t),\psi(t)$ 在$[\alpha,\beta]$上具有一阶连续导数，且$\varphi^{'2}(t)+\psi^{'2}(t)\ne 0$，则曲线积分$\int_LP(x,y)ds+Q(x,y)dy$存在,且
 
 $$\int_L P(x,y)dx+ Q(x,y)dy=\int_{\alpha}^{\beta} |P[\varphi(t),\psi(t)]\varphi'(t)+Q[\varphi(t),\psi(t)]\psi'(t)|dt$$
+
+## 格林公式
+
+定理1 设闭区域 D 由分段光滑的曲线L围成函数 $P(x,y)$及$Q(x,y)$在 D 上具有一阶连续偏导数,则有
+
+$$\iint_D (\frac{\alpha Q}{\alpha x}-\frac {\alpha P}{\alpha y})dydy=\oint_L Pdx+Qdy$$
+
+其中L是D 的取正向的边界曲线.
+
+定理2 设区域 G 是一个单连通域,函数 $P(x,y),Q(x,y)$在 G 内具有阶连续偏导数,则曲线积分$\int_L Pdx+Qdy$在G 内与路径无关(或沿 G 内任意闭曲线的曲线积分为零)的充分必要条件是
+
+$$\frac{\alpha Q}{\alpha x}=\frac {\alpha P}{\alpha y}$$
+
+在G内恒成立
+
+定理3 设区域 G 是一个单连通域,函数 $P(x,y)、Q(x,y)$在 G 内具有阶连续偏导数,则 $P(x,y)dx + Q(z,y)dy$在G 内为某一函数 $u(x,y)$的全微分的充分必要条件是
+
+$$\frac{\alpha Q}{\alpha x}=\frac {\alpha P}{\alpha y}$$
+
+在G内恒成立
+
+定理4(曲线积分的基本定理) 设 $\vec F(x,y)= P(x,y)\vec i+ Q(x,y)\vec j$ 是平面区域G 内的一个向量场,$P(x,y)Q(x,y)$都在 G 内连续,且存在一个数量函数$f(x,y)$使得 $F=\nabla f$,则曲线积分$\int_L \vec F\cdot d\vec r$在G 内与路径无关,且
+
+$$\int_L \vec F\cdot d\vec r=f(B)-f(A)$$
+
+其中 L 是位于 G 内起点为 A、终点为 B 的任一分段光滑曲线
+
+## 对面积的曲面积分
+
+定义 设曲面$\varSigma$是光滑的,函数 $f(x,y,z)$在$\varSigma$上有界.把$\varSigma$分成n小块$\Delta S_i$($\Delta S_i$同时也代表第i小块曲面的面积), 设$(\xi_i,\eta_i,\zeta_i)$为$\Delta S_i$上任意取定的一点, 作乘积 $f(\xi_i,\eta_i,\zeta_i)\Delta S_i(i=1,2,\cdots,n)$, 并作和$\sum_{i=1}^n f(\xi_i,\eta_i,\zeta_i)\Delta S_i$,如果当各小块曲面直径的最大值$\lambda \to0$, 这和的极限总存在,则称此极限为函数 $f(x,y,z)$在曲面$\varSigma$上对面积的曲面积分或第一类曲面积分,记作$\iint_\varSigma f(x,y)dS$,即
+
+$$\int_\varSigma f(x,y,x)dS=\lim_{\lambda\to 0}\sum_{i=1}^n f(\xi_i,\eta_i,\zeta_i)\Delta S_i$$
+
+其中$f(x,y,z)$叫做被积函数, $\varSigma$叫做积分曲面。
+
+
+
+
+
+
 
 
 

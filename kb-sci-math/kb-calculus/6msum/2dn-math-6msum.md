@@ -203,12 +203,61 @@ $$\int_\varSigma f(x,y,x)dS=\lim_{\lambda\to 0}\sum_{i=1}^n f(\xi_i,\eta_i,\zeta
 
 其中$f(x,y,z)$叫做被积函数, $\varSigma$叫做积分曲面。
 
+**计算**
 
+$$\int_\varSigma f(x,y,x)dS=\iint_{D_{xy}}f[x,y,z(x,y)]\sqrt{1+z_x^2(x,y)+z_y^2(x,y)}dxdy$$
 
+## 对坐标的曲面积分
 
+定义 设$\varSigma$  为光滑的有向曲面,函数 $R(x,y,z)$在$\varSigma$上有界. 把$\varSigma$任意分成n 块小曲面$\Delta S_i$($\Delta S_i$同时也代表第i小块曲面的面积),$\Delta S_i$在$xOy$ 面上的投影为$(\Delta S_i)_{xy}$，$(\xi_i,\eta_i,\zeta_i)$是$\Delta S_i$上任意取定的一点.如果当各小块曲面的直径的最大值$\lambda \to0$时,
 
+$$\lim_{\lambda\to 0}\sum_{i=1}^n R(\xi_i,\eta_i,\zeta_i)(\Delta S_i)_{xy}$$
 
+总存在,则称此极限为函数 $R(x,y,z)$在有向曲面$\varSigma$ 上对坐标x、y的曲面积分,记作$\iint_{\varSigma}R(x,y,z)dxdy$,即
 
+$$\iint_{\varSigma}R(x,y,z)dxdy=\lim_{\lambda\to 0}\sum_{i=1}^n R(\xi_i,\eta_i,\zeta_i)(\Delta S_i)_{xy}$$
+
+其中 $R(x,y,z)$叫做被积函数,$\varSigma$做积分曲面.
+
+类似的
+
+$$\iint_{\varSigma}P(x,y,z)dydz=\lim_{\lambda\to 0}\sum_{i=1}^n P(\xi_i,\eta_i,\zeta_i)(\Delta S_i)_{yz}$$
+
+$$\iint_{\varSigma}Q(x,y,z)dzdx=\lim_{\lambda\to 0}\sum_{i=1}^n Q(\xi_i,\eta_i,\zeta_i)(\Delta S_i)_{zx}$$
+
+以上三个曲面积分也称为第二类曲面积分
+
+**计算**
+
+$$\iint_{\varSigma}R(x,y,z)dxdy=\iint_{D_{xy}}R[x,y,z(x,y)]dxdy$$
+
+## 高斯公式
+
+定理1 设空间闭区域$\Omega$是由分片光滑的闭曲面$\Sigma$所围成，函数$P(x,y,z)、Q(x,y,z)、R(x,y,z)$在$\Omega$上具有一阶连续偏导数,则有
+
+$$\iiint_{\Omega} (\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z})dydz=\oiint_{\Sigma} Pdydz+Qdzdx+Rdxdy$$
+
+或
+
+$$\iiint_{\Omega} (\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z})dydz=\oiint_{\Sigma} (Pcos\alpha+Qcos\beta+R\gamma)dS$$
+
+这里$\Sigma$是$\Omega$整个边界曲面的外侧,$cos\alpha 、cos\beta、 cos\gamma$是在点$(x,y,z)$处的法向量的方向余弦.
+
+定理2 设 G 是空间二维单连通区域,$P(x,y,z)、Q(x,y,z)、R(x,y,z)$在 G 内具有一阶连续偏导数,则曲面积分
+
+$$\iint_{\varSigma} Pdydz+Qdzdx+Rdxdy$$
+
+在 G 内与所取曲面$\varSigma$无关而只取决于$\varSigma$ 的边界曲线(或沿 G 内任一闭曲面的曲面积分为要)的充分必要条件是
+
+$$\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z}=0$$
+
+在G内恒成立.
+
+## 通量与散度
+
+## 斯托克斯公式
+
+## 环流量与旋度
 
 
 

@@ -279,8 +279,47 @@ cos\alpha & cos\beta & cos\gamma\\
 P & Q & R
 \end{vmatrix} =\oint_\Gamma Pdx+Qdy+Rdz$$
 
+其中$\vec n=(cos\alpha , cos\beta , cos\gamma)$为有向曲面$\Sigma$在点$(x,y,z)$处的单位法向量。
+
 ## 环流量与旋度
 
+设有向量场
+
+$$\vec A(x,y,z)=P(x,y,z)\vec i+Q(x,y,z)\vec j+R(x,y,z)\vec k$$
+
+其中函数 P、Q、R 均连续，$\Gamma$是$\vec A$ 的定义域内的一条分段光滑的有向闭曲线，$\tau$是$\Gamma$在点$(x,y,z)$处的单位切向量,则积分
+
+$$\oint_{\Gamma} \vec A\cdot \vec \tau ds$$
+
+称为向量场 $\vec A$ 沿有向闭曲线I的环流量
+
+$$\oint_{\Gamma} \vec A\cdot \vec \tau ds=\oint_{\Gamma} \vec A\cdot  d\vec r=\oint_{\Gamma} Pdx+Qdy+Rdz$$
+
+
+**旋度**
+
+设有向量场
+
+$$\vec A(x,y,z)=P(x,y,z)\vec i+Q(x,y,z)\vec j+R(x,y,z)\vec k$$
+
+其中函数 P、Q、R 均具有一阶连续偏导数, 则向量
+
+
+$$(\frac{\alpha R}{\alpha y}-\frac {\alpha Q}{\alpha z})\vec i+(\frac{\alpha P}{\alpha z}-\frac {\alpha R}{\alpha x})\vec j+(\frac{\alpha Q}{\alpha x}+\frac {\alpha P}{\alpha y})\vec k$$
+
+称为向量场 $\vec A$ 的旋度,记作 $rot A$即
+
+$$rot A=(\frac{\alpha R}{\alpha y}-\frac {\alpha Q}{\alpha z})\vec i+(\frac{\alpha P}{\alpha z}-\frac {\alpha R}{\alpha x})\vec j+(\frac{\alpha Q}{\alpha x}+\frac {\alpha P}{\alpha y})\vec k$$
+
+利用向量微分算子$\nabla$,向量场 $\vec A$ 的旋度 $rot A$ 可表示为$\nabla \times \vec A$，即
+
+$$rot A=\nabla \times \vec A=\begin{vmatrix}
+\vec i & \vec j & \vec k\\
+\frac{\alpha}{dx} & \frac{\alpha}{dy} &  \frac{\alpha}{dz}\\
+P & Q & R
+\end{vmatrix} $$
+
+如果向量场 $\vec A$ 的旋度 $rot A$ 处处为零则称向量场 $A$ 为无旋场. 而一个无源、无旋的向量场称为调和场. 调和场是物理学中另一类重要的向量场,这种场与调和函数有密切的关系.
 
 
 

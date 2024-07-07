@@ -235,11 +235,11 @@ $$\iint_{\varSigma}R(x,y,z)dxdy=\iint_{D_{xy}}R[x,y,z(x,y)]dxdy$$
 
 定理1 设空间闭区域$\Omega$是由分片光滑的闭曲面$\Sigma$所围成，函数$P(x,y,z)、Q(x,y,z)、R(x,y,z)$在$\Omega$上具有一阶连续偏导数,则有
 
-$$\iiint_{\Omega} (\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z})dydz=\oiint_{\Sigma} Pdydz+Qdzdx+Rdxdy$$
+$$\iiint_{\Omega} (\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z})dv=\oiint_{\Sigma} Pdydz+Qdzdx+Rdxdy$$
 
 或
 
-$$\iiint_{\Omega} (\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z})dydz=\oiint_{\Sigma} (Pcos\alpha+Qcos\beta+R\gamma)dS$$
+$$\iiint_{\Omega} (\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z})dv=\oiint_{\Sigma} (Pcos\alpha+Qcos\beta+R\gamma)dS$$
 
 这里$\Sigma$是$\Omega$整个边界曲面的外侧,$cos\alpha 、cos\beta、 cos\gamma$是在点$(x,y,z)$处的法向量的方向余弦.
 
@@ -255,7 +255,29 @@ $$\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z
 
 ## 通量与散度
 
+设有向量场
+
+$$\vec A(x,y,z)=P(x,y,z)\vec i+Q(x,y,z)\vec j+R(x,y,z)\vec k$$
+
+其中函数 P、Q、R 均具有一阶连续偏导数, $\Sigma$是场内的一片有向曲面,$\vec n$ 是$\Sigma$在点$(x,y,z)$处的单位法向量,则积分
+
+$$\iint_{\Sigma} \vec A\cdot \vec ndS$$
+
+称为向量场$\vec A$通过曲面$\Sigma$向着指定侧的通量(或流量)。
+
+$$\iint_{\Sigma} \vec A\cdot \vec ndS=\iint_{\Sigma} \vec A\cdot d\vec S=\iint_{\varSigma} Pdydz+Qdzdx+Rdxdy$$
+
 ## 斯托克斯公式
+
+定理1 设$\Gamma$为分段光滑的空间有向闭曲线, $\Sigma$是以$\Gamma$为边界的分片光滑的有向曲面,$\Gamma$的正向与$\Sigma$的侧符合右手规则,函数 $P(x,y,z)、Q(x,y,z)、R(x，y,z)$在曲面$\Sigma$(连同边界$\Gamma$)上具有一阶连续偏导数，则有
+
+$$\iint_{\Sigma} (\frac{\alpha R}{\alpha y}-\frac {\alpha Q}{\alpha z})dydz+(\frac{\alpha P}{\alpha z}-\frac {\alpha R}{\alpha x})dzdx+(\frac{\alpha Q}{\alpha x}+\frac {\alpha P}{\alpha y})dxdy=\oint_{\Gamma} Pdx+Qdy+Rdz$$
+
+$$\iint_\Sigma \begin{vmatrix}
+cos\alpha & cos\beta & cos\gamma\\
+\frac{\alpha}{dx} & \frac{\alpha}{dy} &  \frac{\alpha}{dz}\\
+P & Q & R
+\end{vmatrix} =\oint_\Gamma Pdx+Qdy+Rdz$$
 
 ## 环流量与旋度
 

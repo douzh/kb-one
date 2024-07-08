@@ -235,11 +235,11 @@ $$\iint_{\varSigma}R(x,y,z)dxdy=\iint_{D_{xy}}R[x,y,z(x,y)]dxdy$$
 
 定理1 设空间闭区域$\Omega$是由分片光滑的闭曲面$\Sigma$所围成，函数$P(x,y,z)、Q(x,y,z)、R(x,y,z)$在$\Omega$上具有一阶连续偏导数,则有
 
-$$\iiint_{\Omega} (\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z})dv=\oiint_{\Sigma} Pdydz+Qdzdx+Rdxdy$$
+$$\iiint_{\Omega} (\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z})dv= \oiint_{\Sigma} Pdydz+Qdzdx+Rdxdy$$
 
 或
 
-$$\iiint_{\Omega} (\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z})dv=\oiint_{\Sigma} (Pcos\alpha+Qcos\beta+R\gamma)dS$$
+$$\iiint_{\Omega} (\frac{\alpha P}{\alpha x}+\frac {\alpha Q}{\alpha y}+\frac {\alpha R}{\alpha z})dv= \oiint_{\Sigma} (Pcos\alpha+Qcos\beta+R\gamma)dS$$
 
 这里$\Sigma$是$\Omega$整个边界曲面的外侧,$cos\alpha 、cos\beta、 cos\gamma$是在点$(x,y,z)$处的法向量的方向余弦.
 

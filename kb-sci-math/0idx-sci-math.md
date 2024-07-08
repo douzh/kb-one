@@ -14,7 +14,7 @@
     - [[2dn-math-4sag2]]
   - 多元函数微分 [[2dn-math-5mdiff]]
   - 重积分 [[2dn-math-6msum]]
-  - 曲线积分和曲面积分
+  - 曲线积分和曲面积分 [[2dn-math-6msum]]
   - 无穷极数
   - 积分方程
 

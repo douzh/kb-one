@@ -13,6 +13,8 @@
 - 观点：来自某个人的观点
 - 猜测：来自某个人的猜测
 
+- [国家知识产权局专利检索](https://pss-system.cponline.cnipa.gov.cn/conventionalSearch)
+
 
 # 目录
 - 数学

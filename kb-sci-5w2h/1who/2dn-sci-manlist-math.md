@@ -5,7 +5,7 @@
 | [1596-1650 笛卡尔 Descartes](1596descartes.md) | 坐标系 解析几何之父 |      |      |
 | [1646-1716 莱布尼茨 Leibniz](1646leibniz.md)   | 微积分              |      |      |
 
-## 1596-1650 笛卡尔 Descartes
+## 1596-1650 法国 笛卡尔 Descartes
 
 ![](assets/1596descartes.webp)
 
@@ -22,7 +22,7 @@
 
 [[1596descartes]]
 
-## 1646-1716 莱布尼茨 Leibniz
+## 1646-1716 德国 莱布尼茨 Leibniz
 
 ![](assets/1646leibniz.webp)
 

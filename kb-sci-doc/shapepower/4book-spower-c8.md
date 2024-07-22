@@ -197,13 +197,19 @@ $$e=\sigma4\pi^2Rr$$
 
 The energy E of the ring is from classical electrostatics.
 
+环的能量E来自经典静电学。
+
 $$E_e=e^2/2C$$
 
 Where C is the capacitance of the ring, the inductive or magnetostatic energy Em is also derived from classical electrostatics.
 
+其中C是环的电容，电感能或静磁能Em也来自经典静电学。
+
 $$E_m=Li^2/2$$
 
 L is the self inductance with current i of the ring. The current is also from classical electrostatics and is:
+
+L是环电流i的自感。电流也来自经典静电学，为：
 
 $$i=ec/2\pi R$$
 

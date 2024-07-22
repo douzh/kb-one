@@ -261,5 +261,183 @@ From(22), (23), and (17) it is easy to show that x =3R so combining the above:
 
 $$L_e=\mu_0\pi R/2$$
 
+The frequency $f_e$ of the electron is from the familiar resonance of an LC network:
 
+电子的频率$f_e$来自LC网络的常见共振：
 
+$$f_e=\frac{2\pi}{L_eC_e}$$
+
+Combining(17), (22), and(23)yields:
+
+将（17）、（22）和（23）组合得到：
+
+$$f_e=c/R$$
+
+From Menzel' the Compton wavelength $f_e$ is:
+
+根据Menzel的说法，康普顿波长$f_e$为：
+
+$$f_c=mc^2/h$$
+
+where c is speed of light and h is Plank's constant. Combining(26) and (27),
+
+其中c是光速，h是普朗克常数。结合（26）和（27），
+
+$$R=h/mc$$
+
+This is the large radius, R, of the electron.
+
+这是电子的大半径R。
+
+The anomalous magnetic moment can also be computed from this model of the torroidal electron. The ring current i is $i=e\omega/2\pi$ where $\omega$ is the angular velocity which is c so
+
+反常磁矩也可以从环形电子的这个模型中计算出来。环电流i为$i=e\omega/2\pi$元，其中$\omega$为角速度，c为
+
+$$i=ec/2\pi R$$
+
+Magnetic $u_e$ is:
+
+磁性$u_e$为：
+
+$$u_e=AI$$
+
+where A is the area of the current torroid. Combining(28),(29), and(30) yields:
+
+其中A是电流环面的面积。将（28）、（29）和（30）组合得到：
+
+$$u_e=he/4\pi m=u_B$$
+
+where $u_B$ is the Bohr magneton. Computation of this yields:
+
+其中$u_B$是玻尔磁子。计算此产量:
+
+u= 0.92731 which is good to 3 decimal places.
+
+u=0.92731，精确到小数点后3位。
+
+The anomalous electron moment correction is:
+
+反常电子矩校正为：
+
+$$(1+\alpha/2\pi -2.973\alpha^2/\pi^2)=u_e/u_o$$
+
+where a is the fine structure constant and $\alpha=7.29729 \times 10^{-3}$. When this correction is computed:
+
+其中a是精细结构常数，$\alpha=7.29729 \times 10^{-3}$。计算此校正时：
+
+$$u_e=0.928381$$
+
+which is good to places for the Bohr magneton. More accuracy can be achieved by using a better approximation for the inductance Le and the torroidal shape which is done in Bergman's analysis. The main point to be made from all this is that the torroid electron model yields good results which are not achievable with classical or quantum mechanics. The other important point is this entire analysis obviates the need for Einstein's theories of relativity since we can derive all the atomic parameters without Einstein's nonsensical assumptions. Lets hope the orthodox community gets with the program and wakes up.
+
+这对玻尔磁子的位置很好。通过使用Bergman分析中所做的电感Le和环面形状的更好近似，可以获得更高的精度。由此得出的主要观点是，环面电子模型产生了经典或量子力学无法实现的良好结果。另一个重要的观点是，整个分析消除了对爱因斯坦相对论的需求，因为我们可以在没有爱因斯坦荒谬假设的情况下推导出所有原子参数。让我们希望正统派社区接受这个计划并觉醒。
+
+A summary of the torroid model equations and values are shown in table 8.2.1.1-1. This table also shows the values for the positron, proton, and anti-proton. The proton is related in size by the proton mass to the electron mass ratio of 1836.15. The proton is 1836.15 times more massive than the electron so its magnetic moment, radius, rotation, and current are similarly affected. Appendix B summarizes part of the nuclides of the atomic structure as based on the torroidal particle theory. It is seen that this corresponds perfectly with known electron- and proton-measured values.
+
+环面模型方程和数值汇总如表8.2.1.1-1所示。该表还显示了正电子、质子和反质子的值。质子的大小与1836.15的质子质量与电子质量比有关。质子的质量是电子的1836.15倍，因此其磁矩、半径、旋转和电流也受到类似的影响。附录B总结了基于环面粒子理论的原子结构的部分核素。可以看出，这与已知的电子和质子测量值完全一致。
+
+![](assets/c8-05.png)
+
+## 8.3原子结构
+
+8.3 Atomic Structure
+
+Atomic structure builds according to the rules of geometry and the polarity of atomic particles. Polarities are the result of aetheric flows into and out of matter where the flow directions produce the magnetic poles. John Ernst Worrel Keely was the first sub-atomic physicist as he characterized the nuclear structure. His basic elucidation of atomic structure was derived from his development of the science of vibratory physics. One of his discoveries was that of the substructure of the proton. He discovered it was a particle made of three sub-nuclear particles. Further research led him to the idea that this three-particle substructure continued down to smaller and smaller level of particles within each particle. Keely claimed to have learned to control the substructure 27 levels down from the basic proton. The Keely atom is depicted in a stylized format in figure 8.3-1. Keely's atom was closer to spherical shells than torroids. The first level of substructure was finally theorized in the orthodox community by Feynman in 1958. Keely's discovery antedated Feynman by over 60 years! Feynman called the three particles making up the proton, "quarks".
+
+原子结构是根据几何规则和原子粒子的极性构建的。极性是以太流进出物质的结果，其中流动方向产生磁极。约翰·恩斯特·沃雷尔·基利是第一位描述核结构的亚原子物理学家。他对原子结构的基本解释源于他对振动物理科学的发展。他的发现之一是质子的亚结构。他发现它是由三个亚核粒子组成的粒子。进一步的研究使他产生了这样的想法，即这种三粒子的亚结构一直延续到每个粒子中越来越小的粒子水平。基利声称已经学会了控制基本质子底层27级结构。基利原子在图8.3-1中以风格化的格式进行了描述。基利的原子比小行星更接近球壳。1958年，费曼终于在正统派中提出了第一层次的子结构理论。基利的发现比费曼早了60多年！费曼称构成质子的三个粒子为“夸克”。
+
+![](assets/c8-06.png)
+
+Figure 8.3-1. Keely "Atom" (i.e., Proton) Showing Torroidal Structure
+
+图8.3-1 基利“原子”（即质子）显示出环面结构
+
+![](assets/c8-07.png)
+
+Figure 8.3-2 depicts the torroidal atomic structure of two hydrogen atoms combined to form the hydrogen molecule (i.e., $H_2$) with two electrons and two protons.
+
+图8.3-2描述了两个氢原子结合形成具有两个电子和两个质子的氢分子（即$H_2$）的环面原子结构。
+
+Figure 8.3-3 depicts the torroidal atomic structure of a helium atom with two electrons, two neutrons, and two protons. The neutron, according to Bergman, is really a combined electron and proton since neutrons decompose upon release into an electron and proton. At the nuclear level, the protons and neutrons are continually changing back and forth into each other. The helium atom acts like four neutrons because the two electrons and two protons operate like two more neutrons.
+
+图8.3-3描述了氦原子的环面原子结构，氦原子有两个电子、两个中子和两个质子。根据伯格曼的说法，中子实际上是电子和质子的结合体，因为中子在释放时分解成电子和质子。在核水平上，质子和中子不断地来回变化。氦原子的作用就像四个中子，因为两个电子和两个质子的作用就像另外两个中子。
+
+![](assets/c8-08.png)
+
+Figure 8.3-3. Torroidal Helium Atom
+
+图8.3-3 环形氦原子
+
+## 8.4磁性
+
+8.4 Magnetism
+
+Magnetism is existent as:
+
+1. The earth's natural magnetic field theorized to be created by the flow of the earth's liquid core.
+2. A permanent magnetic field around magnetized materials
+3. Either static or alternating magnetic fields around current carrying wires where the current is either direct current (DC) or alternating current (AC), respectively.
+4. The magnetic field of an electron toroid ring which has the local aetheric field flowing through it.
+
+磁性存在于：
+1.地球的自然磁场理论上是由地核的液流产生的。
+2.磁化材料周围的永久磁场
+3.载流导线周围的静态磁场或交变磁场，其中电流分别为直流（DC）或交流（AC）。
+4.电子圆环的磁场，它具有流过它的局部以太场。
+
+In cases 2 and 3 above, the field is created by enough of the electrons in a material being aligned so that all of their aetheric flows are additive and create a large flow of aether in the area around the magnet. So we see that magnetic fields are all the result of case 4 above (i.e., vortical flows of the aether).
+
+The strong polarity of magnets is due to the concentration of the aether flowing through the poles. Tests, conducted by the author with clairvoyants, have verified that a magnet is essentially an aether pump.
+
+在上述情况2和3中，场是由排列的材料中足够多的电子产生的，因此它们的所有以太流都是相加的，并在磁体周围的区域产生大的以太流。所以我们看到磁场都是上面情况4的结果（即以太的旋涡流）。
+
+磁铁的强极性是由于流经两极的以太的浓度。作者用天眼进行的测试已经验证了磁铁本质上是以太泵。
+
+Magnets have an energy flowing around them, as I and many other new science researchers have postulated. My laboratory experiments plus experiments with clairvoyants have proven that the magnetic field around a permanent magnet is in fact a vortical flow of aetheric force. The atoms act as aetheric pumps to move the aether. When many of the atoms are lined up, as in a permanent magnet, the atoms' aetheric flows all add together to create a large flow around the magnet. The seminal research, in the last century, by Baron von Reichenbach using clairvoyants, studied the energies around magnets. One of the observations they made was that there was blue energy at the north pole and red energy at the south pole.
+
+正如我和许多其他新的科学研究人员所假设的那样，磁铁周围有一种能量流动。我的实验室实验和天眼实验已经证明，永磁体周围的磁场实际上是以太力的旋涡流。原子充当以太泵来移动以太。当许多原子排列成一排时，就像在永磁体中一样，原子的以太流加在一起，在磁体周围形成一个大的流。上个世纪，冯·赖兴巴赫男爵利用天眼进行了这项开创性的研究，研究了磁铁周围的能量。他们的观测结果之一是北极有蓝色能量，南极有红色能量。
+
+Holding permanent magnets will charge up a person's aura. Two magnets facing NS-SN have a big bubble of energy between them. Shape power can tap the energy flow around magnets.
+
+持有永磁体会给人的气场充电。面对NS-SN的两个磁体之间有一个巨大的能量气泡。形状能量可以利用磁铁周围的能量流。
+
+## 8.4.1重力
+
+8.4.1 Gravity
+
+As summarized in table 8.1-1, the gravitation constant, as grad E, correlates with the seminal work by T. Townsend Brown. Brown discovered that a capacitor will tend to move in the direction of the positive plate. Apparent weight loss is the result when the plates are perpendicular to the local gravity gradient. This effect can be enhanced by making one plate much smaller than the other plate. This essentially forces the grad E to maximize.
+
+如表8.1-1所示，重力常数，即梯度E，与T.Townsend-Brown的开创性工作相关。布朗发现电容器会倾向于向正极板的方向移动。表观重量损失是板垂直于局部重力梯度时的结果。这种效果可以通过使一个板比另一个板小得多来增强。这基本上迫使梯度E最大化。
+
+It should be noted that grad E is independent of whether the field is AC or DC. Experiments have shown that even with this enhancement the capacitor does not have all its apparent weight nullified and levitate. The reason for this can be found again in the nuclear particle's relationship with the aether. Even though each atom is in constant resonance with the aether, this resonance is not synchronized across the mass. Each atom is doing its own thing, so to speak, and there is a random interchange with the aether with respect to all the nuclei. Thus, when a grad E facts as an aether pump across the capacitor plates, only a small portion of the atoms become synchronized to this aetheric flow so the entire mass does not respond at the same time; therefore, all the atoms don't try and move at the same time. An interesting experiment suggested by Paul Stowe to test the grad E effect is shown in figure 8.4-1.
+
+应该注意的是，梯度E与场是AC还是DC无关。实验表明，即使有这种增强，电容器也不会使其所有的表观重量无效和悬浮。其原因可以从核粒子与以太的关系中再次找到。尽管每个原子都与以太保持着恒定的共振，但这种共振在整个质量上并不同步。可以说，每个原子都在做自己的事情，并且与以太就所有原子核进行随机交换。因此，当梯度E在电容器板上形成以太泵时，只有一小部分原子与以太流同步，因此整个质量不会同时响应；因此，并不是所有的原子都试图同时移动。Paul Stowe提出了一个有趣的实验来测试梯度E效应，如图8.4-1所示。
+
+![](assets/c8-09.png)
+
+Figure 8.4-1. Paul Stowe's Experiment to Test Hydrodynamic Gravity Model
+
+图8.4-1 Paul Stowe的流体力学重力模型试验
+
+Analysis of various, apparently disconnected, events where levitation was witnessed provides some important clues to a means of effecting synchronization of the nuclei. This was explained, in detail, in a paper by Davidson and Decker. Synchronization of the nuclei with the aether has been achieved by two main methods; namely, rotation or movement and sonically.
+
+对各种明显不相关的悬浮事件的分析为实现核同步的方法提供了一些重要线索。Davidson和Decker在一篇论文中对此进行了详细解释。通过两种主要方法实现了原子核与以太的同步；即音速旋转或运动。
+
+Townsend Brown was quite open in publicizing his experimental results even though they were being funded in part by the Office of Naval Research out of San Diego. However, when he started rotating his gravitors on their axis, the results suddenly became classified and all information on his experiments ceased. It is suspected that major levitation resulted and this breakthrough was classified to protect the discovery so it could be exploited for "national defense".
+
+汤森-布朗非常公开地公布了他的实验结果，尽管这些实验结果的部分资金来自圣地亚哥的海军研究办公室。然而，当他开始绕着重力仪的轴旋转时，结果突然被保密，所有关于他的实验的信息都停止了。人们怀疑产生了次重大的反策略结果，保密被归类为保护这一发现，以便用于“国防”。
+
+Analysis of the phenomenon of inertia provides the major clue to how rotation could act to synchronize the flow of aether into the nuclear sub structure of the gravitors. Haisch, Rueda, and Puthoff theorize that inertia is a result of mass's resistance of movement through the zero point energy (ZPE) field (i.e., the aether) because the mass, at the nuclear level, is linked directly into the aether. Puthoff and his friends did a nice proof of what Keely stated, in 1896, that inertia was a result of the resistance of mass to the local aetheric field. Hence, it is easy to see that movement/rotation could cause the aetheric flows of the mass to reorient with respect to the direction of movement.
+
+对惯性现象的分析为旋转如何使以太流同步进入引力子结构提供了主要线索。Haisch、Rueda和Puthoff理论认为，惯性是质量通过零点能量（ZPE）场（即以太）运动阻力的结果，因为质量在核水平上直接与以太相连。Puthoff和他的朋友们很好地证明了基利在1896年所说的惯性是质量对局部以太场抵抗的结果。因此，很容易看出，运动/旋转可能会导致物质的以太流相对于运动方向重新定向。
+
+Sonic stimulation performs the same thing by getting all the atoms of the mass to resonate together which synchronizes aetheric flows into the nucleus. Several interesting levitation effects have been observed where sonic stimulation assisted in the levitation.
+
+声波刺激通过使质量中的所有原子共振在一起来执行同样的事情，从而使以太流同步进入原子核。在声波刺激辅助悬浮的情况下，已经观察到了一些有趣的悬浮效应。
+
+## 8.5核结构概述
+
+8.5 Summary of Nuclear Structure
+
+A new model of the atom has been presented in this chapter. The old idea of electrons rotating around the nucleus has been dispensed with and replaced by a four-basic-particle-structure where the particles are torroids of the aether rotating at the speed of light. The aether is modeled as a superfluid. Using these concepts, we can easily derive the atomic constants and account for the atomic structure and derive the basic morphology of the various elements in the periodic table. The current orthodox view of atomic structure cannot do this. By the principle of Occam's razor, the simpler model should be the prevalent view.
+
+本章提出了一种新的原子模型。电子围绕原子核旋转的旧想法已经被四个基本粒子结构所取代，其中粒子是以光速旋转的以太的环面。以太被建模为超流体。使用这些概念，我们可以很容易地导出原子常数，解释原子结构，并导出元素周期表中各种元素的基本形态。目前正统的原子结构观不能做到这一点。根据奥卡姆剃刀原理，更简单的模型应该是普遍的观点。

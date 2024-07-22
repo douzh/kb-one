@@ -41,6 +41,8 @@
   - Russell [[4book-0idx-book-russell]]
   - Newman [[4book-0dix-emn]]
   - Keshe [[0idx-book-keshe]]
+  - [[0idx-book-spower]]
+    - [[4book-spower-c8]]
 - [[0idx-sci-patent]]
 
 [[0idx-one-todo]]
@@ -68,6 +70,8 @@
 [4book-0idx-book-russell]: kb-sci-doc/1871russell/4book-0idx-book-russell.md "Russell文献"
 [4book-0dix-emn]: kb-sci-doc/1936newman/1968energy-machine-newman/4book-0dix-emn.md "纽曼的能源机"
 [0idx-book-keshe]: kb-sci-doc/1958keshe/0idx-book-keshe.md "keshe科技"
+[0idx-book-spower]: kb-sci-doc/shapepower/0idx-book-spower.md "0idx-book-spower"
+[4book-spower-c8]: kb-sci-doc/shapepower/4book-spower-c8.md "第8章核结构-形状力量的基础"
 [0idx-sci-patent]: kb-sci-patent/0idx-sci-patent.md "专利"
 [0idx-one-todo]: todo/0idx-one-todo.md "TODO 待分类资料"
 [0idx-one-xian]: kb-meta/xian/0idx-one-xian.md "修行"

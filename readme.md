@@ -20,6 +20,7 @@
 - 数学
   - [[0idx-sci-math]]
 - 物理
+  - [多物理场仿真百科](https://cn.comsol.com/multiphysics)
   - [[0dix-sci-wave]]
   - [[0idx-sci-vortex]]
 - 化学

@@ -34,7 +34,7 @@ The self-sustaining plasmatic process gives independent functioning without conn
 
 This new patent-application contains many of the basic ideas disclosed and claimed in EP 05447221 in more detailed way or in variations. There are also methods described which were not disclosed in the abovementioned patent application. This invention relates to an energy producing system, method, concept and technology whereby in a reactor-embodiment a chain of energetic events is created via a rotative magnetic initiation of a basic ionization of a gas (i.e. hydrogen) or other matters, which then triggers a controllable chain of energy transfers (so called scintillation) to the next following layer(s) of introduced gasses (i.e. He, Ne, Ar, Kr, Xe) and all other introduced elements of the periodic table (i.e. Li, Be, K, Ca, Ti, ...Pt, etc.) and/or their introduced molecule combinations (i.e. vapor). We show now also that injection of specific liquid metallic elements has advantages.
 
-这个新的专利申请，包括了许多在EP 05447221专利中已揭示的基本思想和权利要求，并进一步或以不同的方式做了更详尽的阐释。这里也有一些方法，是在上述专利申请中没有提及的。这项发明涉及到能源生产的系统、 方法、 概念和技术，在微型等离子体反应堆中产生一连串的激发事件，通过旋转磁场产生了一个基本的电离气体（如氢）或其他物体，然后触发一个可控的链式能量转移（也称为闪烁）触发它到以下已知的气体层（如i.e. He, Ne, Ar, Kr, Xe）和其他元素周期表中已知的物质（如i.e. Li, Be, K, Ca, Ti, ...Pt, etc.）。在这里可以看到，即使注射入特定的液态金属元素，也能起到有益的作用。
+这个新的专利申请，包括了许多在EP 05447221专利中已揭示的基本思想和权利要求，并进一步或以不同的方式做了更详尽的阐释。这里也有一些方法，是在上述专利申请中没有提及的。这项发明涉及到能源生产的系统、 方法、 概念和技术，**在微型等离子体反应堆中产生一连串的激发事件，通过旋转磁场产生了一个基本的电离气体（如氢）或其他物体，然后触发一个可控的链式能量转移（也称为闪烁）触发它到以下已知的气体层（如i.e. He, Ne, Ar, Kr, Xe）和其他元素周期表中已知的物质（如i.e. Li, Be, K, Ca, Ti, ...Pt, etc.）**。在这里可以看到，即使注射入特定的液态金属元素，也能起到有益的作用。
 
 3  The technology for creation of light and heat using the principal of creation of energy of the system using the principal of the patent, mainly can utilise the single magnetic field or more magnetic field principal of the patent.
 
@@ -76,7 +76,7 @@ Due the self-sustaining process the operation will last for a long period of tim
 
 一种也可以用于照明和加热烹饪的微型等离子反应器，也可以至少保持一种希望的作用（即，产生一个或多个磁场，两个磁场用于生成磁锁定或磁同步等等。）
 
-由于自维持作用，该装置的运行将持续很长时间（即，5年），这可使安装在各种设备，物体，容器和机械之中的这种装置，能够发挥上述功能，而无需同电网连接，无需由太阳电池供电，或与任何其它形式的传统电源相连接，和/或者无需再充电。这在应用传统的产品和概念上，带来一种全新的方式，而且新型的产品也将被创造出来。
+**由于自维持作用，该装置的运行将持续很长时间（即，5年），这可使安装在各种设备，物体，容器和机械之中的这种装置，能够发挥上述功能，而无需同电网连接，无需由太阳电池供电，或与任何其它形式的传统电源相连接，和/或者无需再充电。这在应用传统的产品和概念上，带来一种全新的方式，而且新型的产品也将被创造出来。**
 
 12  We describe now two specific micro-reactors. The first micro-plasma-reactor has at least one closed, internal fixed reactor chamber in which at least one inert gas (19, 23, 24) or any other gasses or elements or isotopes or other matters is present, like Hydrogen (H) (22) or liquid Helium (He), and in which the inside chamber wall(s) is equipped with at least one layer and/or zone of one or more radioactive material(s) that will provoke scintillation.
 
@@ -84,7 +84,7 @@ The second micro-plasma-reactor has at least one reactor chamber in which at lea
 
 现在我们描述两种特定的微型反应器。第一种微型等离子反应器，具有至少一个封闭的、内部的、固定的反应器腔室，腔室中至少具有一种惰性气体（19，23，24），或者任何其它的气体或元素，或同位素，或其它物质，例如氢（H）（22），或液态氦（He），另外在单层或多层腔室壁中，至少设置由一种或多种放射性材料构成的一个层和/或区，该层或区将诱发火花闪烁。
 
-第二种微型等离子反应器，具有至少一个反应器腔室，腔室中至少具有一种惰性气体或者任何其它的元素或同位素，例如液态氦（He），其中加入了一种极轻的放射性物质（即，一种稀释物，细粒，尘粒），用于诱发火花闪烁。但是在这两种微型等离子反应器中，另外至少还要加入一种原子的或微量的气体，金属材料气化物（20，25），和/或周期表上的液态元素，例如：钾（K），钠（Na），锶（Sr），用于温度在1000K以上的高温运行，等等。
+第二种微型等离子反应器，具有至少一个反应器腔室，腔室中至少具有一种惰性气体或者任何其它的元素或同位素，例如**液态氦（He），其中加入了一种极轻的放射性物质（即，一种稀释物，细粒，尘粒），用于诱发火花闪烁**。但是在这两种微型等离子反应器中，另外至少还要加入一种原子的或微量的气体，金属材料气化物（20，25），和/或周期表上的液态元素，例如：钾（K），钠（Na），锶（Sr），用于温度在1000K以上的高温运行，等等。
 
 13  We claim and describe here also a new method by which in a plasma reactor chamber at least one metallic material vapour (20)(i.e. K, Na, Ca, Mg) or liquid metallic element layer is brought by injection means between at least two layers of inert gasses (i.e. H, He, Ne, Xr), what will create - without rotation or adjustable speed of rotation and if the correct element combinations are used - a magnetic field by the added metallic type layer (s) (in example: element Sodium between Neon 20 and Argon 40, or 41) causing a recurring process of creation of magnetic field, where for example if atomic Potassium is used in the reactor, this element through beta decay lead to creation of Argon and the by-product of scintillation for example Neon gas or the Argon itself leading to ionization of the gasses (i.e. Hydrogen) leading to creation of free electron for creation of current and establishment of plasma within the caroline core.
 

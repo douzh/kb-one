@@ -14,6 +14,8 @@
 - 猜测：来自某个人的猜测
 
 - [国家知识产权局专利检索](https://pss-system.cponline.cnipa.gov.cn/conventionalSearch)
+- [美国专利局检索](https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html)
+  - 美国专利局检索太早的专利只有专利号可以查到专利，发名人查询没有录入信息。
 
 
 # 目录

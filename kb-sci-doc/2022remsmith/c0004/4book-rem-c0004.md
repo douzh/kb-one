@@ -154,3 +154,32 @@ This leaves us with an interesting problem. Electrons, when disturbed, first pro
 
 这给我们留下了一个有趣的问题。电子在受到干扰时，首先产生磁通量，然后在自旋回到正常位置时产生电通量。因此，任何电子运动都会产生高于环境的能量，即超统一。
 
+## 电能及其相关现象
+
+ELECTRICAL ENERGY WITH ASSOCIATED PHENOMENA
+
+1. Current-amperes results from the unequal distribution of negativity (electrons).
+2. Electron spin causes electrical current and magnetic lines of force.
+3. Magnetic imbalance causes the gravitational effect. This is evidenced in electric motors by magneto-gravitational displacement of mess, which causes the motor to rotate.
+
+1.电流安培是由负性（电子）的不均匀分布引起的。
+2.电子自旋产生电流和磁力线。
+3.磁不平衡导致引力效应。这在电动机中得到了证明，即磁引力位移会导致电动机旋转。
+
+ENERGY LINES QF FLUX(FORCE) FIELDS & WAVES
+
+能量线QF通量（力）场和波
+
+![](assets/c0004-3.png)
+
+Below 20,000 Cycles Per Second = Fields
+
+Above 20.000 Cycles Per Second = Waves (Radio Frequency)
+
+每秒20000次以下=场
+
+每秒20000次以上=电波（射频）
+
+
+
+

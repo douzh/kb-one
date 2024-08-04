@@ -42,6 +42,7 @@
   - Keshe [[0idx-book-keshe]]
   - [[0idx-book-spower]]
     - [[4book-spower-c8]]
+  - [[0idx-book-rem-smith]]
 - [[0idx-sci-patent]]
 
 [[0idx-one-todo]]
@@ -70,6 +71,7 @@
 [0idx-book-keshe]: kb-sci-doc/1958keshe/0idx-book-keshe.md "keshe科技"
 [0idx-book-spower]: kb-sci-doc/1997shapepower/0idx-book-spower.md "形状的力量"
 [4book-spower-c8]: kb-sci-doc/shapepower/4book-spower-c8.md "第8章核结构-形状力量的基础"
+[0idx-book-rem-smith]: kb-sci-doc/2022remsmith/0idx-book-rem-smith.md "共振能量法 唐·史密斯"
 [0idx-sci-patent]: kb-sci-patent/0idx-sci-patent.md "专利"
 [0idx-one-todo]: todo/0idx-one-todo.md "TODO 待分类资料"
 [0idx-one-xian]: kb-meta/xian/0idx-one-xian.md "修行"

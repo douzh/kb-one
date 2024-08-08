@@ -92,7 +92,7 @@ Don L. Smith, Energy Consultant
 
 At a meeting between J.P. Morgan, Edison and Tesla, Tesla proposed an Electrical Energy System which could he connected into directly, without using a meter. Tesla's Idea of "Free Energy" was not compatible with their thinking. Courtesy of Morgan and Edison, from that day foreword, a complete and total bastardization of the Idea has been in progress. Agents for Morgan and Friends include the U.S. Patent Office and Academia. Academia's bad habit of incestuous quoting of each other, eliminates them as a possibility in cleaning up the mess. This selective ignorance, permeates throughout the study of electricity
 
-在摩根大通、爱迪生和特斯拉的一次会议上，特斯拉提出了一种可以直接连接的电能系统，而无需使用电表。特斯拉的“自由能源”理念与他们的想法不相容。感谢摩根和爱迪生，从那天开始，这一理念被全面和彻底的篡改一直在进行中。摩根大通和他的伙伴的代理人包括美国专利局和学术界。学术界混乱引用彼此的坏习惯，消除了他们清理混乱的可能性。这种选择性的无知渗透到了整个电学研究中
+在摩根大通、爱迪生和特斯拉的一次会议上，特斯拉提出了一种可以直接连接的电能系统，而无需使用电表。特斯拉的“自由能源”理念与他们的想法不相容。感谢摩根和爱迪生，从那天开始，这一理念被全面和彻底的篡改一直在进行中。摩根大通和他的伙伴的代理人包括美国专利局和学术界。学术界混乱引用彼此的坏习惯，消除了他们清理混乱的可能性。这种选择性的无知渗透到了整个电学研究中。
 
 Many people, otherwise known as "intellectuals", have a total blackout and become jabbering idiots when "free-energy" is mentioned. The term has been amended to say, "something which was never there is being harvested and that this violates the laws of physics". For the selectively ignorant, this seems the way to run. Those who choose Morgan's drum beat, have severely limited the possibilities built into electricity.
 

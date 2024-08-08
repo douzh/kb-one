@@ -189,7 +189,7 @@ Benefits of the Inventor's System
 6. 系统[设备]的物理尺寸较小。“B”中描述的设备舒适地放在早餐桌上。
 7. 使用小型能源启动设备，该能源始终由系统充满电。
 
-## 不能起一的反证
+## 不能超一的反证
 
 The Evidence Against Under Unity
 

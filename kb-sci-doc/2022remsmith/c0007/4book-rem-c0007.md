@@ -1,4 +1,4 @@
-# 背景信息和概念
+# E.E.S. II背景信息和概念
 
 E.E.S. II, BACKGROUND INFORMATION & CONCEPT
 

@@ -114,3 +114,150 @@ This over-unity device produces energy at radio frequencies which range into the
 
 Electrical Power Generation / Points of Reference
 
+Useful Electrical Power is Generated when Electrons from Earth and Air Groundings are disturbed by the movement of coils and magnets with reference to each other. The resulting electrical and magnetic energy is then changed to joules [watt-seconds: Volts x Amps x Seconds]. Each forward electron movement results in a magnetic impulse and each return movement causes an electrical impulse. The composite of the electrical energy impulses from these electrons yields useful energy [Power].
+
+当来自地球和空气接地的电子受到线圈和磁体相对于彼此的运动的干扰时，会产生有用的电力。然后，产生的电能和磁能变为焦耳[瓦特秒：伏特x安培x秒]。每个正向电子运动都会产生磁脉冲，每个返回运动都会引起电脉冲。这些电子产生的电能脉冲的合成产生了有用的能量[功率]。
+
+Let the above electron movement be represented by a room full of ping pong balls bouncing randomly. Most of the energy present cancels out by random impacts. This is the Classic Under-Unity approach to Electrical Power Generation, sanctioned by the Establishment.
+
+让上述电子运动由一个满是随机弹跳的乒乓球的房间来表示。目前的大部分能量会被随机撞击抵消。这是由当权者认可的经典不超一发电方法。
+
+In contrast to that, in the Electrical Energy Generation System presented here, the resonant Electrons are all moving in the same direction at the same time. This allows Near-Unity Electrical Power to Develop. This is the room-temperature equivalent of super conductivity.
+
+与此相反，在这里提出的电能产生系统中，谐振电子都在同一时间沿同一方向移动。这使得Near Unity电力得以发展。这等同室温超导。
+
+The Energy System presented here, consists of a properly-adjusted and functional resonant aircore coil tank. The magnetic energy is stored in the coil system and the Electrical Energy is stored in capacitors. From Maxwell and others, we know that electrical-related energy has an equal amount of magnetic energy associated with it.
+
+这里介绍的能量系统由一个经过适当调整且功能正常的谐振空气芯线圈箱组成。磁能存储在线圈系统中，电能存储在电容器中。从麦克斯韦和其他人那里，我们知道与电能有等量的磁能与之相关连。
+
+"The formula which establishes the Useful Energy of the System":
+
+“确定系统有用能量的公式”：
+
+![](assets/c0005-07.png)
+
+The transfer of Electrical Power by Resonant Induction is a direct function of the squaring of the cycles per second. For example, square 60 C.P.S. and then square the radio frequency C.P.S.s of the System here presented. Obviously, One Million Cycles per Second transfers more energy than Sixty Cycles per second. The Sanctioned Method of Electrical Power Generation uses the 60 C.P.S. Method. Using 60 C.P.S. and the random scattering of the Electrons System, assures the Establishment of it's desired Under-Unity Goal.
+
+通过谐振感应传输电力是每秒周期平方的直接函数。例如，将60 C.P.S.平方，然后将这里提出的系统的射频C.P.S.S平方。显然，每秒一百万次循环传递的能量比每秒六十次循环多。受限制的发电方法使用60 C.P.S.方法。使用60 C.P.S.和电子系统的随机散射，确保不能起一的目的。
+
+This random bouncing of the Electrons is the Ohms of Ohm's Law and is used to establish the rate of dissipation and/or Load [Work].
+
+电子的这种随机反弹是欧姆定律的欧姆，用于确定耗散率和/或负载[功]。
+
+In the Resonant Tank Induction Energy Transfer System presented here, Impedance [system resistance] replaces the conventional ohm's usage. At Resonance, impedance becomes zero and the full force and effect of the Energy Transfer occurs. This is superconducting conditions at room temperature. At radio frequency the Electrons do not pass through the conductor as they do at lower frequencies. Instead, these Electrons encircle the conductor and are free of the conductor's resistance.
+
+在这里介绍的谐振储能感应能量传输系统中，阻抗[系统电阻]取代了传统的欧姆使用。在共振时，阻抗变为零，能量转移的全部力和效果发生。这是室温下的超导条件。在射频下，电子不会像在较低频率下那样穿过导体。相反，这些电子环绕导体，不受导体电阻的影响。
+
+Let the Establishments Power Generation System be called 'A" and the System presented here be called "B".
+
+将当权派的电系统称为“A”，此处介绍的系统称为”B“。
+
+With "A": Given 60 C.P.S. at 120 Volts using a 10 microfarad Capacitor:
+
+使用“A”：使用10微法电容器在120伏下给出60 C.P.S.：
+
+![](assets/c0005-08.png)
+
+Using the Inventor's Resonant Induction System, the Electrical Power available would then be 259.2 Joules [Watt-Seconds]. Using the Establishment's method only permits less than 10 WattSeconds of Useful Electrical Energy.
+
+使用发明人的谐振感应系统，可用的电力将为259.2焦耳[瓦秒]。使用权派的方法只允许小于10瓦特秒的有用电能。
+
+"B". Given One Million Cycles per second at 100,000 Volts, using a 10 microfarad Capacitor.
+
+B使用10微法电容器，在100000伏下每秒100万次循环。
+
+![](assets/c0005-09.png)
+
+## 发明人系统的好处
+
+Benefits of the Inventor's System
+
+1. Induction Energy transfer is enhanced by the squaring of the cycles per second produced by the System.
+2. Induction Energy transfer is enhanced by the squaring the input voltage and amperage.
+3. The increase of the flux lines occurring from the above, disturbing more electrons, causes more electrical energy to become available.
+4. Resonant Induction has all of the Electrons moving unimpeded, resulting in superconductor conditions at room temperature.
+5. A smaller amount of energy is used to disturb a larger number of Electrons. Electrons not originally a part of the System then contribute their energy, resulting in a net gain in available usable power.
+6. The physical size of the System [Device] is small. The Device described in "B" sits comfortable on a breakfast table.
+7. A small energy source is used to start the device and that source remains fully charged at all times by the System.
+
+--
+1. 感应能量传递通过系统产生的每秒周期的平方来增强。
+2. 通过将输入电压和电流平方来增强感应能量传递。
+3. 上述情况引起的通量线的增加，干扰了更多的电子，导致更多的电能可用。
+4. 共振感应使所有电子不受阻碍地移动，从而在室温下形成超导体条件。
+5. 使用较少的能量来干扰较多的电子。电子最初不是系统的一部分，然后贡献它们的能量，导致可用功率的净增益。
+6. 系统[设备]的物理尺寸较小。“B”中描述的设备舒适地放在早餐桌上。
+7. 使用小型能源启动设备，该能源始终由系统充满电。
+
+## 不能起一的反证
+
+The Evidence Against Under Unity
+
+1. Use of Logarithmic Scales on electrical measurement instruments. Linear measurement works fine where Ohm's Law applies (direct current). In alternating current, ohms are replaced by impedance and the measurements become non-linear.
+2. Infinite "Q" at resonance confirms that voltage and amperage is squared, as in the kineticenergy formula. See the formulas of this report.
+3. Square waves are clipped infinite "Q"s.
+4. Maxwell and others show that magnetic-inductance-amperage and electrical-capacitancevoltage are two sides of the same coin. Magnetic-inductance is directly equal to amperage.  Both obey the Law of Squares, which has over-unity built in.
+5. Magnetic and electrical flux are present in enormous amounts at the outer ends of an operating Tesla Coil.
+6. Ignorance of how to measure and relate magnetic and electrical flux, is the chief weapon of the under-unity gaggle.
+7. The Cumulative inductance and capacitance of the Tesla Coil grounds itself out, if not properly utilized. See this report for the temporary energy storage accessible, when properly managed.
+8. The Patent Office refers devices related to over-unity to their metering group, which is a sure indication that they are aware and accept the logarithmic measuring devices. This is direct and absolute evidence that they accept the square law as it relates to kinetic energy. This also indicates they are aware that over-unity exists. Since their bureaucratic brain is improperly motivated they continue to badger inventors who are working in the over-unity arena. Their level of intellectual dishonesty is sanctioned by, and is a real part of doing business with, a government which prides itself in being a hooliganistic bureaucracy.
+
+1. 在电气测量仪器上使用对数刻度。线性测量在欧姆定律适用的地方（直流电）工作良好。在交流电中，欧姆被阻抗所取代，测量结果变得非线性。
+2. 谐振时的无限“Q”证实了电压和电流的平方，如动能公式所示。请参阅此报告的公式。
+3. 方波被截断为无限“Q”。
+4. Maxwell等人表明，电感电流和电容电压是同一枚硬币的两面。磁电感直接等于安培数。两者都遵守正方形法则，该法则具有内在的超一性。
+5. 运行中的特斯拉线圈的外端存在大量的磁通量和电通量。
+6. 忽略如何测量和关联磁通量和电通量，是认为不能起一的人的主要武器。
+7. 如果使用不当，特斯拉线圈的累积电感和电容会自行接地。如果管理得当，请参阅本报告以了解可访问的临时储能。
+8. 专利局将与超一相关的设备归入其计量组，这明确表明他们知道并接受对数测量设备。这是他们接受与动能相关的平方律的直接和绝对证据。这也表明他们意识到存在超一设备。由于他们的官僚大脑动力不足，他们继续纠缠着在起一领域工作的发明家。他们的智力不诚实程度得到了一个以流氓官僚主义为荣的政府的认可，也是与之做生意的一部分。
+
+
+Reading List
+
+1. Alston, L.L. ( Ed.), 1968, High-Voltage Technology, Oxford Univ. Press, London
+2. Beck, E. 1954, Lightning Protection for Electric Systems, McGraw-Hill, N Y.
+3. Bowdler, GAV. 1973, Measurements in High-voltage Test Circuits Pergamom, Oxford. L C.  72-86488
+4. Brewley, L.V., 1951, Traveling Waves in Transmission Lines Pub: John Wiley. N.Y.
+5. Chapman, S. and Barteis, J . 1940, Geomagnetism, two volumes, 1,000 plus pages, Oxford at the Clarendon press, England
+6. Craggs. J.D. and Meek, J.M. 1954, High-Voltage laboratory Technique., Butterworth, London
+7. EHV Transmission Line Reference Book, 1968 Edison Elcctric Institute, N.Y.
+8. Farno, R.M., Chu. L.J., and Adler, R.B., 1968, Electromagnetic Fields, Energy and Forces, Pub: M.I.T Press, Cambridge, Mass.
+9. Feinberg, R. (Ed. ) 1979, Modern Power Transformer Practice, McMillan. London
+10. Frungel, F., High Speed Pulse Technology, Vols 1 and 2, Pub: Academic Press. 1965, N.Y., and London
+11. Gallagher, T.J. and Pearmain, AJ. 1983, ISBN 0-471-90096-6 High Voltage Measurement and Design, John Wiley, N.Y.
+12. Hague, B., Alternating-Current Bridge Methods, 5 th. ed. Pub: Sir lsaac Pitman and Sons, 1959, London.
+13. Hawley, W.G. 1959, Impulse-voltage Testing, Chapman and Hill, London.
+14. Hayashi, Ch., Non-linear Oscillations in Physical Systems, Pub: McGraw-Hill, 1964. N.Y.
+15. Henny, K. 1933-1959, Editor-in-Chief, Radio Engineering Handbook, five different copyrights, L.C. 58-11174, McGraw-Hill. N.Y.
+16. Hudlestone, R.H. and Leonard, S.L., Plasma Diagnostics Techniques, Pub: Academic Press.  N.Y.
+17. Jacobs, J A., Editor, Geomagnetism, ( a massive work ) 3 large volumes, Pub: Academic Press, London.
+18. Jeans, J.H. 1925, The Mathematics of Electricity and Magnetism, 5 th. Ed., Cambridge University Press,
+19. Jones, B. 1972, New Approaches to the Design and Economics of EHV Transmission Plant, Pergamom, London.
+20. Kind, D. 1978, An Introduction to High-voltage Experimental Technique, Viewieg, Braunschweig ISBN 3-528-08383-2
+21. Knoepfel. H. 1970. Pulsed High Magnetic Fields, North-Holland, Amsterdam.
+22. Kreuger, F H. 1964, Discharge Detection in High-Voltage Equipment, Temple Press, Heywood, London.
+23. Kuffel, E. and Zacngl. W S. 1984, High-Voltage Engineering, Pergamom, London. ISBN 0-08-024213-8
+24. Kupfmuller, K. 1957, Introduction to the Scientific Basis of Electrical Engineering, Pub Spinger. Berlin.
+25. Lemon. H.B. and Ference, M. Jr., Analytical Experimental Physics " a major work" from The Ryerson Physical Laboratory at the University of Chicago, numerous copyrights 1933-1944. Printed as a text book by the University of Chicago Press
+26. Lewis, I.A.D., and Well, F.H., Milli-microsecond Pulse Techniques Pub: Pergamom Press, N.Y. and London.
+27. Malan, D.J. 1963, Physics of Lightning, English University Press, London.
+28. Martin, T.L Jr., Physical Basis for Electrical Engineering, Prentice-Hall, N.J.
+29. Matsusta, S. and Campbell, W.H . 1967 Physics of Geomagnetic Phenomena, Massive work in two volumes of 700 pages each. Academic Press, London.
+30. National Physical laboratory, 1956, Notes on Applied Science ii 17, High Voltage Impulse Testing. HMSO.
+31. Rather, H.. 1961, The Electron Avalanche and it's Generation, Pub: Vo. 33, Springer, Berlin.
+32. Rokityansky, I.I., 1982. Geo-electromagnetic Investigation of the Earth's Crust and Mantle, Pub: Springer-Verlag, Berlin.
+33. Salge, J., Pcier, D , Brilka, R., Schneider, D„ 1970, Applications of Inductive Energy Storage for the Production of Intense Magnetic Fields, Pub: Procedure of 6 th. Symp. on Fusion Technology, Aachen
+34. Schulz, E.H., Anderson, L.T., and Leger, R.M., Experiments in Electronics and Communication Engineering, Copyrights, various, from 1943 thru 1954 LC 55-5033 Harper and Brothers, N.Y.
+35. Schwab, AJ 1972, High-Voltage Measurement Techniques, The M I T. Press, Cambridge.  Mass., ISBN 0262-19096-6
+36. Sevin, L., 1965, Field Effect Transistors, McGraw-Hill, London.
+37. Silsbee, F.B., 1942, Static Electricity, U.S. Department of Commerce, Washington. DC, U.S. Government Printing Office, (N.B.S. Circular C 438)
+38. Smith, A. A., 1977, Coupling of External Electromagnetic Fields to Transmission Lines, ISBN 0-471-01995-X
+39. Terman. F.E., Electronics and Radio Engineering, 4 th. ed., Copyrights 1932, 1937, 1947 and 1955 LC 55-6174 McGraw-Hill Book Co., N.Y
+40. Thomas, R.T.,1970 High-Impulse Current and Voltage Measurement, Trans. I.E.E.E. EV1-19, pages 102-107
+41. Thompson, Professor W, (titled Lord Kelvin ) Reprint of Papers or. Electrostatics and Magnetism (original 1872) London.
+42. Traister, R., 1983, The Experimenter's Guide to Solid State Diodes, Prentice-Hall, Inc.  ISBN 0-13-295444
+43. Valley, G.E, and Wallman. II . 1948, Vacuum Tube Amplifiers, McGraw-Hill, N.Y.
+44. Weedy, B.M. 1980, Underground Transmission of Electrical Power, Wiley, London,
+45. Weeks, W L. 1981, Transmission and Distribution of Electrical Energy, Harper and Row, N.Y.
+46. Winch, R_P. Electricity and Magnetism ( several printings ) Composed in Copenhagen, Denmark, Prentice-Hall Physics Series
+47. Zijlstra, H., 1957, Experimental Methods in Magnetism, two volumes, the North-Holland Publishing Co.. Amsterdam.

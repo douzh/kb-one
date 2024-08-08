@@ -48,6 +48,7 @@ DRAWING 1 OF 4: VIEW OF THE METHOD N = North and S = South of the Dipole
 6. For purposes of the drawing, a virtual limit of the electromagnetic wave energy.
 7. Capacitor plates, with dielectric in between.
 
+--
 1. 偶极子的南北分量。
 2. 谐振高压感应线圈。
 3. 偶极子的电磁波发射。
@@ -126,23 +127,23 @@ DRAWING 4 OF 4: Manufactures Prototype, Constructed and fully tested.
 
 ![](assets/c0001-04.png)
 
-- 1. Metal Dipole rod.
-- 2. Resonate High Voltage induction coil.
-- 10. Connector wires.
-- 17. Connector block for Input from high voltage energy source.
-- 18. Clamps for upper edge of capacitor packet.
-- 19. Support Device for The Dipole Transformer Generator.
-- 20. Packet of Capacitor Plates.
-- 21. Output connectors of the capacitor, producing energy into a deep cycle battery which then powers the inverter.
+- 1 Metal Dipole rod.
+- 2 Resonate High Voltage induction coil.
+- 10 Connector wires.
+- 17 Connector block for Input from high voltage energy source.
+- 18 Clamps for upper edge of capacitor packet.
+- 19 Support Device for The Dipole Transformer Generator.
+- 20 Packet of Capacitor Plates.
+- 21 Output connectors of the capacitor, producing energy into a deep cycle battery which then powers the inverter.
 
-- 1.金属偶极杆。
-- 2.谐振高压感应线圈。
-- 10. 连接器电线。
-- 17. 高压能源输入连接器块。
-- 18. 电容器包上边缘的夹具。
-- 19. 偶极变压器发电机的支撑装置。
-- 20. 电容器极板包。
-- 21. 电容器的输出连接器，将能量产生到深循环电池中，然后为逆变器供电。
+- 1 金属偶极杆。
+- 2 谐振高压感应线圈。
+- 10 连接器电线。
+- 17 高压能源输入连接器块。
+- 18 电容器包上边缘的夹具。
+- 19 偶极变压器发电机的支撑装置。
+- 20 电容器极板包。
+- 21 电容器的输出连接器，将能量产生到深循环电池中，然后为逆变器供电。
 
 BEST METHOD OF CARRYING OUT THE INVENTION:
 

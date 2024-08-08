@@ -24,17 +24,31 @@ C.F.高斯（1777-1855）和H.C.奥斯特（1777—1851）分别试图在去除�
 
 The entire surface of the Earth has been surveyed by aerial magneto¬meter, in most cases using gamma or nano teslas. One gamma is the magnetic flux equivalent of 10 active volts of electricity. When the data is corrected for flight height it becomes obvious that there are numerous areas where the gamma readings exceed one trillion gammas. Lightning strikes from the ground up are in that energy range. With knowledge of these electron enriched areas, the quality of Earth grounding, becomes enhanced. The correction necessary for land surface data when acquired from aerial magnetometer maps (using Coulomb's law) requires that the remote distance be squared and then multiplied by the remote reading. As an example, if the remote reading is 1,600 gammas and the flight height being 1,000 feet. Take 1,000 x 1,000 = 1,000,000 x 1,600 gammas = 1.6 trillion gammas x 10 volts = 16 trillion volts equivalent for land surface data. Present day methodology requires mechanical energy in exchange for electrical energy.
 
+地球的整个表面都被航空磁强计测量过，在大多数情况下使用伽马或纳米特斯拉。一个伽马是相当于10伏有效电压的磁通量。当数据根据飞行高度进行校正时，很明显，在许多地区，伽马读数超过一万亿伽马。地面上的雷击就在这个能量范围内。随着对这些电子富集区的了解，地球接地的质量得到了提高。从航空磁强计地图（使用库仑定律）获取的陆地表面数据所需的校正要求将远程距离平方，然后乘以远程读数。例如，如果远程读数为1600伽马，飞行高度为1000英尺。对于陆地表面数据，取1000 x 1000=1000000 x 1600伽马=1.6万亿伽马x 10伏特=16万亿伏特当量。当今的方法需要机械能来换取电能
+
 Once obtained, this energy is subject to Ohm's Law. Present Methodology obtains it's electrical energy from it's non-metal and air groundings.
+
+一旦获得，这种能量就服从欧姆定律。本方法从其非金属和空气接地中获得电能。
 
 This same energy can be obtained without the wasteful mechanical approach and at a much, much lower cost. Any required amount of electricity is available by resonant induction transfer from the Earth's magnetic and electrical fields. The major difference is in the functioning of Ohm's Law in relation to resonant circuits. In the resonant induction system suggested here, system resistance (Z) becomes zero at resonance.
 
+这种相同的能量可以在没有浪费的机械方法的情况下以更低的成本获得。任何所需的电量都可以通过地球磁场和电场的共振感应传输获得。主要区别在于欧姆定律在谐振电路中的作用。在这里提出的谐振感应系统中，系统电阻（Z）在谐振时变为零。
+
 Therefore, Volts and Amperes are equal (V.A.R.) until work (load) is introduced.
+
+因此，在引入功（负载）之前，伏特和安培是相等的（V.A.R.）。
 
 Each cycling of this resonant induction system pulls in additional electrons from the Earth's electrical field, generating electrical energy in any required amount. In this system, a small amount of electrical energy is used to activate and pull a much larger amount of energy into the system.
 
+这种共振感应系统的每次循环都会从地球电场中吸收额外的电子，产生任何所需量的电能。在这个系统中，使用少量的电能来激活并将大量的能量拉入系统。
+
 This electrical advantage corresponds to the pulley and lever of the mechanical world. The electrical system presented here is extremely efficient. Using present methodology as a basis for comparison, with it's 60 cycles per second system. The resonant induction system, cycling at 60 million times per second produces one million times the energy which is produced by the present energy systems. A single small size unit of the resonant induction system has more usable electrical output than a major conventional unit. The radio frequency energy produced iseasily changed to Direct Current, and then to the present 60 cycles per second system in preparation for commercial usage.
 
+这种电气优势对应于机械世界的滑轮和杠杆。这里介绍的电气系统非常高效。使用目前的方法作为比较的基础，它是每秒60个周期的系统。谐振感应系统每秒循环6000万次，产生的能量是现有能源系统的100万倍。谐振感应系统的单个小尺寸单元比主要的传统单元具有更多的可用电输出。产生的射频能量很容易转换为直流电，然后转换为目前每秒60个周期的系统，为商业使用做准备。
+
 The Patent Pending on this system is #08/100,074, "Electrical Energy Generating System",dated 4 February, 1992.
+
+该系统的未决专利为#08/100074，“电能发电系统”，日期为1992年2月4日。
 
     Definitions:
     One Joule is one watt for one second

@@ -41,4 +41,35 @@ This new system ("E.E.S. II") is uncomplicated, physically small and it is inexp
 Earth Electrical System II, Modular Units
 
 
+The system consists of three separate modules. Reverse engineering is used in matching the
+modules to the desired usage.
+
+HIGH VOLTAGE INDUCTION TRANSFORMER MODULE:
+
+1. Preferably an off-the-shelf-unit similar to a TV flyback and/or automobile ignition type
+related coil (transformer).
+2. Ratio of input to output may be from less than 1:100 to greater than 1:1,000 A voltage tripler
+may then be used.
+3. A connection allowing the high voltage output to pass onward through the induction coil L-1
+and then to it's grounding.
+
+AN AIR CORE INDUCTION COIL TRANSFORMER MODULE:
+
+1. There are two coils: the reactor coil L-1 and the reactant coil L-2. L-1 has a high voltage
+radio frequency capacitor between it and it's grounding.
+2. Input into the L-1 inductor is divided by the number of turns in it. The magnetic flux field
+provided from each turn of L-1 replicates itself as an electrical potential in each turn of L-2.
+3. L-2 may have one turn or many hundreds of turns. The net gain depends upon the number of
+turns in L-2. Output from L-2 is in V.A.R. With this type of output, volts and amperes are the
+same until work(resistivity) is introduced
+
+THE INVERTER MODULE:
+
+1. Inverts to direct current (D C.)
+2. Inverts to alternating current (A C ), as desired.
+3. Provides customized output of electrical power ready for designated usage
+   
+![](assets/c0007-02.png)
+
+![](assets/c0007-03.png)
 

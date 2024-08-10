@@ -327,6 +327,64 @@ This System utilizes an universally available energy source.
 
 该系统利用普遍可用的能源。
 
-Endorsement and Certification of The System can be anticipated by States with pollutionproblems.
+Endorsement and Certification of The System can be anticipated by States with pollution problems.
 
 有污染问题的国家可以期待该体系的认可和认证。
+
+## 空心感应线圈建造指南
+
+AIR CORE INDUCTION COIL BUILDERS GUIDE
+
+DONALD L. SMITH
+
+Energy Consultant
+
+1. Decide frequency. Considerations are: (economy of size)
+
+a. Use radio frequency upward (above 20,000 Hz).
+b. Use natural frequency (coils have both capacitance and inductance), that is match the wire length of the wire in the coil to the desired frequency.
+c. Wire length is either one quarter, one half or full wave length.
+d. To obtain the wire length (in feet) use the following: If using one quarter wave length divide 247 by the desired frequency (megahertz range is desirable). If using one half wave length divide 494 by the desired frequency. If using full wave length divide 998 by the desired frequency.
+
+1. 确定频率。考虑因素有：（规模经济）
+
+a. 向上使用射频（20000 Hz以上）。
+b. 使用固有频率（线圈具有电容和电感），即使线圈中导线的长度与所需频率相匹配。
+c. 线长为四分之一、一半或全波长。
+d. 要获得电线长度（英尺），请使用以下公式：如果使用四分之一波长，则将247除以所需频率（兆赫范围是理想的）。如果使用一半波长，则将494除以所需频率。如果使用全波长，则将998除以所需频率。
+
+2. Decide number of turns, ratio of increase in number of turns sets the function. In the case of the L-1 coil, each turn divides the input voltage by the number of turns. In the case of L-2 coil, the resulting voltage in each turn of L-1 is induced into each turn of L-2, adding up with each turn. For example if the input into L-1 from a high voltage, low amperage module is 2,400 volts, and L-1, for example, has 10 turns, then each turn of L-1 will have 240 volts of magnetic induction which transfers 240 volts of electricity to each turn of L-2. L-2 may be one turn or many turns, such as 100 to 500 or more turns. At 100 turns, 24,000 volts would be produced. At 500 turns, 120,000 volts would be produced.
+
+2. 确定匝数，匝数增加的比例设置函数。在L-1线圈的情况下，每匝将输入电压除以匝数。在L-2线圈的情况下，L-1每匝的电压被感应到L-2的每匝中，并与每匝相加。例如，如果从高电压、低电流模块输入到L-1的电压为2400伏，而L-1有10匝，那么L-1的每匝将有240伏的磁感应，从而将240伏的电力传输到L-2的每匝。L-2可以是一圈或多圈，例如100至500圈或更多圈。在100匝时，将产生24000伏的电压。在500匝时，将产生120000伏的电压。
+
+3. Decide the height and diameter of the coil system. The larger the diameter of the coil, thefewer turns are required, and the coil has a lesser height. In the case of L-2 this results in lowering the amplification of the induced voltage from L-1.
+
+3. 确定线圈系统的高度和直径。线圈的直径越大，需要更多的匝数，线圈的高度也越小。在L-2的情况下，这导致感应电压的放大率从L-1降低。
+
+4. For example, if 24.7 MHz is the desired frequency output from L-2. One quarter wave length would be 247 divided by 24.7 which equals 10 feet of wire. The number of turns will be the amplification factor. The coil may be wound on standard size P.V.C. or purchased from a supplier. The supplier is normally a ham radio supply source. Once the length is determined and the number of turns decided, move to the next step. For example, let each turn of L-1 have 24 volts and desired output of L-2 be 640 volts. Therefore L-2 needs 26.67 turns. It has been determined that the wire length for one quarter wave length is 10 feet. The number of inches in 10 feet is 120. Using Chart "A" supplied look for next higher number of turns showing (being between 20 and 30 turns with a 2" diameter coil). This tells us to use a 2" coil. If ready-made as in the case of Barker and Williamson, 10 Canal Street, Bristol, Penna., 215-788-5581, the coils come in standard sizes of 4, 6 and 10 turns per inch. For higher "Q" use wider spacing of the turns. These coils come in a ready-made length of 10 inches. Select from the coil 30 turns and put input clamps on the base of the coil and at 30 turns. For exact determination of the correct position of the output clamp, use an externally grounded voltage probe. The node of maximum intensity, being the natural resonant point. Off the shelf multimeters are not radio frequency responsive. The easiest way to accomplish the above is to get from the hardware store or Radio Shack a voltage detector having a neon bulb system (Radio Shack Cat. No. 272-1100b, NE2- Neon Lamps) will work. With your hand as a ground, move the wire extension of the neon lamp along the coil surface until the neon is brightest. This is the desired point of resonance and it is the optimum connection point.
+
+4. 例如，如果24.2MHz是L-2的期望频率输出。四分之一波长将是247除以24.7，等于10英尺的电线。匝数将是放大系数。线圈可以缠绕在标准尺寸的PVC上，也可以从供应商处购买。供应商通常是业余无线电供应源。一旦确定了长度和转弯次数，就进入下一步。例如，假设L-1的每一圈有24伏，L-2的期望输出为640伏。因此，L-2需要26.67圈。已经确定四分之一波长的线长度为10英尺。10英尺的英寸数是120。使用提供的图表“A”查找下一个更高的圈数（直径为2“的线圈在20到30圈之间）。这告诉我们使用2”的线圈。如果像宾夕法尼亚州布里斯托尔运河街10号Barker和Williamson（215-788-5581）那样现成，线圈的标准尺寸为每英寸4、6和10圈。对于更高的“Q”，使用更宽的转弯间距。这些线圈有10英寸的现成长度。从线圈中选择30圈，并将输入夹具放在线圈底部30圈处。为了准确确定输出钳位的正确位置，请使用外部接地的电压探头。最大强度的节点，即自然共振点。现成的万用表没有射频响应。完成上述操作的最简单方法是从五金店或Radio Shack购买一个带有霓虹灯灯泡系统的电压检测器（Radio Shack目录号272-1100b，NE2-霓虹灯）。用手接地，沿着线圈表面移动霓虹灯的电线延伸，直到霓虹灯最亮。这是理想的共振点，也是最佳连接点。
+
+5. The input power now needs consideration. A 2,400 High Voltage module has been previously selected. This module can be made from a diode bridge or any combination of voltage amplifiers. The one used here is an off-the-shelf type, similar to those used for laser technology.
+
+5. 现在需要考虑输入功率。之前已选择2400高压模块。该模块可以由二极管电桥或电压放大器的任何组合制成。这里使用的是现成的类型，类似于用于激光技术的类型。
+
+6. Construction of the input L-1 coil. It has already been decided that there will be 10 turns.  The length of the wire here is not critical. Since the L-2 coil is 2-inches in diameter, the next off-the-shelf larger size may be used for L-1. Use a 3" diameter off-the-shelf coil which has 10 turns to the inch. Remove (cut) a 10 turn portion from the larger coil. Use an L.C.R. meter and measure the natural farads (capacitance) and henrys (inductance) values of the L-2 coil. Now do the same for the L-1 coil. It will be necessary to put a capacitor across the voltage input of L-1 in order to match the L-1 coil to the L-2 coil. A spark gap across L1 is also required to deal with the return voltage from L-1. A tuneable capacitor of the pad ("trimmer") type for L-1 is desirable.
+
+6. 输入L-1线圈的构造。已经决定将有10匝。这里的电线长度并不重要。由于L-2线圈的直径为2英寸，因此下一个现成的较大尺寸可用于L-1。使用直径为3英寸的现成线圈，每英寸有10匝。从较大的线圈上取下（切割）10匝部分。使用L.C.R.仪表测量L-2线圈的自然法拉（电容）和亨利（电感）值。现在对L-1线圈也这样做。有必要在L-1的电压输入端放置一个电容器，以使L-1线圈与L-2线圈相匹配。L1两端还需要一个火花隙来处理L-1的返回电压。L-1的可调电容器（“微调器”）类型是理想的。
+
+7. The performance of the L-2 coil can be further enhanced by having an Earth grounding from the base of the coil. The maximum voltage output will be between the base and the top of the L-2 coil. Lesser voltages can be obtained at intermediate points along the length of the L-2 coil.
+
+7. 通过从线圈底部接地，可以进一步提高L-2线圈的性能。最大电压输出将在L-2线圈的基极和顶部之间。在L-2线圈长度的中间点可以获得较小的电压。
+
+SUPPLY SOURCES
+
+供应来源
+
+1. HAM RADIO SUPPLY STORES
+2. COILS, AIR INDUCTOR IN HOUSTON
+3. BAKER AND WILLIAMSON (READY MADE), BRISTOL. PENNA. ALSO R.F. DUMMY LOADS AND WATTMETERS.
+
+NOTES
+
+![](assets/c0007-05.png)

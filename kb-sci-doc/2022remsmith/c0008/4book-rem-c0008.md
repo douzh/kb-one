@@ -147,3 +147,123 @@ requirements of the national as well as the local code.
 If an estimate of cost for electricity used is desired, the name plate data on appliances and
 equipment and an estimate of operating time may be used. The following formulas should be
 used for determining watts, amps, volts, watt-hours, kilowatt-hours, and cost.
+
+    Watts = Volts x Amperes
+    Amperes = Watts / Volts
+    Volts = Watts / Amperes
+    Watt-Hours = Watts x Hours of operation
+    Kilowatt-Hours = Watt-Hours / 1000
+    Cost = Kilowatt-Hours x Local Rate per Kilowatt-Hour (or per "Unit")
+
+Example:
+
+Local electricity rate per Kilowatt-Hour: 8 cents
+
+Equipment plate data: 120 Volts 5 Amps
+
+Monthly hours of operation: 10
+
+1. Watts = Volts x Amperes, so Watts = 120 x 5 = 600 watts
+2. Watt-Hours = 600 x 10 = 6,000 watt-hours
+3. Kilowatt-Hours = 5,000 / 1,000 = 6 kilowatt-hours (or 6 Units)
+4. Cost = 6 x 8 = 48 cents
+5. Electrical Circuits An Electrical Circuit is a completed path through which electricity
+flows. Insulated conductors (wires) provide the path for the flow of electricity. A water system
+and an electrical circuit are similar in many respects. Water flows through pipes and is
+measured in gallons per minute, and electricity flows through conductors and is measured in
+amperes. A simple circuit is shown here:
+
+![](assets/c0008-05.png)
+
+A circuit includes a "hot" wire (red or black) carrying current from the source through a switch,circuit protector (fuse or circuit-breaker), and an appliance. The neutral wire (white) conducts
+the current from the appliance to the source (ground).
+
+There arc two methods for connecting devices in a circuit - "in series" or "in parallel". In a
+series circuit, all of the current must flow through each device in the circuit. Removing any one
+of the devices in a series circuit will stop the flow of current. In parallel circuits, the load
+(lights or appliances) are connected between the two wires of the circuit providing an
+independent path for the flow of current, and removing a lamp has no effect on the other lamps
+in the circuit.
+
+Switches, fuses, and circuit breakers are always connected in series. In most cases, except for
+some Christmas tree lights, appliances and lights are connected in parallel.
+
+![](assets/c0008-06.png)
+
+6. 120 Volt and 240 Volt Circuits
+
+The 120V circuit has one "hot" and one neutral wire, with the switch and circuit protector in
+the hot line. The neutral wire from the appliance is connected to the neutral bar in the fuse or
+breaker box. For safety, the neutral wire should never be broken or interrupted with a switch or
+fuse.
+
+![](assets/c0008-07.png)
+
+The voltage in a 120V circuit is measured with a voltmeter with one lead on the hot terminal
+and the other lead on the neutral bar. The number of amperes flowing may be measured with a
+clamp-on ammeter by encircling the hot or neutral wire with the jaws of the ammeter.
+
+![](assets/c0008-08.png)
+
+The 240V circuit has two hot wires and one safety-ground wire. Switches and fuses are
+installed in the hot lines. The two hot wires arc necessary for the operation of 240V welders
+and motors. The safety-ground wire, connected to the metal frame of the equipment or motor
+and to the neutral bar, does not carry current unless a "short" develops in the motor or welder.
+If a short should occur, one of the circuit protectors will burn-out or open, thus opening the
+circuit.
+
+![](assets/c0008-09.png)
+
+The voltage on a 240V circuit is measured by fastening a lead on the voltmeter to each of the
+hot wires. Voltage between either hot terminal and the neutral bar will be one-half of the
+voltage between the two hot wires. The number of amperes flowing can be measured by
+clamping an ammeter around either of the hot wires.
+
+7. Safety Grounding of Electrical Equipment
+
+Refer back, to the 240V circuit and note the ground wire from the metal frame to the neutral
+bar. The following illustration shows proper safety grounding when operating a drill in a 120V
+circuit. The safety-ground wire may be bare, but a three-wire cable is recommended. Safetyground wire in three-wire cable is usually green in color. A current-carrying neutral wire should
+never be used for a safety-ground. Likewise, a safety-ground wire should never be used as a
+current-carrying hot or neutral wire
+
+![](assets/c0008-10.png)
+
+Using grounded receptacles and a safety-ground on all circuits will allow the safety-grounding
+of appliances when they are plugged into the outlet. An adapter must be used to properly
+ground appliances connected to receptacles which are not safety-grounded. If an adapter is
+used, the green pigtail wire must be connected to a known ground to give protection fromelectrical shock should a short-circuit occur.
+
+![](assets/c0008-11.png)
+
+A test lamp can be used to check a circuit completed between a "hot" wire and a neutral wire.
+Use the test lamp to check appliances for shorts. With the appliance plugged into an outlet,
+touch the appliance frame with one lead of the test lamp while the other lead of the test lamp is
+grounded to a water or gas pipe. If the test light does not burn, reverse the appliance plug and
+check with the test lamp again. If the light burns, a short exists (the hot wire is touching the
+frame of the appliance). Unplug the appliance and repair or discard it.
+
+8. Electrical Circuit Protection
+
+Electrical circuits should be protected from an overload of amperes. Too many amperes
+flowing through an unprotected circuit will generate heat, which will deteriorate or melt the
+insulation and possibly cause a fire. The number of amperes that a given conductor can safely
+carry, depends upon the kind and size of wire, type of insulation, length of run in feet, and the
+type of installation. Charts are available in reference texts giving allowable current-carrying
+capabilities of various conductors.
+
+The four types of circuit protection are: common fuses, fusetrons (time-delay), fustats (twopart time-delay), and circuit-breakers. Fuses are of two basic types: plug, and cartridge.
+Common fuses contain a link made from a low-temperature melting alloy which is designed to
+carry current up to the rating of the fuse. Current higher than the amperage rating causes the
+link to heat above it's melting point. When the fuse "blows", the link melts and opens the
+circuit.
+
+![](assets/c0008-12.png)
+
+Fusetrons (time-delay fuses) are made to carry a temporary overload, such as the overload
+caused by the starting of an electric motor. The fuse, however, still provides protection for thecircuit, and a short-circuit will melt the fuse link. If a common fuse is used, the fuse link will
+melt every time an electric motor starts. The use of a larger ampere common fuse will prevent
+the "blow" resulting from the temporary overload, but will not provide protection for the motor
+or the circuit.
+
+![](assets/c0008-13.png)

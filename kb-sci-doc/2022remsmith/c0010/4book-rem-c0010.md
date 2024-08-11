@@ -442,85 +442,147 @@ This system was soon changed when variable capacitors became available as they a
 
 While the circuit diagram above is marked “Tuning capacitor” that is actually quite misleading. Yes, you tune the radio receiver by adjusting the setting of the variable capacitor, but, what the capacitor is doing is altering the resonant frequency of the coil/capacitor combination and it is the resonant frequency of that combination which is doing exactly the same job as the variable coil did on it’s own.
 
+虽然上面的电路图标有“调谐电容器”，但这实际上是相当误导的。是的，您可以通过调整可变电容器的设置来调谐无线电接收器，但是，电容器所做的是改变线圈/电容器组合的谐振频率，而该组合的谐振速度与可变线圈本身所做的工作完全相同。
+
 This draws attention to two very important facts concerning coil/capacitor combinations. When a capacitor is placed across a coil “in parallel” as shown in this radio receiver circuit, then the combination has a very high impedance (resistance to AC current flow) at the resonant frequency. But if the capacitor is placed “in series” with the coil, then there is nearly zero impedance at the resonant frequency of the combination:
+
+这提请注意关于线圈/电容器组合的两个非常重要的事实。如图所示，当电容器“并联”放置在线圈两端时，该组合在谐振频率下具有非常高的阻抗（对交流电流的电阻）。但是，如果电容器与线圈“串联”放置，那么在组合的谐振频率下阻抗几乎为零：
 
 ![alt text](assets/c0010-42.png)
 
 This may seem like something which practical people would not bother with, after all, who really cares? However, it is a very practical point indeed. Remember that Don Smith often uses an off-the-shelf neon-tube driver module as an easy way to provide a high-voltage, high-frequency AC current source, typically, 6,000 volts at 30,000 Hz. He then feeds that power into a Tesla Coil which is itself, a power amplifier. The arrangement is like this:
 
+这似乎是务实的人不会费心的事情，毕竟，谁真的在乎呢？然而，这确实是一个非常实际的问题。请记住，Don Smith经常使用现成的霓虹灯管驱动模块作为提供高压、高频交流电流源的简单方法，通常为30000 Hz的6000伏。然后，他将这些电力输入特斯拉线圈，该线圈本身就是一个功率放大器。安排如下：
+
 ![alt text](assets/c0010-43.png)
 
 People who try to replicate Don’s designs tend to say “I get great sparks at the sparkgap until I connect the L1 coil and then the sparks stop. This circuit can never work because the resistance of the coil is too low”.
 
+试图复制唐设计的人倾向于说：“我在火花隙处得到很大的火花，直到我连接L1线圈，然后火花停止。这个电路永远无法工作，因为线圈的电阻太低”。
+
 If the resonant frequency of the L1 coil does not match the frequency being produced by the neon-tube driver circuit, then the low impedance of the L1 coil at that frequency, will definitely pull the voltage of the neon-tube driver down to a very low value. But if the L1 coil has the same resonant frequency as the driver circuit, then the L1 coil (or the L1 coil/capacitor combination shown on the right, will have a very high resistance to current flow through it and it will work well with the driver circuit. So, no sparks, means that the coil tuning is off. It is the same as tuning a radio receiver, get the tuning wrong and you don’t hear the radio station.
+
+如果L1线圈的谐振频率与霓虹管驱动器电路产生的频率不匹配，那么L1线圈在该频率下的低阻抗肯定会将霓虹管驱动器的电压拉低到非常低的值。但是，如果L1线圈与驱动电路具有相同的谐振频率，那么L1线圈（或右侧所示的L1线圈/电容器组合）将对流过它的电流具有非常高的电阻，并且它将与驱动电路良好配合。因此，没有火花意味着线圈调谐已关闭。这与调谐无线电接收器相同，如果调谐错误，您将听不到电台。
 
 This is very nicely demonstrated using simple torch bulbs and two coils in the YouTube video showing good output for almost no input power: here and while only one resonant pick-up coil is shown, there is the possibility of using many resonant pick-up coils with just the one transmitter.
 
+在YouTube视频中，使用简单的火炬灯泡和两个线圈很好地展示了这一点，视频显示了几乎没有输入功率的良好输出：虽然这里只显示了一个谐振拾取线圈，但也有可能只使用一个发射器使用许多谐振拾取线圈。
+
 As it would not be unusual for many readers to feel that there is some "black magic" about the neon-driver circuit used by Don to drive the Tesla Coil section of his circuitry and that if a suitable unit could not be purchased then the circuit could not be reproduced or tested, it seems reasonable to show how it operates and how it can be constructed from scratch:
 
+由于许多读者都会觉得唐用来驱动特斯拉线圈部分的霓虹灯驱动电路有一些“黑魔法”，如果买不到合适的装置，那么电路就无法复制或测试，因此展示它的工作原理以及如何从头开始构建似乎是合理的：
+
 The circuit itself is made up of an oscillator to convert the 12-volt DC supply into a pulsating current which is then stepped up to a high voltage by a transformer. Here is a circuit which has been used for this:
+
+电路本身由一个振荡器组成，用于将12伏直流电源转换为脉动电流，然后通过变压器将其升压到高压。以下是一个用于此目的的电路：
 
 ![alt text](assets/c0010-44.png)
 
 The supply for the 555 timer chip is protected against spikes and dips by the resistor "R" and the capacitor "C". The 555 timer chip acts as an oscillator or "clock" whose speed is governed by the two 10K resistors feeding the 440 nF capacitor. The step-up transformer is an ordinary (Model T Ford) car coil and the drive power to it is boosted by the IRP9130 FET transistor which is driven by the 555 chip output coming from it's pin 3.
 
+555定时器芯片的电源由电阻器“R”和电容器“C”保护，防止尖峰和骤降。555定时器芯片充当振荡器或“时钟”，其速度由两个10K电阻器控制，这两个电阻器为440 nF电容器供电。升压变压器是一个普通的（T型福特）汽车线圈，其驱动功率由IRP9130 FET晶体管升压，该晶体管由来自其引脚3的555芯片输出驱动。
+
 The output from the car coil is rectified by the diode, which needs to have a very high voltage rating as the voltage at this point is now very high. The rectified voltage pulses are stored in a very high-voltage capacitor before being used to drive a Tesla Coil. As a powerful output is wanted, two car coils are used and their outputs combined as shown here:
+
+汽车线圈的输出由二极管整流，二极管需要具有非常高的额定电压，因为此时的电压非常高。整流后的电压脉冲在用于驱动特斯拉线圈之前存储在一个非常高的电容器中。由于需要强大的输出，使用了两个汽车线圈，它们的输出组合如下：
 
 ![alt text](assets/c0010-45.png)
 
 You will notice that the car coil has only three terminals and the terminal marked "+" is the one with the connection common to both of the coils inside the housing. The coil may look like this:
 
+您会注意到，汽车线圈只有三个端子，标记为“+”的端子是外壳内两个线圈共用的连接端子。线圈可能看起来像这样：
+
 ![alt text](assets/c0010-46.png)
 
 and the "+" is generally marked on the top beside the terminal with the two internal connections running to it. The circuit described so far is very close to that provided by a neon-tube driver circuit and it is certainly capable of driving a Tesla Coil.
 
+“+”通常标记在端子旁边的顶部，有两个内部连接连接。到目前为止，所描述的电路非常接近霓虹灯管驱动电路提供的电路，它肯定能够驱动特斯拉线圈。
+
 There are several different way of constructing a Tesla Coil. It is not unusual to have several spark gaps connected in a chain. This arrangement is called a "series spark gap" because the spark gaps are connected "in series" which is just a technical way of saying "connected in a row". In the chapter on aerial systems, you will see that Hermann Plauston uses that style of spark gap with the very high voltages which he gets from his powerful aerial systems. One of the possible Tesla Coil designs uses apancake coil as the "L1" coil as shown here:
+
+构建特斯拉线圈有几种不同的方法。在链条中连接几个火花隙并不罕见。这种布置被称为“串联火花隙”，因为火花隙是“串联”连接的，这只是“串联”的一种技术方式。在关于航空系统的章节中，你会看到赫尔曼·普劳斯顿使用这种火花隙，他从强大的航空系统中获得了非常高的电压。其中一种可能的特斯拉线圈设计使用一个安可线圈作为“L1”线圈，如下图所示：
 
 ![alt text](assets/c0010-47.png)
 
 The connection to the pancake coil is by a moveable clamp and the two coils are tuned to resonance by careful and gradual adjustment of that connection. The series spark gap can be constructed in various ways. The one shown here uses nuts and bolts projecting through two strips of a stiff, non-conducting material:
 
+与煎饼线圈的连接是通过一个可移动的夹具实现的，通过仔细和渐进地调整该连接，将两个线圈调谐到共振状态。串联火花隙可以以各种方式构造。这里所示的是使用穿过两条坚硬、不导电材料的螺母和螺栓：
+
 ![alt text](assets/c0010-48.png)
 
 Tightening the bolts which compress the springs moves the bolt heads closer together and reduces the spark gaps. The electrical connections can be made to the end tags or to any of the intermediate wire connection straps if fewer spark gaps are required in the chain.
 
+拧紧压缩弹簧的螺栓会使螺栓头靠得更近，并减小火花隙。如果链条中需要较少的火花隙，则可以与端部标签或任何中间接线带进行电气连接。
+
 Let me remind you again that this is not a toy and very high voltages will be produced.  Also, let me stress again that if you decide to construct anything, then you do so entire on your own responsibility. This document is only provided for information purposes and must not be seen as an encouragement to build any such device nor is any guarantee given that any of the devices described in this eBook will work as described should you decide to attempt to construct a replication prototype of your own.  Generally, it takes skill and patience to achieve success with any free-energy device and Don Smith's devices are some of the most difficult, especially since he admits quite freely that he does not disclose all of the details.
+
+**让我再次提醒你，这不是玩具，会产生非常高的电压。此外，让我再次强调，如果你决定建造任何东西，那么你完全有能力这样做**。本文档仅供参考，不得被视为鼓励构建任何此类设备，也不能保证如果您决定尝试构建自己的复制原型，本电子书中描述的任何设备都能按所述工作。一般来说，使用任何自由能装置都需要技巧和耐心才能取得成功，而唐·史密斯的装置是最困难的，尤其是因为他坦率地承认自己没有透露所有细节。
 
 The output capacitor marked "C1" in the circuit diagram above has to be able to handle very high voltages. There are various ways of dealing with this. Don dealt with it by getting very expensive capacitors manufactured by a specialist company. Some home-based constructors have had success using glass beer bottles filled with a salt solution. The outside of the bottles are wrapped in aluminium foil to form one of the contacts of the capacitor and bare wires are looped from deep inside each bottle on to the next one, looping from the inside of one bottle to the inside of the next one, and eventually forming the other contact of the capacitor. While that appears to work well, it is not a very convenient thing to carry around.
 
+上面电路图中标记为“C1”的输出电容器必须能够处理非常高的电压。处理这个问题的方法有很多。唐通过让一家专业公司生产非常昂贵的电容器来解决这个问题。一些家庭建筑商成功地使用了装满盐溶液的玻璃啤酒瓶。瓶子的外部包裹着铝箔，形成电容器的一个触点，裸线从每个瓶子的深处绕到下一个瓶子上，从一个瓶子的内部绕到另一个瓶子内部，最终形成电容的另一个触点。虽然这似乎很有效，但随身携带并不太方便。
+
 One method which has been popular in the past is to use two complete rolls of aluminium foil, sometimes called "baking foil", laying them one flat, covering it with one or more layers of plastic cling film and laying the second roll of foil on top of the plastic.  The three layers are then rolled up to form the capacitor. Obviously, several of these can be connected together in parallel in order to increase the capacitance of the set.  The thicker the plastic, the lower the capacitance but the higher the voltage which can be handled.
 
+过去流行的一种方法是使用两卷完整的铝箔，有时称为“烘焙箔”，将它们平铺在一起，用一层或多层塑料保鲜膜覆盖，然后将第二卷铝箔放在塑料上。然后将这三层卷起形成电容器。显然，其中几个可以并联在一起，以增加设备的电容。塑料越厚，电容越低，但可以处理的电压越高。
+
 The November 1999 issue of Popular Electronics suggests using 33 sheets of the thin aluminium used as a flashing material by house builders. At that time it was supplied in rolls which were ten inches (250 mm) wide, so their design uses 14" (355 mm) lengths of the aluminium. The plastic chosen to separate the plates was polythene sheet 0.062 inch (1.6 mm) thick which is also available from a builders merchants outlet. The plastic is cut to 11 inch (280 mm) by 13 inch (330 mm) and assembly is as follows:
+
+1999年11月的《大众电子》杂志建议使用33片薄铝板作为房屋建筑商的防水材料。当时，它是以10英寸（250毫米）宽的卷状供应的，因此他们的设计使用了14英寸（355毫米）长的铝。选择用于分隔板材的塑料是0.062英寸（1.6毫米）厚的聚乙烯板，也可以从建筑商的商店买到。塑料被切割成11英寸（280毫米）乘13英寸（330毫米），组装如下：
 
 ![alt text](assets/c0010-49.png)
 
 The sandwich stack of sheets is then clamped together between two rigid timber sheets. The tighter that they are clamped, the closer the plates and the higher the capacitance. The electrical connections are made by running a bolt through the projecting ends of the plates. With two thicknesses of plastic sheet and one of aluminium, there should be room for a washer between each pair of plates at each end and that would improve the clamping and the electrical connection. An alternative is to cut a corner off each plate and position them alternatively so that almost no plate area is ineffective.
 
+然后，将三明治堆叠的板材夹在两块刚性木板之间。它们被夹紧得越紧，极板就越靠近，电容就越高。通过将螺栓穿过板的突出端来进行电气连接。使用两种厚度的塑料板和一种厚度的铝板，每对板的每一端之间应该有一个垫圈的空间，这将改善夹紧和电气连接。另一种方法是从每块板上切下一个角，并交替放置，这样几乎没有板面积是无效的。
+
 As Don Smith has demonstrated in one of his video presentations, Nikola Tesla was perfectly correct when he stated that directing the discharge from a Tesla Coil on to a metal plate (or in Don's case, one of the two metal plates of a two-plate capacitor where a plastic sheet separates the plates just as shown above), produces a very powerful current flow onwards through a good earth connection. Obviously, if an electrical load is positioned between the plates and the earth connection, then the load can be powered to a high level of current, giving a very considerable power gain.
 
+正如Don Smith在他的一个视频演示中所展示的那样，Nikola Tesla完全正确地指出，将特斯拉线圈的放电引导到金属板上（或者在Don的情况下，将两个板电容器的两个金属板之一，如上图所示，塑料片将板隔开）会产生非常强大的电流，通过良好的接地连接向前流动。显然，如果电负载位于板和接地连接之间，那么负载可以被供电到高电流水平，从而获得非常可观的功率增益。
+
 Coil Construction: The Barker & Williamson coils used by Don in his constructions are expensive to purchase. Some years ago, in an article in the “QST” amateur radio publication, Robert H. Johns shows how similar (if not superior) coils can be constructed without any great difficulty.
+
+线圈构造：唐在他的构造中使用的Barker&Williamson线圈购买起来很贵。几年前，在《QST》业余无线电出版物的一篇文章中，Robert H.Johns展示了如何毫不费力地构建类似（如果不是更好的话）的线圈。
 
 ![alt text](assets/c0010-50.png)
 
 These home-made coils have excellent “Q” Quality factors, some even better than the tinned copper wire coils of Barker & Williamson because the majority of electrical flow is at the surface of the wire and copper is a better conductor of electricity than the silver tinning material. However, the Electrodyne Corporation staff who have worked extensively with free-energy devices, state that tinned copper wire produces three times as much magnetic flux as does copper wire on its own.
 
+这些自制线圈具有出色的“Q”品质因数，有些甚至比Barker&Williamson的镀锡铜线线圈更好，因为大部分电流都在电线表面，铜是比银镀锡材料更好的电导体。然而，Electrodyne公司的工作人员在自由能装置方面进行了广泛的工作，他们表示，镀锡铜线产生的磁通量是铜线本身的三倍。
+
 The inductance of a coil increases if the turns are close together. The capacitance of a coil decreases if the turns are spread out. A good compromise is to space the turns so that there is a gap between the turns of one wire thickness. A common construction method with Tesla Coil builders is to use nylon fishing line or plastic strimmer cord between the turns to create the gap. The method used by Mr Johns allows for even spacing without using any additional material. The key feature is to use a collapsible former and wind the coil on the former, space the turns out evenly and then clamp them in position with strips of epoxy resin, removing the former when the resin has set and cured.
 
+如果匝数靠得很近，线圈的电感就会增加。如果匝数分散，线圈的电容会减小。一个很好的折衷方案是将匝间隔开，使匝间有一个线厚的间隙。特斯拉线圈制造商的一种常见施工方法是在线圈之间使用尼龙钓线或塑料钢丝绳来制造间隙。约翰斯先生使用的方法允许在不使用任何额外材料的情况下实现均匀的间距。其关键特征是使用可折叠的成型器，将线圈缠绕在成型器上，将线圈均匀地隔开，然后用环氧树脂条将其夹紧到位，待树脂凝固固化后将成型器拆除。
+
 Mr Johns has difficulty with his epoxy being difficult to keep in place, but when mixed with the West System micro fibres, epoxy can be made any consistency and it can be applied as a stiff paste without any loss of it’s properties. The epoxy is kept from sticking to the former by placing a strip of electrical tape on each side of the former.
+
+约翰斯先生很难将环氧树脂保持在原位，但当与West System微纤维混合时，环氧树脂可以制成任何稠度，并且可以作为硬质浆料使用，而不会损失其性能。通过在成型器的两侧放置一条电工胶带，防止环氧树脂粘附在成型器上。
 
 ![alt text](assets/c0010-51.png)
 
 I suggest that the plastic pipe used as the coil former is twice the length of the coil to be wound as that allows a good degree of flexing in the former when the coil is being removed. Before the two slots are cut in the plastic pipe, a wooden spreader piece is cut and it’s ends rounded so that it is a push-fit in the pipe. This spreader piece is used to hold the sides of the cut end exactly in position when the wire is being wrapped tightly around the pipe.
 
+我建议用作线圈架的塑料管是待缠绕线圈长度的两倍，因为这样在拆除线圈时，线圈架可以有很好的弯曲度。在塑料管上切割两个槽之前，先切割一个木制撑杆，并将其端部倒圆，以便在管中推入。当钢丝紧紧缠绕在管道上时，该撑杆用于将切割端的侧面精确地固定到位。
+
 Two or more small holes are drilled in the pipe beside where the slots are to be cut.  These holes are used to anchor the ends of the wire by passing them through the hole and bending them. Those ends have to be cut off before the finished coil is slid off the former, but they are very useful while the epoxy is being applied and hardening. The pipe slots are cut to a generous width, typically 10 mm or more.
+
+在要切割槽的旁边的管道上钻两个或多个小孔。这些孔用于通过将电线穿过孔并弯曲来锚定电线的末端。在成品线圈从线圈上滑下之前，必须切断这些端部，但在施加环氧树脂并硬化时，它们非常有用。管槽被切割成宽阔的宽度，通常为10毫米或更大。
 
 The technique is then to wedge the wooden spreader piece in the slotted end of the pipe. Then anchor the end of the solid copper wire using the first of the drilled holes.  The wire, which can be bare or insulated, is then wrapped tightly around the former for the required number of turns, and the other end of the wire secured in one of the other drilled holes. It is common practice to make the turns by rotating the former. When the winding is completed, the turns can be spaced out more evenly if necessary, and then a strip of epoxy paste applied all along one side of the coil. When that has hardened, (or immediately if the epoxy paste is stiff enough), the pipe is turned over and a second epoxy strip applied to the opposite side of the coil. A strip of paxolin board or strip-board can be made part of the epoxy strip. Alternatively, an L-shaped plastic mounting bracket or a plastic mounting bolt can be embedded in the epoxy ready for the coil installation later on.
 
+然后，该技术是将木制撑杆楔入管道的开槽端。然后使用第一个钻孔锚定实心铜线的末端。然后，将裸露或绝缘的电线紧紧地缠绕在前者上，达到所需的匝数，并将电线的另一端固定在另一个钻孔中。通常的做法是通过旋转前者来转弯。绕组完成后，如有必要，可以更均匀地间隔匝数，然后在线圈的一侧涂上一条环氧树脂浆料。当其硬化后（或者如果环氧树脂浆料足够硬，则立即），翻转管道，并将第二条环氧树脂条施加到线圈的另一侧。一条帕克索林板或条形板可以制成环氧条的一部分。或者，L形塑料安装支架或塑料安装螺栓可以嵌入环氧树脂中，为以后的线圈安装做好准备。
+
 When the epoxy has hardened, typically 24 hours later, the coil ends are snipped off, the spreader piece is tapped out with a dowel and the sides of the pipe pressed inwards to make it easy to slide the finished coil off the former. Larger diameter coils can be wound with small-diameter copper pipe.
+
+当环氧树脂硬化后，通常在24小时后，将线圈端部剪断，用销钉敲出撑杆，将管道侧面向内压，以便将成品线圈从线圈上滑下。较大直径的线圈可以用小直径的铜管缠绕。
 
 The coil inductance can be calculated from:
 
+线圈电感可以通过以下公式计算：
+
 Inductance in microhenrys $L = d^2n^2 / (18d + 40l)$
+
+微亨电感$L=d^2n^2/（18d+40l）$
 
 Where:
 
@@ -528,7 +590,15 @@ Where:
     n is the number of turns in the coil
     l is coil length in inches (1 inch = 25.4 mm)
 
+参数：
+
+    d是从电线中心到电线中心测量的线圈直径，单位为英寸
+    n是线圈的匝数
+    l是线圈长度，单位为英寸（1英寸=25.4毫米）
+
 Using this equation for working out the number of turns for a given inductance in microhenrys:
+
+使用此方程计算给定电感的匝数，单位为微亨：
 
 ![alt text](assets/c0010-52.png)
 

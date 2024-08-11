@@ -300,84 +300,143 @@ If the diode rating of these diodes were 4 amps at 4,000 volts, then the chain o
 
 Two DVDs containing video recordings of Don Smith's lectures are available for purchase via this website Various questions from readers indicate that the operation of AC circuits is not really understood, so electronics experts can skip this next section.
 
+您可以通过本网站购买两张包含Don Smith讲座录像的DVD。读者的各种问题表明，人们并不真正了解交流电路的操作，因此电子专家可以跳过下一节。
+
 AC Circuits. This is a lightweight introduction to Alternating Current circuits and pulsed DC circuits for people who have not read Chapter 12 which is an electronics tutorial. Let me say again, that I am mainly self-taught, and so this is just a general introduction based on my present understanding.
+
+交流电路。这是对交流电路和脉冲直流电路的轻量级介绍，适合那些没有阅读第12章电子教程的人。让我再说一遍，我主要是自学成才的，所以这只是基于我目前的理解的一般介绍。
 
 Alternating Current, generally called “AC” is called that because the voltage of this type of power supply is not a constant value. A car battery, for instance, is DC and has a fairly constant voltage usually about 12.8 volts when in it’s fully charged state. If you connect a voltmeter across a car battery and watch it, the voltage reading will not change. Minute after minute it says exactly the same because it is a DC source.
 
-If you connect an AC voltmeter across an AC power supply, it too will give a steady reading, but it is telling a lie. The voltage is changing all the time in spite of that steady meter reading. What the meter is doing is assuming that the AC waveform is a sine
-wave like this:
+交流电，一般称为“AC”，之所以这样称呼，是因为这种电源的电压不是一个恒定值。例如，汽车电池是直流的，在完全充电状态下具有相当恒定的电压，通常约为12.8伏。如果你在汽车电池上连接一个电压表并观察，电压读数不会改变。一分钟又一分钟，它说的完全一样，因为它是直流电源。
+
+If you connect an AC voltmeter across an AC power supply, it too will give a steady reading, but it is telling a lie. The voltage is changing all the time in spite of that steady meter reading. What the meter is doing is assuming that the AC waveform is a sine wave like this:
+
+如果你将交流电压表连接到交流电源上，它也会给出稳定的读数，但这是在撒谎。尽管仪表读数稳定，但电压一直在变化。仪表所做的是假设交流波形是这样的正弦波：
 
 ![alt text](assets/c0010-31.png)
 
 and based on that assumption, it displays a voltage reading which is called the “Root Mean Square” or “RMS” value. The main difficulty with a sine wave is that the voltage is below zero volts for exactly the same length of time as it is above zero volts, so if you average it, the result is zero volts, which is not a satisfactory result because youcan get a shock from it and so it can’t be zero volts, no matter what the arithmetical average is.
 
+基于这一假设，它显示了一个称为“均方根”或“RMS”值的电压读数。正弦波的主要困难在于，电压在零伏以下的时间长度与在零伏以上的时间长度完全相同，所以如果你对其进行平均，结果是零伏，这不是一个令人满意的结果，因为你可能会受到电击，所以无论算术平均值是多少，它都不可能是零伏。
+
 To get over this problem, the voltage is measured thousands of times per second and the results squared (that is, the value is multiplied by itself) and then those values are averaged. This has the advantage that when the voltage is say, minus 10 volts and you square it, the answer is plus 100 volts. In fact, all of the answers will be positive, which means that you can add them together, average them and get a sensible result.  However, you end up with a value which is far too high because you squared every measurement, and so you need to take the square root of that average (or “mean”) value, and that is where the fancy sounding “Root Mean Square” name comes from – you are taking the (square) root of the (average or) mean value of the squared measurements.
+
+为了解决这个问题，每秒测量数千次电压，将结果平方（即该值乘以其自身），然后对这些值进行平均。这样做的优点是，当电压为负10伏并平方时，答案为正100伏。事实上，所有的答案都是肯定的，这意味着你可以把它们加在一起，求平均值，得到一个合理的结果。然而，你最终得到的值太高了，因为你对每个测量值进行了平方，所以你需要取该平均值（或“均值”）的平方根，这就是听起来很花哨的“均方根”这个名字的由来——你取的是平方测量值的（平均值或）均值的（平方）根。
 
 With a sine wave like this, the voltage peaks are 41.4% higher than the RMS value which everyone talks about. This means that if you feed 100 volts AC through a rectifier bridge of four diodes and feed it into a capacitor the capacitor voltage will not be 100 volts DC but instead it will be 141.4 volts DC and you need to remember that when choosing the voltage rating of the capacitor. In that instance I would suggest a capacitor which is made to operate with voltages up to 200 volts.
 
+对于这样的正弦波，电压峰值比大家谈论的RMS值高41.4%。这意味着，如果你通过四个二极管的整流桥馈送100伏交流电并将其馈送到电容器中，电容器电压将不是100伏直流电，而是141.4伏直流电。在选择电容器的额定电压时，你需要记住这一点。在这种情况下，我建议使用电压高达200伏的电容器。
+
 You probably already knew all of that, but it may not have occurred to you that if you use a standard AC voltmeter on a waveform which is not a sine wave, that the reading on the meter is most unlikely to be correct or anywhere near correct. So, please don’t merrily connect an AC voltmeter across a circuit which is producing sharp voltage spikes like, for instance, one of John Bedini’s battery pulsing circuits, and think that the meter reading means anything (other than meaning that you don’t understand what you are doing).
+
+您可能已经知道所有这些，但您可能没有想到，如果您在非正弦波的波形上使用标准交流电压表，那么仪表上的读数不太可能是正确的或接近正确的。因此，请不要愉快地将交流电压表连接到产生尖锐电压尖峰的电路上，例如约翰·贝迪尼的一个电池脉冲电路，并认为仪表读数意味着什么（除了意味着你不明白自己在做什么）。
 
 You will, hopefully, have learned that power in watts is determined by multiplying the current in amps by the voltage in volts. For example, 10 amps of current flowing out of a 12 volt power supply, represents 120 watts of power. Unfortunately, that only holds true for circuits which are operating on DC, or AC circuits which have only resistors in them. The situation changes for AC circuits which have non-resistive components in them.
 
+希望您已经了解到，功率（瓦特）是通过将电流（安培）乘以电压（伏特）来确定的。例如，从12伏电源流出的10安培电流代表120瓦的功率。不幸的是，这只适用于直流电路或只有电阻器的交流电路。对于其中包含非电阻元件的交流电路，情况会发生变化。
+
 The circuits of this type which you are likely to come across are circuits which have coils in them, and you need to think about what you are doing when you deal with these types of circuit. For example, consider this circuit:
+
+你可能遇到的这种类型的电路是有线圈的电路，当你处理这些类型的电路时，你需要考虑你在做什么。例如，考虑以下电路：
 
 ![alt text](assets/c0010-32.png)
 
 This is the output section of a prototype which you have just built. The input to theprototype is DC and measures at 12 volts, 2 amps (which is 24 watts). Your AC voltmeter on the output reads 15 volts and your AC ammeter reads 2.5 amps and you are delighted because 15 x 2.5 = 37.5 which looks much bigger than the 24 watts of input power. But, just before you go rushing off to announce on YouTube that you have made a prototype with COP = 1.56 or 156% efficient, you need to consider the real facts.
 
+这是您刚刚构建的原型的输出部分。原型的输入是直流电，测量值为12伏2安（即24瓦）。输出端的交流电压表读数为15伏，交流电流表读数为2.5安，你很高兴，因为15 x 2.5=37.5看起来比24瓦的输入功率大得多。但是，就在你匆匆忙忙地在YouTube上宣布你已经制作了一个COP=1.56或156%效率的原型之前，你需要考虑真实的事实。
+
 This is an AC circuit and unless your prototype is producing a perfect sine wave, then the AC voltmeter reading will be meaningless. It is just possible that your AC ammeter is one of the few types that can accurately measure the current no matter what sort of waveform is fed to it, but it is distinctly possible that it will be a digital meter which assesses current by measuring the AC voltage across a resistor in series with the output, and if that is the case, it will probably be assuming a sine wave. The odds are that both readings are wrong, but let’s take the case where we have great meters which are reading the values perfectly correctly. Then the output will be 37.5 watts, won’t it? Well, actually, no it won’t. The reason for this is that the circuit is feeding the transformer winding which is a coil and coils don’t work like that.
 
+这是一个交流电路，除非你的原型产生完美的正弦波，否则交流电压表的读数将毫无意义。交流电流表可能是为数不多的可以准确测量电流的类型之一，无论输入什么波形，但很明显，它可能是一个数字仪表，通过测量与输出串联的电阻器两端的交流电压来评估电流，如果是这样的话，它可能会假设为正弦波。很可能两个读数都是错误的，但让我们以我们有非常好的仪表的情况为例，这些仪表的读数完全正确。那么输出将是37.5瓦，不是吗？好吧，事实上，不会的。原因是电路正在为变压器绕组供电，而变压器绕组是一个线圈，线圈不是这样工作的。
+
 The problem is that, unlike a resistor, when you apply a voltage across a coil the coil starts absorbing energy and feeding it into the magnetic field around the coil, so there is a delay before the current reaches it’s maximum value. With DC, this generally doesn’t matter very much, but with AC where the voltage is changing continuously, it matters a great deal. The situation can be as shown in this graph of both voltage and current:
+
+问题是，与电阻器不同，当你在线圈两端施加电压时，线圈开始吸收能量并将其馈入线圈周围的磁场，因此电流达到最大值之前会有一个延迟。对于直流电，这通常不太重要，但对于电压不断变化的交流电，这非常重要。电压和电流的情况如图所示：
 
 ![alt text](assets/c0010-33.png)
 
 At first, this does not look like any great problem, but it has a very significant effect on the actual power in watts. To get the 37.5 watts output which we were talking about earlier, we multiplied the average voltage level by the average current level. But these two values do not occur at the same time and that has a major effect.
 
+起初，这看起来并不是什么大问题，但它对实际功率（瓦特）有非常显著的影响。为了得到我们之前讨论的37.5瓦的输出，我们将平均电压乘以平均电流。但这两个值不会同时出现，这会产生重大影响。
+
 As this can be a little difficult to see, let’s take the peak values rather than the averages as they are easier to see. Let’s say that in our example graph that the voltage peak is 10 volts and the current peak is 3 amps. If this were DC we would multiply them together and say that the power was 30 watts. But with AC, this does not work due to the timing difference:
+
+由于这可能有点难以看到，让我们取峰值而不是平均值，因为它们更容易看到。假设在我们的示例图中，电压峰值为10伏，电流峰值为3安。如果这是直流电，我们将它们相乘，得出功率为30瓦。但对于AC，由于时间差异，这不起作用：
 
 ![alt text](assets/c0010-34.png)
 
 When the voltage is peaking, the current is nowhere near it’s peak value of 3 amps:
 
+当电压达到峰值时，电流远未达到3安培的峰值：
+
 ![alt text](assets/c0010-35.png)
 
 As a result of this, instead of getting our expected peak power at the top of the voltage peak, the actual power in watts is very much lower – less than half of what we were expecting. Not so good, but it gets worse when you look at the situation more closely.  Take a look at what the voltage is when the current crosses the zero line, that is, when the current is zero. The output power is zero when the current is zero but this occurs when the voltage is at a very high value:
+
+因此，实际功率（瓦特）远低于我们的预期，不到我们预期的一半，而不是在电压峰值的顶部获得预期的峰值功率。不太好，但当你更仔细地观察情况时，情况会变得更糟。看看当电流穿过零线时，即当电流为零时，电压是多少。当电流为零时，输出功率为零，但当电压处于非常高的值时，就会发生这种情况：
 
 ![alt text](assets/c0010-36.png)
 
 The same goes for when the voltage is zero. When the voltage is zero, then the power is also zero, and you will notice that this occurs when the current is at a high value:
 
+电压为零时也是如此。当电压为零时，功率也为零，您会注意到当电流处于高值时会发生这种情况：
+
 ![alt text](assets/c0010-37.png)
 
 The power is not the average current multiplied by the average voltage if there is a coil involved in the circuit – it will be less than that by an amount known as the “power factor” and I’ll leave you to work out why it is called that.
 
+如果电路中涉及线圈，功率不是平均电流乘以平均电压——它会比平均电流小一个被称为“功率因数”的量，我让你来弄清楚为什么它被称为功率因数。
+
 So, how do you determine what the power is? It is done by sampling the voltage and current many times per second and averaging those combined results:
+
+那么，你如何确定功率是多少？这是通过每秒多次采样电压和电流并对这些组合结果求平均值来实现的：
 
 ![alt text](assets/c0010-38.png)
 
 Both the voltage and the current are sampled at the times indicated by the vertical red lines and those figures are used to calculate the actual power level. In this example, only a few samplings are shown, but in practice, a very large number of samples will be taken. The piece of equipment which does this is known as a wattmeter as it measures watts of power. The sampling can be done by windings inside the instrument, resulting in an instrument which can be damaged by overloading without the needle being anywhere near full deflection, or it can be done by digital sampling and mathematical integration. Most digital sampling versions of these meters only operate at high frequencies, typically over 400,000 cycles per second. Both varieties of wattmeter can handle any waveform and not just sine waves.
 
+电压和电流都在垂直红线指示的时间采样，这些数字用于计算实际功率水平。在这个例子中，只显示了几个样本，但在实践中，将采集大量样本。执行此操作的设备被称为瓦特计，因为它测量瓦特功率。采样可以通过仪器内部的绕组完成，导致仪器在没有针接近完全偏转的情况下因过载而损坏，或者可以通过数字采样和数学积分完成。这些仪表的大多数数字采样版本仅在高频下工作，通常每秒超过400000个周期。这两种瓦特计都可以处理任何波形，而不仅仅是正弦波。
+
 The power company supplying your home, measures the current and assumes that the full voltage is present during all of the time that the current is being drawn. If you are powering a powerful electric motor from the mains, then this current lag will cost you money as the power company does not take it into account. It is possible to correct the situation by connecting one or more suitable capacitors across the motor to minimise the power loss.
+
+为您家供电的电力公司会测量电流，并假设在电流消耗的整个过程中都存在全电压。如果你从主电源为强大的电动机供电，那么这种电流滞后将使你付出代价，因为电力公司没有考虑到这一点。可以通过在电机两端连接一个或多个合适的电容器来纠正这种情况，以尽量减少功率损失。
 
 With a coil (fancy name “inductor” symbol “L”), AC operation is very different to DC operation. The coil has a DC resistance which can be measured with the ohms range of a multimeter, but that resistance does not apply when AC is being used as the AC current flow is not determined by the DC resistance of the coil. Because of this, a second term has to be used for the current-controlling factor of the coil, and the term chosen is “impedance” or for people who like to make everything sound unduly complicated “reactance”. I will stick with the term “impedance” as it is clear that it is the feature of the coil which “impedes” AC current flow through the coil.
 
+使用线圈（花哨的名字“电感器”符号“L”），交流操作与直流操作非常不同。线圈具有直流电阻，可以用万用表的欧姆范围测量，但当使用交流电时，该电阻不适用，因为交流电流不是由线圈的直流电阻决定的。因此，必须使用第二个术语来表示线圈的电流控制因子，选择的术语是“阻抗”，或者对于喜欢让一切听起来过于复杂的人来说是“电抗”。我将坚持使用“阻抗”一词，因为很明显，正是线圈的特性“阻碍”了交流电流流过线圈。
+
 The impedance of a coil depends on it’s size, shape, method of winding, number of turns and core material. It also depends on the frequency of the AC voltage being applied to it. If the core is made up of iron or steel, usually thin layers of iron which are insulated from each other, then it can only handle low frequencies. You can forget about trying to pass 10,000 cycles per second (“Hz”) through the coil as the core just can’t change it’s magnetic poles fast enough to cope with that frequency. A core of that type is ok for the very low 50 Hz or 60 Hz frequencies used for mains power, which are kept that low so that electric motors can use it.
+
+线圈的阻抗取决于它的尺寸、形状、绕组方法、匝数和芯材。它还取决于施加在其上的交流电压的频率。如果铁芯由铁或钢制成，通常是相互绝缘的薄层铁，那么它只能处理低频。你可以忘记尝试每秒通过线圈10000个周期（“Hz”），因为铁芯无法快速改变磁极以应对该频率。这种类型的核心适用于用于主电源的非常低的50 Hz或60 Hz频率，这些频率保持在较低水平，以便电动机可以使用它。
 
 For higher frequencies, ferrite can be used for a core and that is why some portable radios use ferrite-rod aerials, which are a bar of ferrite with a coil wound on it. For higher frequencies (or higher efficiencies) iron dust encapsulated in epoxy resin is used. An alternative is to not use any core material and that is usually referred to as an “air-core” coil. These are not limited in frequency by the core but they have a very much lower inductance for any given number of turns. The efficiency of the coil iscalled it’s “Q” (for “Quality”) and the higher the Q factor, the better. The resistance of the wire lowers the Q factor.
 
+对于更高的频率，铁氧体可用于磁芯，这就是为什么一些便携式收音机使用铁氧体棒天线，这是一种缠绕有线圈的铁氧体条。对于更高频率（或更高效率），使用封装在环氧树脂中的铁粉。另一种选择是不使用任何铁芯材料，这通常被称为“空心”线圈。这些线圈的频率不受铁芯的限制，但对于任何给定的匝数，它们的电感都要低得多。线圈的效率称为“Q”（代表“质量”），Q系数越高越好。导线的电阻降低了Q系数。
+
 A coil has inductance, and resistance caused by the wire, and capacitance caused by the turns being near each other. However, having said that, the inductance is normally so much bigger than the other two components that we tend to ignore the other two.  Something which may not be immediately obvious is that the impedance to AC current flow through the coil depends on how fast the voltage is changing. If the AC voltage applied to a coil completes one cycle every ten seconds, then the impedance will be much lower than if the voltage cycles a million times per second.
 
+线圈具有电感和由导线引起的电阻，以及由匝彼此靠近引起的电容。然而，话虽如此，电感通常比其他两个组件大得多，以至于我们倾向于忽略其他两个。可能不会立即明显的是，流过线圈的交流电流的阻抗取决于电压变化的速度。如果施加到线圈的交流电压每十秒完成一个周期，那么阻抗将远低于电压每秒循环一百万次的情况。
+
 If you had to guess, you would think that the impedance would increase steadily as the AC frequency increased. In other words, a straight-line graph type of change. That is not the case. Due to a feature called resonance, there is one particular frequency at which the impedance of the coil increases massively. This is used in the tuning method for AM radio receivers. In the very early days when electronic components were hard to come by, variable coils were sometimes used for tuning. We still have variable coils today, generally for handling large currents rather than radio signals, and we call them “rheostats” and some look like this:
+
+如果你不得不猜测，你会认为阻抗会随着交流频率的增加而稳步增加。换句话说，是一种直线图形类型的变化。事实并非如此。由于一种称为谐振的特性，线圈的阻抗在某一特定频率下会大幅增加。这用于AM无线电接收器的调谐方法。在电子元件难以获得的早期，可变线圈有时用于调谐。我们今天仍然有可变线圈，通常用于处理大电流而不是无线电信号，我们称之为“变阻器”，有些看起来像这样：
 
 ![alt text](assets/c0010-39.png)
 
 These have a coil of wire wound around a hollow former and a slider can be pushed along a bar, connecting the slider to different winds in the coil depending on it’s position along the supporting bar. The terminal connections are then made to the slider and to one end of the coil. The position of the slider effectively changes the number of turns of wire in the part of the coil which is being used in the circuit.  Changing the number of turns in the coil, changes the resonant frequency of that coil.  AC current finds it very, very hard to get through a coil which has the same resonant frequency as the AC current frequency. Because of this, it can be used as a radio signal tuner:
 
+这些线圈有一个缠绕在空心线圈架上的线圈，滑块可以沿着杆推动，根据滑块沿着支撑杆的位置，将滑块连接到线圈中的不同线圈。然后，将端子连接到滑块和线圈的一端。滑块的位置有效地改变了电路中使用的线圈部分的线匝数。改变线圈的匝数会改变该线圈的谐振频率。交流电流发现很难通过与交流电流频率具有相同谐振频率的线圈。因此，它可以用作无线电信号调谐器：
+
 ![alt text](assets/c0010-40.png)
 
 If the coil’s resonant frequency is changed to match that of a local radio station by sliding the contact along the coil, then that particular AC signal frequency from theradio transmitter finds it almost impossible to get through the coil and so it (and only it) diverts through the diode and headphones as it flows from the aerial wire to the earth wire and the radio station is heard in the headphones. If there are other radio signals coming down the aerial wire, then, because they are not at the resonant frequency of the coil, they flow freely through the coil and don’t go through the headphones.
 
+如果通过沿线圈滑动触点来改变线圈的谐振频率，使其与当地电台的谐振频率相匹配，那么来自无线电发射机的特定交流信号频率几乎不可能通过线圈，因此当它从天线线流向地线时，它（也只有它）会通过二极管和耳机转移，耳机中可以听到电台的声音。如果有其他无线电信号从天线上下来，那么，由于它们不在线圈的谐振频率上，它们会自由地流过线圈，而不会穿过耳机。
+
 This system was soon changed when variable capacitors became available as they are cheaper to make and they are more compact. So, instead of using a variable coil for tuning the radio signal, a variable capacitor connected across the tuning coil did the same job:
+
+当可变电容器问世时，这个系统很快就发生了变化，因为它们的制造成本更低，而且更紧凑。因此，与使用可变线圈来调谐无线电信号不同，连接在调谐线圈两端的可变电容器也起到了同样的作用：
 
 ![alt text](assets/c0010-41.png)
 

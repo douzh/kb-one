@@ -90,4 +90,86 @@ $$\vec a=\lim_{\Delta t\to 0}\frac{\Delta \vec v}{\Delta t}=\frac {\Delta \vec v
 
 ### 圆周运动及其描述 
 
+#### 线量描述
+
+![alt text](assets/lixue-yz01.png)
+
+$$\vec a=\frac{dv}{dt}\vec e_t+\frac{v^2}{R}\vec e_n$$
+
+其中$\vec a_t=\frac{dv}{dt}\vec e_t$切向加速度表示质量速率变化快慢，$\vec a_n=\frac{v^2}{R}\vec e_n$法向加速度表示质量方向变化的快慢
+
+对任何平面上的曲线运动都是适用的,但要注意，圆周运动中的恒定半径 R 不同，计算式中要用$\rho$代替 R，$\rho$是曲线在该点处的曲率半径
+
+#### 角量描述
+
+![alt text](assets/lixue-yz02.png)
+
+角速度
+
+$$\omega=\frac{d\theta}{dt}$$
+
+角加速度
+
+$$\alpha=\frac{d\omega}{dt}$$
+
+均速圆周运动的运动方程
+
+$$\theta=\theta_0+\omega t$$
+
+匀变速圆周运动的运动方程
+
+$$\theta=\theta_0+\omega_0 t+\frac{\alpha}{2}t^2$$
+
+$$\omega=\omega_0+\alpha t$$
+
+$$\omega^2=\omega_0^2+2\alpha (\theta-\theta_0)$$
+
+#### 线量角量关系
+
+$$v=R\omega$$
+
+$$a_t=R\alpha$$
+
+$$a_n=\frac{v^2}{R}=v\omega=R\omega^2$$
+
+### 曲线运动方程的矢量方程
+
+$$x=x(t) y=y(t) z=(t)$$
+
+$$\vec r=\vec r(t)$$
+
+#### 圆周运动适量方程
+
+xy平面的圆周运动方程
+
+$$x=R\sin\omega t , y=R\cos\omega t ,z=0 $$
+
+$$\vec r=R(\sin\omega t \vec i+\cos\omega t \vec j)$$
+
+轨迹方程
+
+$$x^2+y^2=R^2$$
+
+$$v_x=\frac{dx}{dt}=
+\frac{d}{dt}(R\sin \omega t)=R\omega\cos\omega t$$
+
+$$v_y=\frac{dy}{dt}=\frac{d}{dt}(R\cos \omega t)=-R\omega\sin\omega t$$
+
+$$a_x=\frac{dv_x}{dt}=-R\omega^2\sin\omega t$$
+
+$$a_y=\frac{dv_y}{dt}=-R\omega^2\cos\omega t$$
+
+#### 抛体运动方程的矢量形式
+
+![alt text](assets/lixue-pw01.png)
+
+
+
+
+
+
+
+
+
+
 

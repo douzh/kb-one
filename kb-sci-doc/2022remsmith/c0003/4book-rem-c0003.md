@@ -60,7 +60,7 @@ Developments in the understanding of Electricity, along with Materials which wer
 
 Special materials and recent developments allow the magnetic energy to reproduce, through resonance, unlimited duplicate copies acquired from the ambient background. These Devices harvest the energy that has been, and is always present universally. Conventional methods consist of coils and magnets systems. Upon moving past each other, the magnetic flux field disturbs electrons which yield electricity, which is collected by the coils system. This is accomplished electronically with the new technology, without any moving parts and the energy is multiplied such that the Device becomes self-sustaining once it is started. This Technology, already presented Worldwide, will be shown at the Conference.
 
-特殊材料和最近的发展使磁能能够通过共振从环境背景中获得无限复制。这些设备收集普遍存在的能量。传统方法包括线圈和磁体系统。在相互移动时，磁通量场会干扰产生电流的电子，这些电流由线圈系统收集。这是通过新技术以电子方式实现的，没有任何运动部件，能量倍增，使设备在启动后能够自我维持。这项技术已经在全球范围内展示，将在会议上展出。
+特殊材料和最新进展使得磁能通过共振复制成为可能，从环境背景中获取无限的复制品。这些设备能够采集普遍存在的能量。传统的方法包括线圈和磁铁系统。当它们相互移动时，磁通量场会扰动电子，从而产生电流，电流被线圈系统收集。新技术则通过电子方式实现这一点，无需任何运动部件，并且能量可以倍增，使得设备一旦启动就能自我维持。这项技术已经在全球范围内展示，并将在会议上进行演示。
 
     Dr. Smith
     www.altenergy-pro.com

@@ -14,7 +14,7 @@ Analogous Relationships:
 
 - The Source of these Electrons being from the Solar Plasma, are non-ionic and occupy all Free Space. They are commonly obtained from Earth and Air Groundings. They exist in Doublet Pairs, one being more negative than the other. The more negative one has a Left Hand Spin. The less negative one has a Right Hand Spin.
 
-这些电子的来源来自太阳等离子体，是非离子的，占据了所有的自由空间。它们通常来自地面和空中接地。它们存在于双对中，一个比另一个更消极。更负的一个有左手旋转。较不负的一个有右手旋转。
+这些电子来源于太阳等离子体，是非离子化的，并且占据了所有的自由空间。它们通常通过地球和空气接地获得。它们以双电子对的形式存在，其中一个比另一个更负。较负的电子具有左手旋，而较不负的电子则具有右手旋。
 
 - Resonate Electrical Coil Systems (Tesla ) are Analogous to the System observed in the Bar Magnet (above). The Bloch Wall Area is Located at the base of the L-2 Coil. The Left Spin portion of the coil (Voltage Only ) Coil predominates. The Right hand Spin portion of the coil (Magnetic-Amperage) is mostly absent.
 

@@ -56,7 +56,7 @@ ABSTRACT: Technology of New Energy:
 
 Developments in the understanding of Electricity, along with Materials which were not previously available, allows the construction of Devices which collect energy in large quantities, from the Earth's Ambient Electrical Background. This Energy is naturally occurring,environmentally benign and is available everywhere. It is available wherever and whenever it is required. New Devices use Resonate Magnetic Waves which replicate upon spinning the locally present electrons, providing multiple duplicate copies of the Energy Present. Each electron when spun yields both magnetic and electric waves in equal proportion. The electrical component is a closed system limited by Ohms Law. The magnetic component is an open system not limited and it replicates multiple copies of the energy present.
 
-对电的理解的发展，以及以前没有的材料的出现，允许建造从地球环境电背景中大量收集能量的设备。这种能量是自然产生的，对环境无害，无处不在。无论何时何地，只要需要，它都是可用的。新设备使用共振磁波，在旋转局部存在的电子时进行复制，提供能量存在的多个复制副本。每个电子在旋转时都会产生相等比例的电磁波和电波。电气元件是一个受欧姆定律限制的封闭系统。磁性组件是一个不受限制的开放系统，它复制了存在的能量的多个副本。
+对电学的理解的进步，加上之前不可用的新材料，使得能够构建从地球环境电背景中大量收集能量的设备。这种能量是自然存在的，对环境无害，并且随处可见。无论何时何地需要它，它都可用。新设备使用共振磁波，通过旋转局部存在的电子来复制能量，提供多个能量副本。每个旋转的电子同时产生相等比例的磁波和电波。电部分是一个受欧姆定律限制的封闭系统。磁部分是一个开放系统，不受限制，并且可以复制多个能量副本。
 
 Special materials and recent developments allow the magnetic energy to reproduce, through resonance, unlimited duplicate copies acquired from the ambient background. These Devices harvest the energy that has been, and is always present universally. Conventional methods consist of coils and magnets systems. Upon moving past each other, the magnetic flux field disturbs electrons which yield electricity, which is collected by the coils system. This is accomplished electronically with the new technology, without any moving parts and the energy is multiplied such that the Device becomes self-sustaining once it is started. This Technology, already presented Worldwide, will be shown at the Conference.
 
@@ -68,7 +68,7 @@ Special materials and recent developments allow the magnetic energy to reproduce
 
 "Putting a stake through the Heart" and thus removing the mental block created by antique physics is required. Conditions wherein this becomes necessary are non-linearity, resonance and explosions of any sort. Combustibles of any sort such gasoline and atomic explosions are good examples wherein more energy out than in, is obvious. You can add to that the nonlinearity found in pulleys, hydraulics, steam power and suchlike. Magnetic resonance is a highly obvious source for multiplying energy output. The sound system present in the piano, demonstrates this very clearly. Energy amplification clearly present in the above, demonstrates the silliness attested to by many Physicists.
 
-需要“把一根木桩插进心脏”，从而消除古董物理学造成的心理障碍。需要这样做的条件是非线性、共振和任何类型的爆炸。任何类型的可燃物，如汽油和原子爆炸，都是很好的例子，其中能量输出明显多于输入。你可以添加滑轮、液压、蒸汽动力等中的非线性。磁共振是一种非常明显的能量输出倍增源。钢琴中的音响系统非常清楚地证明了这一点。上述明显存在的能量放大证明了许多物理学家所证明的愚蠢。
+“刺穿心脏”，从而消除由陈旧物理学造成的心理障碍是必要的。在这种情况下，非线性、共振和任何形式的爆炸都需要这样做。任何形式的燃烧物，例如汽油和核爆炸，都是很好的例子，其中输出能量明显大于输入能量。你还可以加上在滑轮、液压、蒸汽动力等方面的非线性。磁共振是一种显著的能量倍增来源。钢琴中的音响系统清楚地展示了这一点。上述情况中的能量放大表明了许多物理学家所说的荒谬之处。
 
 Ohmic resistance does not apply to magnetic resonance which travels unrestricted for great distances, therefore multitudes of electrons are disturbed, and their back-spin converts from magnetic energy to usable electric energy. These same electrons have been around from the beginning of time and they are undiminished and will remain so until the end of time.
 
@@ -80,7 +80,7 @@ ELECTRICAL ENERGY SYSTEMS PREFACE
 
 Useful Electrical Energy is obtained directly from electron spin induced by incoming magnetic waves, or indirectly through mechanical exchange as in dynamo type devices. Simply put, electron spin converts from magnetic to electrical energy and vice versa. Nature provides grand scale magnetic wave induction throughout the universe, for free. In Electrical Systems, movement is at right angles to the direction of current movement. This explains the rotary movement of the Earth and other related Systems. The rate of Spin for the Earth is known aswell as the mass (5.98 x 1024 Kg - "Physics for Scientist and Engineers", by Raymond A.  Serway, Saunders College Publishing, 2nd Ed. page 288, Table 14.2), therefore the amount of incoming Electrical Energy which produces this action can be calculated.
 
-有用的电能可以直接从入射磁波引起的电子自旋中获得，也可以通过发电机型设备中的机械交换间接获得。简单地说，电子自旋从磁能转换为电能，反之亦然。大自然在整个宇宙中免费提供大规模的磁波感应。在电气系统中，运动与电流运动方向成直角。这解释了地球和其他相关系统的旋转运动。地球的自转速度和质量都是已知的（5.98 x 1024千克-“科学家和工程师的物理学”，Raymond A.Serway著，桑德斯学院出版社，第2版，第288页，表14.2），因此可以计算出产生这种作用的输入电能的量。
+有用的电能可以直接从入射磁波引起的电子旋转中获得，也可以通过机械交换（如发电机类设备）间接获得。简单来说，电子旋转将磁能转换为电能，反之亦然。自然界在整个宇宙中免费提供了大规模的磁波感应。在电气系统中，运动方向与电流方向垂直。这解释了地球和其他相关系统的旋转运动。地球的自转速率是已知的，其质量也是已知的（5.98 × 10^24 千克 —— 参见《科学家与工程师物理学》，Raymond A. Serway 著，Saunders College Publishing 第二版，第 288 页，表 14.2）。因此，可以计算产生这种运动所需的入射电能。
 
 It can be seen quite easily, that the incoming magnetic wave energy is Vast and Continuous. As an accretion mass, the Earth is an Energy Sink, getting it's energy from elsewhere, being Cosmic, Galactic and Solar. Conversion of incoming magnetic waves into electrical energy provides an unending, inexpensive and environmentally friendly source available to all.  Cosmic and Galactic Energy is available twenty four hours per day. Large amounts of this Energy accumulates in the Earth's radiation belts. This Giant Energy Storage, when properly understood, provides a major source of free unending electrical energy. Each of My Inventions plugs into this vast energy source.
 
@@ -121,27 +121,27 @@ ULTIMATE ENERGY SOURCES
 
 A human is a speck of dust on Earth, the Solar System is a speck of dust in the Galaxy and in turn, the Galaxy is a speck of dust in the Universe (Cosmos). All of these respectively represent vast ambient energy reservoirs. Awareness of the Sun, opens doors into other energy sources.  Electromagnetic Energy which is present everywhere throughout the Universe, is accessed by catalytic activity, directly as in Solar Cells or indirectly as by mechanical means. Resonate, Magnetic Waves (Faraday's "Action at a Distance") allow Energy Activation Transfer to remote points of usage. The method of capture and use of this Energy is optional, and therefore it's cost is a function of Human Stupidity (Free-Energy).
 
-人类是地球上的一粒灰尘，太阳系是银河系中的一粒尘埃，反过来，银河系是宇宙（宇宙）中的一颗尘埃。所有这些分别代表了巨大的环境能量库。对太阳的认识，打开了通往其他能源的大门。存在于整个宇宙中的电磁能可以通过催化活性直接获得，如太阳能电池，也可以通过机械手段间接获得。共振磁波（法拉第的“远距离作用”）允许能量激活转移到远程使用点。捕获和使用这种能量的方法是可选的，因此它的成本是人类愚蠢（自由能量）的函数。
+人类是地球上的一粒灰尘，太阳系是银河系中的一粒尘埃，反过来，银河系是宇宙中的一颗尘埃。所有这些分别代表了巨大的环境能量库。对太阳的认识，打开了通往其他能源的大门。存在于整个宇宙中的电磁能可以通过催化活性直接获得，如太阳能电池，也可以通过机械手段间接获得。共振磁波（法拉第的“远距离作用”）允许能量激活转移到远程使用点。捕获和使用这种能量的方法是可选的，因此它的成本是人类愚蠢（免费能量）的函数。
 
 Direct access is more desirable, and technology transfer from Solar Cell-type Devices provides the Catalyst. Enormously high Ambient Energy Levels are not detected by instruments that use the Ambient Background as a Reference Plane. A spoonful of water lifted from the Ocean does not define the Ocean. Incoming magnetic waves are reflected, Deflected or absorbed. Deflected Magnetic Waves spin electrons sideways producing useful Electrical Energy. Absorbed Wave Energy produces heat, therefore a hot interior for the Earth. In Electrical Systems physical movement is in the direction of current flow, frictional drag from inflow current defines gravity. Accretion masses resulting from Energy Sinks, provide all solid entities with their respective gravitational effect.
 
-直接访问更可取，太阳能电池型设备的技术转让提供了催化剂。使用环境背景作为参考平面的仪器无法检测到极高的环境能量水平。从海洋中升起的一匙水并不能定义海洋。入射的磁波被反射、偏转或吸收。偏转的磁波使电子侧向旋转，产生有用的电能。吸收的波能产生热量，因此地球内部很热。在电气系统中，物理运动是沿电流方向进行的，流入电流的摩擦阻力定义了重力。能量汇产生的吸积质量为所有固体实体提供了各自的引力效应。
+直接访问更为理想，太阳能电池类型的设备技术转移提供了催化剂。仪器使用环境背景作为参考平面时无法检测到极高的环境能量水平。从海洋中舀起一勺水并不能定义整个海洋。入射的磁波会被反射、偏转或吸收。偏转的磁波会使电子横向旋转，从而产生有用的电能。被吸收的波能量会产生热量，因此地球内部变得非常热。在电气系统中，物理运动的方向与电流流向一致，流入电流产生的摩擦拖曳定义了重力。能量阱产生的聚积质量为所有实体提供了各自的引力效应。
 
 Increasing the tolerance level for Intellectual Awakening opens Doors of Reality. These doors blink into, and out of existence, and upon recognition, benefit Mankind. Opening some of these Doors, which at the present time are seen through a deep fog, is our purpose. Exploring Unrecognized Energy Sources, which are a Part of the Ambient Background, is another goal.  Our Available Instruments do not use reference planes which allow recognition of this energy, as we shall see, vast Energy Sources that totally surround us are available through Technology Transfer. They are inexpensive (Free), fully self-renewable and environmentally benign.
 
-提高对知识觉醒的容忍度打开了现实之门。这些门存在与否，一经发现，便造福人类。打开其中一些门，目前可以透过浓雾看到，这是我们的目的。探索作为环境背景一部分的未识别能源是另一个目标。我们的可用仪器不使用允许识别这种能量的参考平面，正如我们将要看到的，通过技术转让可以获得完全围绕我们的巨大能源。它们价格低廉（免费），完全可再生，对环境无害。
+提高对智力觉醒的容忍度可以打开现实之门。这些门会在存在与不存在之间闪烁，一旦被识别，将造福人类。我们当前的目标是打开一些目前被浓雾遮蔽的门。探索未被认识的能量源，这些能量源是环境背景的一部分，是另一个目标。我们现有的仪器没有使用能够识别这种能量的参考平面。正如我们将看到的，通过技术转移，完全包围我们的巨大能源是可以利用的。这些能源价格低廉（免费）、完全可自我再生并且对环境无害。
 
 Incoming Magnetic Wave Energy with Faraday's "action at a distance" will be looked at closely. Particle Physics will be left for the Astrophysics. Excited Electrons at point "A" the Sun (including the Galaxy and Cosmos) do not travel to point "B" the Earth, however a corresponding action occurs at point "B". The Electrons being disturbed at the Central Power Plant, in the same manner excite the Electrons at Your House, upon switching into an Earth grounding (known as "flipping the switch"). Correspondingly, there are Four Major Power Sources providing enormous amounts of Ambient Background Magnetic Wave Energy. They are The Cosmic, Galactic, Solar and Earth's Ambient Electromagnetic Backgrounds. The Earth's Electromagnetic Field comes from reflection, deflection and absorption as a result of action at a distance from the above.
 
-法拉第“远距离作用”的入射磁波能量将受到密切关注。粒子物理学将留给天体物理学。太阳（包括银河系和宇宙）的“A”点处的激发电子不会到达地球的“B”点，但在“B”点将发生相应的作用。在中央发电厂受到干扰的电子，在切换到接地（称为“拨动开关”）时，以同样的方式激发你家的电子。相应地，有四种主要的电源提供大量的环境背景磁波能量。它们是宇宙、银河、太阳和地球的环境电磁背景。地球的电磁场来自反射、偏转和吸收，这是在距离上方一定距离处作用的结果。
+我们将仔细研究入射磁波能量及其与法拉第的“远距离作用”。粒子物理学将留给天体物理学处理。在点“A”（太阳，包括银河系和宇宙）被激发的电子并不会实际移动到点“B”（地球），但在点“B”会发生相应的现象。中央发电厂中的电子受到扰动时，以同样的方式激发了你家中的电子，当你切换到接地（称为“翻动开关”）时也是如此。相应地，有四大主要的能量源提供了大量的环境背景磁波能量。它们分别是宇宙背景、银河背景、太阳背景和地球的环境电磁背景。地球的电磁场来源于上述远距离作用导致的反射、偏转和吸收。
 
 Prescription Physics mandates that the Earth's background is of little interest. When we have Considered the evidence herein, it will become obvious that Special Interest's effort at keeping the People ignorant has, until now, largely succeeded.
 
-处方物理学给出的方案对地球的背景并不感兴趣。当我们考虑了这里的证据后，很明显，到目前为止，特殊利益集团让人民保持无知的努力在很大程度上取得了成功。
+传统物理学规定地球的背景环境并不重要。当我们考虑了这里的证据后，将会明显地发现，特殊利益集团为了使人们保持无知所做的努力，在很大程度上至今仍然成功。
 
 Information for the entire World is available regarding the Magnetic Flux Background of the Earth's Surface (United State's Geological Survey, Colorado, USA, Office). When examined and properly understood, these Maps yield important information regarding reflection, deflection and absorption of incoming Magnetic Waves, plus action at a distance. When properly understood, these Maps reveal a very large Ambient Electromagnetic Energy Source.  This is the Part of the Earth's Energy System that relates to the Bird on the High Voltage Line.  When deflected, magnetic flux from electrons changes to electrical flux, providing the Motor System that spins or rotates the Earth. Physical movement by electrical systems is from inflow current movement. What level of current movement is required to spin the Earth? The Earth's Mass is 5.98 x 1024. From this Information, the Watts of Electricity Required may be calculated! Absorbed microwave flux energy heats from the inside out, therefore a hot interior of the Earth results. Water is strongly diamagnetic, and on windless days, ocean waves provide visible Proof of the overhead incoming magnetic flux. From the information above, the Earth's weight and rate of spin allows the calculation of the amount of incoming ambient background energy required. As You can see, it is not inconsequential as Prescription Physics mandates.
 
-关于地球表面磁通量背景的全世界信息（美国科罗拉多州美国地质调查局办公室）。当检查并正确理解时，这些地图会提供有关入射磁波的反射、偏转和吸收以及远处作用的重要信息。如果理解得当，这些地图显示了一个非常大的环境电磁能源。这是地球能量系统中与高压线上的鸟有关的部分。当偏转时，电子的磁通量变为电通量，提供旋转或旋转地球的电机系统。电气系统的物理运动来自流入电流运动。旋转地球需要多大程度的电流运动？地球的质量是5.98 x 1024。根据此信息，可以计算出所需的瓦特数！吸收的微波通量能量由内而外加热，因此导致地球内部变热。水具有很强的抗磁性，在无风的日子里，海浪提供了头顶入射磁通量的可见证据。根据上述信息，地球的重量和自转速度可以计算出所需的环境背景能量。正如你所看到的，正如处方物理学所要求的那样，这并非无关紧要。
+关于地球表面的磁通背景信息，全世界都可以从美国地质调查局（位于美国科罗拉多州）获得。当仔细研究并正确理解这些地图时，它们提供了关于入射磁波的反射、偏转和吸收的重要信息，以及远距离作用的信息。正确理解这些地图可以揭示一个巨大的环境电磁能源。这是地球能量系统的一部分，与高压线上停着的鸟类似。当磁通量偏转时，电子的磁通量变为电通量，从而提供驱动地球旋转的电机系统。电气系统的物理运动是由流入电流的运动引起的。需要多少电流才能使地球旋转？地球的质量为 5.98 × 10^24 千克。根据这些信息，可以计算出所需的电力瓦数！被吸收的微波通量能量从内部加热，因此地球内部变得非常热。水具有强烈的反磁性，在无风的日子里，海洋波浪提供了可见的证据，证明上方有入射的磁通量。根据上述信息，地球的质量和旋转速度允许计算所需的环境背景能量。正如你所见，这并非如传统物理学所规定的那样微不足道。
 
 Astrophysicist are concerned with charged particles that whiz by, once every one hundred years, rather than Wave Phenomenon associated with action at a distance. This highly Active Wave Energy translates into Electrical Energy at point "B". The Galaxy is alive With Energy which is billions of times greater than that of the Sun. Visible Light is a very tiny part of the Electromagnetic Energy Spectrum. Frequencies present in the Galaxy and Cosmos allow Radio Telescope photographs of their existence and magnitude. One such 408 MHz photograph of the Electromagnetic Energy Spectrum shows that the Earth is a tiny speck of dust in this Enormous Ocean of Energy, and can be seen near the left end of the Central High Energy Area.
 
@@ -149,15 +149,15 @@ Astrophysicist are concerned with charged particles that whiz by, once every one
 
 This Energy extends in all directions. Accretion and formation of Planets, Suns and Galaxies are results of energy sinks and variable sized black holes. Mass retains heat, and is cooked from the inside out by the microwave background energy provided by the Universe. Flux movement into energy sinks, provides the frictional force know as gravity. Spinning mass in the presence of incoming flux amplifies the gravitational effect.
 
-这种能量向各个方向延伸。行星、太阳和星系的吸积和形成是能量汇和大小可变的黑洞的结果。质量保留热量，并由宇宙提供的微波背景能量从内到外烹饪。通量运动进入能量汇，提供称为重力的摩擦力。在入射通量存在的情况下，旋转质量放大了引力效应。
+这种能量向各个方向延伸。行星、恒星和星系的聚集和形成是能量阱和不同大小的黑洞的结果。物质保留热量，并由宇宙提供的微波背景能量从内向外加热。能量流入能量阱，提供了被称为重力的摩擦力。在入射通量存在的情况下，旋转的物质会增强引力效应。
 
 At present, only Solar Energy is recognized. It is inconsistent, flaky and a very small Part of the Magnetic Wave Energy Present. Technology Transfer from Solar Power provides uncomplicated and inexpensive, direct access to the Other Greater Energy Sources. All Electromagnetic Energy harvesting methods include a Catalyst, a Collector and a Pump.  Catalysts include sensitization through doping with certain elements, air and earth groundings.  Collectors include temporary storage as in Capacitors, Coils and Transformers. The Pump System includes induced movement onward to the point of use. Conventional rotating coils and magnet systems activate electrons present, such that action at a distance can occur, therefore it is an energy activation pump. In Direct Access Systems such as Solar Cells, the same occurs without mechanical action. Direct access occurs when Magnetic Waves impact a catalyst, spinning the local electrons sideways, producing useful electrical energy.
 
-目前，只有太阳能得到认可。它是不一致的，片状的，并且是磁波能量的一小部分。太阳能技术转让提供了简单、廉价、直接的其他大能源。所有电磁能量收集方法包括催化剂、收集器和泵。催化剂包括通过掺杂某些元素、空气和土壤接地进行敏化。收集器包括电容器、线圈和变压器中的临时存储。泵系统包括向使用点的诱导运动。传统的旋转线圈和磁体系统激活存在的电子，从而可以在远处发生作用，因此它是一个能量激活泵。在太阳能电池等直接接入系统中，即使没有机械作用，也会发生同样的情况。当磁波冲击催化剂，使局部电子侧向旋转，产生有用的电能时，就会发生直接访问。
+目前，只有太阳能被认可。它是不稳定的、不可靠的，并且只是现有磁波能量的一小部分。太阳能技术的转移提供了简单且廉价的直接访问其他更大能源的方法。所有电磁能采集方法都包括催化剂、收集器和泵。催化剂包括通过掺杂某些元素、空气和大地接地进行的敏化。收集器包括临时存储，如电容器、线圈和变压器。泵系统包括诱导运动直至使用点。传统的旋转线圈和磁铁系统激活存在的电子，使得远距离作用可以发生，因此它是一个能量激活泵。在直接访问系统（如太阳能电池）中，这种情况不需要机械动作即可发生。当磁波撞击催化剂，使局部电子横向旋转，从而产生有用的电能时，直接访问就发生了。
 
 Indirect acquisition of electrical energy by mechanical means is wasteful, troublesome, expensive and degrades the environment. The dynamo is a combination collector and pump of energy which is collected from the Earth's Ambient Energy Background. Generators do not make electricity, they collect it from the Ambient Background and forward it, as in Faraday's "action at a distance". Energy Conservation Laws relating to these systems, relate to gray areas, and when understood, are excluded because of the existence of External forces, open and nonlinear systems as per Einstein. The Knowledge Base just viewed, provides a Direct Understanding of the Requirements for Harvesting of unending, fully renewable, environmentally benign Sources of Electrical Energy.
 
-通过机械手段间接获取电能是浪费、麻烦、昂贵的，并且会破坏环境。发电机是从地球环境能量背景中收集能量的组合收集器和泵。发电机不发电，它们从环境背景中收集电力并将其转发，就像法拉第的“远距离动作”一样。根据爱因斯坦的说法，与这些系统相关的能量守恒定律与灰色区域有关，当理解时，由于存在外力、开放和非线性系统，因此被排除在外。刚刚查看的知识库提供了对收获无休止、完全可再生、环保的电能来源的要求的直接理解。
+通过机械手段间接获取电能是浪费的、麻烦的、昂贵的，并且会破坏环境。发电机是一种组合收集器和泵，从地球的环境能量背景中收集能量。发电机并不是制造电能，而是从环境背景中收集电能并将其传输，正如法拉第的“远距离作用”。与这些系统相关的能量守恒定律涉及灰色地带，一旦理解了这些定律，就会因为外部力的存在、开放和非线性系统（根据爱因斯坦的观点）而被排除在外。刚才了解的知识基础提供了一个直接的理解，即如何收获无尽的、完全可再生的、对环境无害的电能来源。
 
 ## 磁共振电力系统建设建议
 
@@ -165,15 +165,15 @@ Magnetic Resonance Power System Suggestions for Construction
 
 This is the Basic Sonar Power System which permits submarines to see approximately 50 miles distance. What is not commonly known is that it works better at higher frequencies in the Gigahertz range. Any Device that can radiate 50 miles plus, is producing an enormous electromagnetic disturbance from a small input into a rod of magnetostrictive material.
 
-这是基本声纳动力系统，它允许潜艇看到大约50英里的距离。鲜为人知的是，它在千兆赫范围内的更高频率下工作得更好。任何可以辐射50英里以上的设备，都会从磁致伸缩材料棒的小输入中产生巨大的电磁干扰。
+这是基本的声纳系统，它使潜艇能够在大约 50 英里的距离内看到物体。不太为人所知的是，这种系统在千兆赫兹范围内的高频下工作得更好。任何能够辐射超过 50 英里的设备都会从小输入到磁致伸缩材料棒中产生巨大的电磁干扰。
 
 Disturbing the Earth's Ambient Background plus the strong dipole being produced, turns the magnetostrictive rod into a combination of a receiving antenna and a vastly superior output transformer.
 
-干扰地球的环境背景加上产生的强偶极子，将磁致伸缩杆变成接收天线和性能优越的输出变压器的组合。
+扰动地球的环境背景加上产生的强偶极子，会使磁致伸缩杆变成一个接收天线和一个性能优越的输出变压器的组合。
 
 The Drawing is only the Key Unit. A power input module and an output inverter circuit (diode bridge plus output transformer) are also required. The metal core and the wire size of the output transformer, plus adjusting the Earth Grounding of the Load, will determine the Amperage.  The Ideal rod material is Terfenol-D (check the internet). However a 1.5" diameter 10" long rod, costs over $5,000 each. Less expensive alternatives are obvious. When constructing, use PVC tubing with removable caps. Wind the coils on it and insert the experimental rod. Use only magneto¬strictive material.
 
-图纸只是关键单位。还需要电源输入模块和输出逆变器电路（二极管桥加输出变压器）。输出变压器的金属芯和电线尺寸，加上调整负载的接地，将决定电流。理想的杆材料是Terfenol-D（查看互联网）。然而，一根直径1.5英寸、长10英寸的杆，每根的成本超过5000美元。更便宜的替代品是显而易见的。施工时，使用带可拆卸盖子的PVC管。将线圈缠绕在其上，然后插入实验棒。仅使用磁致伸缩材料。
+图纸仅显示了关键单元。还需要一个电源输入模块和一个输出逆变电路（二极管桥加输出变压器）。输出变压器的金属芯和导线尺寸，加上调整负载的接地，将决定电流的大小。理想的杆材是 Terfenol-D（可以在互联网上查找）。然而，一根直径 1.5 英寸、长度 10 英寸的杆材每根的成本超过 5000 美元。更便宜的替代品显而易见。在构建时，使用带有可拆卸盖子的 PVC 管。将线圈绕在上面，并插入实验杆。只使用磁致伸缩材料。
 
 When you get it right, you will have exactly what the Doctor ordered:
 
@@ -183,7 +183,7 @@ When you get it right, you will have exactly what the Doctor ordered:
 
 Magnetostriction oscillators work by magnetic resonance in a rod of magnetostriction material.  This rod serves two purposes: It vibrates at the frequency of resonance oscillation, and it becomes the feedback transformer. Frequency is determined by items 4, 5, 6 and 8. The diameter, length and volume of the rod and output windings, determines the output. Item 2 provides feedback into the system. The negative magnetic character of item 8 plus the windings 2, in reaction to the magnetic flux field provided by 9, increases (amplifies or magnifies) the output. Magnetic permeability is the counterpart of negative resistance. Resonating with negative magnetic resistance, it pumps energy from the Earth's ambient background. Magnetic permeability is the ratio of flux density (Earth's B field) to the magnetizing force (H) in oersteds.
 
-磁致伸缩振荡器通过磁致伸缩材料棒中的磁共振工作。该杆有两个用途：它以谐振频率振动，并成为反馈变压器。频率由第4、5、6和8项决定。杆和输出绕组的直径、长度和体积决定了输出。项目2向系统提供反馈。第8项加上绕组2的负磁特性与第9项提供的磁通量场反应，增加（放大或放大）输出。磁导率是负电阻的对应物。它与负磁阻共振，从地球的环境背景中泵送能量。磁导率是磁通密度（地球的B场）与磁化力（H）之比，单位为奥斯特。
+磁致伸缩振荡器通过磁致伸缩材料棒中的磁共振工作。这根棒有两个功能：它以共振频率振动，并成为反馈变压器。频率由项目 4、5、6 和 8 决定。棒的直径、长度和体积以及输出绕组决定了输出功率。项目 2 向系统提供反馈。项目 8 的负磁特性加上绕组 2 对由 9 提供的磁场的反应，增加了（放大或增强了）输出功率。磁导率相当于负电阻。与负磁阻共振时，它从地球的环境背景中抽取能量。磁导率是磁通密度（地球的 B 场）与磁场强度（H）的比率，单位为奥斯特。
 
 Magnetostrictive materials are piezoelectric in character, and have a very high resistance to electrical current flow.
 
@@ -199,8 +199,8 @@ Examples are:
 
 例如：
 
-1. 坡莫合金负磁导率>80000
-2. Sendust负磁导率30000-120000
-3. Metglas负磁导率>200000
-4. 铁（34%）钴磁导率13000
-5. 新技术磁导率>1000000
+1. 高导磁合金:负磁导率>80000
+2. 三元铁粉芯:负磁导率30000-120000
+3. 金属玻璃:负磁导率>200000
+4. 含 34% 钴的铁:磁导率13000
+5. 新技术材料: 磁导率>1000000

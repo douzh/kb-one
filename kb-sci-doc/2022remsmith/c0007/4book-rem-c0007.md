@@ -207,9 +207,13 @@ Otherwise they might have been very different. For example, let us take a long r
 dominos, (many thousands) and flip number one. The Energy required to flip the first domino
 must now be added with that of thousands more in order to have a correct assessment.
 
+当能量守恒定律最初制定时，多米诺骨牌在英国并不存在。如果当时有多米诺骨牌，这些定律可能会有所不同。例如，假设我们有一排竖立的多米诺骨牌（成千上万个），翻倒第一个骨牌所需的能量必须加上后续成千上万个骨牌的能量，才能进行正确的评估。
+
 The Electron itself is an excellent example of over-unity. The electron provides various forms
 of energy continuously throughout eternity and is in no way diminished. It simply cycles
 through the system and is available thereafter.
+
+电子本身就是一个超统一的绝佳例子。电子在整个永恒的过程中不断提供各种形式的能量，并且不会以任何方式减少。它只是在系统中循环，并在此后可用。
 
 In Electrical Systems, Electrons active at point "A" are not the same Electrons active at point
 "B". That is to say, the Electrons activated at the Central Electrical Energy Station are not the
@@ -217,8 +221,12 @@ ones used at your house. When you ground your system by flipping the wall switch
 your own electrons. In closed energy systems, electrons communicate with and replicate the
 activity of the overbalanced potential, when provided with Earth and or Air Groundings.
 
+在电气系统中，点“A”处活跃的电子与点“B”处活跃的电子不是同一个电子。也就是说，中央电站激活的电子并不是你在家中使用的电子。当你通过翻动墙上的开关接地系统时，你使用的是你自己的电子。在封闭的能源系统中，当提供地球或空气接地时，电子会相互通信并复制过量势能的活动。
+
 The number of Radio sets and Television sets running at any one time do not diminish, in any
 way the electrical output of the source station.
+
+在任何时候运行的收音机和电视机的数量并不会以任何方式减少源头电站的电能输出。
 
 For example, let now use an Air Coil Resonant Induction System for the purpose of flipping
 some electrons. The flipping device (reactor coil L-1) is pulsed, which then provides a resonant
@@ -229,11 +237,15 @@ gain in the Energy present, as demonstrated by the dominos above. The farads and
 the resonant system provide the resonant frequency when pulsed by an external energy system.
 A system shunt in the resonant circuit sets the containment level for energy potential.
 
+例如，现在我们使用一个空气线圈共振感应系统来翻转一些电子。翻转装置（反应线圈 L-1）被脉冲激发，从而提供一个共振感应脉冲。接着，这会翻转（反应物 L-2）线圈中的电子。L-1 中的能量输入被线圈匝数所分摊。由此产生的磁脉冲又会翻转 L-2 中每一匝的电子。如果 L-2 中的匝数多于 L-1，那么就会出现净能量增益，正如上面的多米诺骨牌所示。共振系统的法拉和亨利在受到外部能量系统脉冲激发时提供了共振频率。共振电路中的系统分流器设置了能量潜力的限制水平。
+
 The Induction Process itself provides an excellent example of over-unity. When comparing rate
 of induction, the cycles per second must be squared and then compared to the square of the
 second System. Let us then compare the 60 c.p.s. System with my 220 MHz Device. Energy
 produced at radio frequency has several major advantages over the conventional system. Ohm's
 Law does not apply to a resonant air-core radio frequency system.
+
+感应过程本身就是一个超统一的绝佳例子。在比较感应速率时，必须将每秒的周期数平方，然后与第二个系统的平方进行比较。让我们将 60 周期每秒（c.p.s.）系统与我的 220 MHz 设备进行比较。在射频下产生的能量与传统系统相比有几个主要优势。欧姆定律不适用于共振空气芯射频系统。
 
 For example: When the system is resonant, the following is true:
 
@@ -249,6 +261,7 @@ For example: When the system is resonant, the following is true:
 
     *OHMS / DISSIPATION IN AIR-COIL RESONANT INDUCTION SYSTEMS: RESISTIVITY BECOMES ZERO AT RESONANCE
 
+例如：当系统处于共振状态时，以下情况成立：
 
     预期结果
 

@@ -8,23 +8,23 @@ Energy Consultant
 
 Energy, energy everywhere and not a Joule to Jounce. Conventional wisdom, when properly tuned will appreciate the nature of energy, as here presented. The basic unit of electricity (the electron) upon encountering a moving magnetic field (or wave) spins, giving off an electric impulse. When this impulse collapses, it spins back to it's natural position, giving off a magnetic impulse. Therefore, magnetic and electric are two sides of the same coin. When the magnetic side is pulsed, it yields electricity and conversely, pulsing of the electrical side yields a magnetic field. Moving one in relation to the other produces useful energy. When done consecutively, each cycle pushes (current) forward, while pulling electrons into the system... in much the same way as a water pump moves water. These electrons are obtained from Earth and air grounding.
 
-能量，到处都是能量，而不是焦耳到焦耳。传统智慧，如果调整得当，将欣赏能量的本质，正如这里所介绍的那样。电的基本单位（电子）在遇到移动的磁场（或波）时会旋转，发出电脉冲。当这个脉冲崩溃时，它会旋转回到自然位置，发出磁脉冲。因此，磁和电是同一枚硬币的两面。当磁侧被脉冲时，它会产生电，反之，电侧的脉冲会产生磁场。使一个循环相对于另一个循环移动会产生有用的能量。当连续进行时，每个循环都会向前推动（电流），同时将电子拉入系统。。。就像水泵移动水一样。这些电子是从地球和空气接地中获得的。
+能量无处不在，但却无法转化为焦耳。正确的调谐可以让传统智慧理解这里的能量性质。基本的电单位（电子）在遇到移动的磁场（或波）时会旋转，释放出一个电脉冲。当这个脉冲消失时，电子会旋转回到其自然位置，释放出一个磁脉冲。因此，磁性和电性是同一枚硬币的两面。当磁性一侧被脉冲激发时，会产生电能；反之，电性一侧被脉冲激发时，会产生磁场。两者相对运动会产生有用的能量。连续进行时，每个周期都会推动电流前进，同时将电子引入系统……就像水泵抽水一样。这些电子是从地球和空气中获取的。
 
 The word "electric" comes from the Latin word electron "amber". When rubbed, amber develops an electrical charge, which can be transferred to a dissimilar substance. During the seventeenth and eighteenth centuries, a great deal of attention was centered on this attribute of amber. Amber was used to differentiate the non-metals. Carbon-related substances and other non-metals, when subjected to friction, give up negative electrical charges. On the other hand, metals when subjected to friction, simply conduct the charge. It is important to note that approximately 70% of the Earth's exposed crustal portions (surface) consist of silicone-related non-metals (electron donors) and become a direct source of electrical energy when properly agitated.
 
-“电”这个词来自拉丁语“电子”琥珀。摩擦时，琥珀会产生电荷，电荷可以转移到不同的物质上。在十七和十八世纪，人们对琥珀的这一特性给予了极大的关注。琥珀被用来区分非金属。碳相关物质和其他非金属在受到摩擦时会释放负电荷。另一方面，金属在受到摩擦时，只会传导电荷。值得注意的是，地球上大约70%的暴露地壳部分（表面）由硅相关的非金属（电子供体）组成，在适当搅拌时会成为直接的电能来源。
+“Electric” 这个词源自拉丁语单词 “electron”（琥珀）。当琥珀被摩擦时，会产生电荷，这种电荷可以转移到不同的物质上。在十七世纪和十八世纪，人们非常关注琥珀的这一特性。琥珀被用来区分非金属物质。碳相关物质和其他非金属物质在摩擦时会释放负电荷。另一方面，金属在摩擦时只是传导电荷。需要注意的是，地球表面大约 70% 的暴露地壳部分由硅相关非金属（电子供体）组成，在适当扰动时会成为直接的电能来源。
 
 Useful electrical energy can be obtained by grounding into the Earth's non-metal crust and into it's atmosphere as a natural source of electrons. These electrons have accumulated from the solar plasma during the aging of the Earth for more than 4.5 billion years, at a rate exceeding 3.9 exajoules per year This indicates that the Earth's electrical field contains in excess of 17.6 x 1018 of cumulative exajoules of energy. One exajoule is the approximate energy equivalent of125 million barrels of oil. The electrical energy in one display of lightning is approximately ten trillion joules. During each 24 hour period, the land portions of Earth's surface yields in excess of 200,000 emissions, which involves more than 2,000 quadrillion watts.
 
-有用的电能可以通过接地进入地球的非金属地壳和大气层作为天然的电子来源来获得。在地球老化超过45亿年的过程中，这些电子以每年超过3.9艾焦耳的速度从太阳等离子体中积累下来。这表明地球电场包含超过17.6 x 1018艾焦耳的累积能量。1艾焦耳大约相当于1.25亿桶石油的能量。一次闪电显示的电能约为10万亿焦耳。在每24小时内，地球表面的陆地部分产生的排放量超过20万，涉及2000万亿瓦以上。
+可以通过接地到地球的非金属地壳及其大气层来获取有用的电能，这些非金属地壳和大气层是天然的电子来源。这些电子在过去 45 亿多年的时间里从太阳等离子体中积累而来，每年积累的速度超过 3.9 艾焦耳。这意味着地球的电场中累计的能量超过 17.6 × 10^18 艾焦耳。1 艾焦耳大约相当于 1.25 亿桶石油的能量。一次闪电释放的能量约为 10 万亿焦耳。在每个 24 小时周期内，地球表面陆地部分产生的放电次数超过 20 万次，涉及的能量超过 2,000 夸克瓦（quadrillion watts）。
 
 C.F. Gauss (1777-1855) and H.C. Oersted (1777-1851) were each separately trying to define the Earth's electrical field with all external influences removed. These external influences being solar-quiet periods and being remote from the land's surface. The air electricity background which they measured varies with latitude. Their European measurements correspond to approximately the latitude of Washington. D C. They were measuring magnetic field flux as an indicator of negative electron energy active and present. A related family of measurement are now presented. Units of measurement used to define flux fields include Gauss (one unit = 100,000 volts), Oersted (one unit = 50,000 volts), Tesla (one unit = 10,000 Gauss) and Gamma (one unit = 1/10,000 of a Gauss). Much confusion exists in electrical related publications about these units. As presented here they are correct with values taken from their original definitions.
 
-C.F.高斯（1777-1855）和H.C.奥斯特（1777—1851）分别试图在去除所有外部影响的情况下定义地球的电场。这些外部影响是太阳平静期和远离陆地表面。他们测量的空气电背景随纬度而变化。他们的欧洲测量值大约对应于华盛顿的纬度。D.他们正在测量磁场通量，作为负电子能量活跃和存在的指示器。现在介绍一个相关的测量系列。用于定义通量场的测量单位包括高斯（一个单位＝100000伏特）、奥斯特（一个单元＝50000伏特）、特斯拉（一个装置＝10000高斯）和伽玛（一个部件＝高斯的1/10000）。与电气相关的出版物中对这些装置存在很多混淆。如这里所示，它们的值取自其原始定义，是正确的。
+C.F. 高斯（1777-1855）和 H.C. 奥斯特（1777-1851）各自独立地尝试定义地球的电场，排除所有外部影响。这些外部影响包括太阳静止期和远离地面的情况。他们测量的空气电背景随纬度变化。他们在欧洲的测量数据大致对应于华盛顿特区的纬度。他们通过测量磁场通量来指示负电子能量的活跃程度。现在介绍一组相关的测量单位。用于定义通量场的测量单位包括高斯（1 单位 = 100,000 伏特）、奥斯特（1 单位 = 50,000 伏特）、特斯拉（1 单位 = 10,000 高斯）和伽马（1 单位 = 1/10,000 高斯）。在与电学相关的出版物中，这些单位常常引起混淆。根据它们最初的定义，这里给出的值是正确的。
 
 The entire surface of the Earth has been surveyed by aerial magneto¬meter, in most cases using gamma or nano teslas. One gamma is the magnetic flux equivalent of 10 active volts of electricity. When the data is corrected for flight height it becomes obvious that there are numerous areas where the gamma readings exceed one trillion gammas. Lightning strikes from the ground up are in that energy range. With knowledge of these electron enriched areas, the quality of Earth grounding, becomes enhanced. The correction necessary for land surface data when acquired from aerial magnetometer maps (using Coulomb's law) requires that the remote distance be squared and then multiplied by the remote reading. As an example, if the remote reading is 1,600 gammas and the flight height being 1,000 feet. Take 1,000 x 1,000 = 1,000,000 x 1,600 gammas = 1.6 trillion gammas x 10 volts = 16 trillion volts equivalent for land surface data. Present day methodology requires mechanical energy in exchange for electrical energy.
 
-地球的整个表面都被航空磁强计测量过，在大多数情况下使用伽马或纳米特斯拉。一个伽马是相当于10伏有效电压的磁通量。当数据根据飞行高度进行校正时，很明显，在许多地区，伽马读数超过一万亿伽马。地面上的雷击就在这个能量范围内。随着对这些电子富集区的了解，地球接地的质量得到了提高。从航空磁强计地图（使用库仑定律）获取的陆地表面数据所需的校正要求将远程距离平方，然后乘以远程读数。例如，如果远程读数为1600伽马，飞行高度为1000英尺。对于陆地表面数据，取1000 x 1000=1000000 x 1600伽马=1.6万亿伽马x 10伏特=16万亿伏特当量。当今的方法需要机械能来换取电能
+整个地球表面已经通过航空磁力仪进行了测量，大多数情况下使用伽马或纳特斯拉单位。1 伽马相当于 10 伏特的电能。当数据修正为飞行高度后，很明显有许多区域的伽马读数超过了一万亿伽马。从地面向上发生的闪电属于这一能量范围。了解这些富含电子的区域后，地球接地的质量得到了提升。从航空磁力仪地图获取的地表数据（使用库仑定律）需要进行修正，即乘以距离的平方后再乘以远程读数。
 
 Once obtained, this energy is subject to Ohm's Law. Present Methodology obtains it's electrical energy from it's non-metal and air groundings.
 
@@ -32,7 +32,7 @@ Once obtained, this energy is subject to Ohm's Law. Present Methodology obtains 
 
 This same energy can be obtained without the wasteful mechanical approach and at a much, much lower cost. Any required amount of electricity is available by resonant induction transfer from the Earth's magnetic and electrical fields. The major difference is in the functioning of Ohm's Law in relation to resonant circuits. In the resonant induction system suggested here, system resistance (Z) becomes zero at resonance.
 
-这种相同的能量可以在没有浪费的机械方法的情况下以更低的成本获得。任何所需的电量都可以通过地球磁场和电场的共振感应传输获得。主要区别在于欧姆定律在谐振电路中的作用。在这里提出的谐振感应系统中，系统电阻（Z）在谐振时变为零。
+同样的能量可以通过共振感应传输从地球的磁场和电场中获得，而且成本要低得多，无需浪费机械能。通过共振感应传输可以从地球的磁场和电场中获得所需的任何电量。主要的区别在于欧姆定律在共振电路中的作用。在本文建议的共振感应系统中，系统电阻（Z）在共振状态下变为零。
 
 Therefore, Volts and Amperes are equal (V.A.R.) until work (load) is introduced.
 
@@ -40,11 +40,11 @@ Therefore, Volts and Amperes are equal (V.A.R.) until work (load) is introduced.
 
 Each cycling of this resonant induction system pulls in additional electrons from the Earth's electrical field, generating electrical energy in any required amount. In this system, a small amount of electrical energy is used to activate and pull a much larger amount of energy into the system.
 
-这种共振感应系统的每次循环都会从地球电场中吸收额外的电子，产生任何所需量的电能。在这个系统中，使用少量的电能来激活并将大量的能量拉入系统。
+每次共振感应系统的循环都会从地球的电场中吸入更多的电子，从而生成所需的任何数量的电能。在这个系统中，使用少量的电能来激活并吸入大量的能量进入系统。
 
 This electrical advantage corresponds to the pulley and lever of the mechanical world. The electrical system presented here is extremely efficient. Using present methodology as a basis for comparison, with it's 60 cycles per second system. The resonant induction system, cycling at 60 million times per second produces one million times the energy which is produced by the present energy systems. A single small size unit of the resonant induction system has more usable electrical output than a major conventional unit. The radio frequency energy produced iseasily changed to Direct Current, and then to the present 60 cycles per second system in preparation for commercial usage.
 
-这种电气优势对应于机械世界的滑轮和杠杆。这里介绍的电气系统非常高效。使用目前的方法作为比较的基础，它是每秒60个周期的系统。谐振感应系统每秒循环6000万次，产生的能量是现有能源系统的100万倍。谐振感应系统的单个小尺寸单元比主要的传统单元具有更多的可用电输出。产生的射频能量很容易转换为直流电，然后转换为目前每秒60个周期的系统，为商业使用做准备。
+这种电学优势类似于机械世界中的滑轮和杠杆。本文介绍的电学系统极其高效。与现有的每秒 60 周期的方法相比，共振感应系统以每秒 6000 万次的频率循环，产生的能量是现有系统的 100 万倍。单个小尺寸的共振感应系统单元比大型传统单元具有更多的可用电能输出。产生的射频能量很容易转换为直流电，然后再转换为现有的每秒 60 周期系统，以便商业使用。
 
 The Patent Pending on this system is #08/100,074, "Electrical Energy Generating System",dated 4 February, 1992.
 

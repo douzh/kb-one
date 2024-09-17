@@ -18,19 +18,19 @@ Nikola Tesla stood, almost alone, against Edison and managed to prevail with his
 
 This report will be concerned with some of the extensions and benefits of the alternating current electrical system. This study will limit it's scope to air core coil transformers at radio frequency and upwards. The electrical power produced by this method is inverted to Direct Current and then to Alternating Current as required for popular usage. There are several important advantages of this system over conventional power generation.
 
-本报告将关注交流电系统的一些扩展和好处。本研究将把其范围限制在射频及以上的空心线圈变压器上。这种方法产生的电力被转换为直流电，然后根据大众使用的需要转换为交流电。与传统发电相比，该系统有几个重要优点。
+本报告将关注交流电系统的一些扩展和优势。本研究将范围限定在射频及以上的空气芯线圈变压器。通过这种方法产生的电力先被转换为直流电，然后根据实际需求再转换为交流电。与传统电力生成相比，该系统具有几个重要的优势。
 
 Start with two coils (separate-apart), one being a reactor coil (L-1) and a second coil (L-2), being the reactant coil. Magnetic field fluxing (off-on of the electrical source) causes inductive reactance of L-1 which replicates by induction in L-2. Pulsing of the magnetic field (from L-1) in the presence of L-2, generates electrical potential. For example, should the L-1 coil have ten turns, with an imposed AC. potential of 1,200 volts. This results in each turn of L-1 acquiring 120 volts of potential. This induced magnetic field, then replicates itself in each turn of the L-2 coil. The L-2 coil may have one or many hundreds of turns. Modern encapsulation techniques makes high frequency and high energy controllable.
 
-从两个线圈（分开）开始，一个是反应器线圈（L-1），另一个线圈（L-2）是反应物线圈。磁场通量（电源关闭-打开）导致L-1的电感电抗，该电抗在L-2中通过感应复制。在L-2存在的情况下，磁场（从L-1）的脉动会产生电势。例如，L-1线圈应该有十匝，施加1200伏的交流电势。这导致L-1的每一圈获得120伏的电势。然后，这种感应磁场在L-2线圈的每一圈中复制自己。L-2线圈可能有一圈或几百圈。现代封装技术使高频和高能可控。
+从两个分离的线圈开始，一个作为反应线圈（L-1），另一个作为感应线圈（L-2）。磁场通断（电源的开闭）导致L-1 的感抗，并通过感应复制到 L-2 中。L-1 产生的磁场脉冲在 L-2 存在的情况下产生电势。例如，如果 L-1 线圈有十匝，并施加 1,200 伏的交流电势，则 L-1 每匝获得 120 伏的电势。这个感应磁场接着复制到 L-2 的每一匝中。L-2 可以有一匝或多匝。现代封装技术使得高频和高能量可控。
 
 Let's take another important step in this air-core transformer process. For purpose of discussion, let the value of inductive reactance at 60 cycles per second, equal one. Each time the frequency is doubled, the effectiveness of induction is squared. At about 20,000 Hz, when radio frequency is achieved, the electrons begin spinning free, outside of the inductor and they become increasingly free of the inverse relationship of volt-amperes. From this point on, they replicate by the inductive process as V.A.R.. That is to say, volts and amperes are equal, until resistance (work) is introduced. Therefore, additional, not previously available electrons become incorporated for a very large net gain in potential. This gain is real !
 
-让我们在这个空心变压器过程中迈出另一个重要步骤。为了便于讨论，让每秒60个周期的电感电抗值等于1。每次频率加倍，感应的有效性都是平方。在大约20000 Hz的频率下，当达到射频时，电子开始在电感器外自由旋转，并且它们越来越不受伏安的反比关系的影响。从这一点开始，它们通过感应过程复制为V.A.R.。也就是说，在引入电阻（功）之前，伏特和安培是相等的。因此，额外的、以前不可用的电子被引入，从而获得了非常大的电势净增益。这个收获是真实的！
+让我们在空气芯变压器的过程中再迈出重要的一步。为了讨论方便，假设在每秒 60 周波时感抗值为1。每次频率翻倍，感应的有效性就会平方增加。大约在 20,000 赫兹时，达到射频，电子开始在电感器外自由旋转，并逐渐摆脱电压与电流之间的反比关系。从这一点开始，它们通过感应过程以 V.A.R.（电压安培无功功率）的形式复制。也就是说，在引入电阻（工作）之前，电压和电流是相等的。因此，额外的、以前不可用的电子被纳入进来，从而实现巨大的电势净增益。这种增益是真实的！
 
 The quality of the grounding system determines the effectiveness of this method of producing electricity. A handy reference to locate the negative grounding areas for power generation can be found in the Aeromagnetic Map Studies of the US Geological Survey. They provide an excellent method for locating the best sites for optimum negative grounding areas.  When this method is combined with the induction coil system, already described, it provides an electrical power generating system millions of times more efficient than any known conventional method.
 
-接地系统的质量决定了这种发电方法的有效性。在美国地质调查局的航磁图研究中可以找到一个方便的参考，用于定位发电的负极接地区域。它们为确定最佳负极接地区域的最佳位置提供了一种极好的方法。当这种方法与已经描述的感应线圈系统结合时，它提供了一种比任何已知的传统方法高效数百万倍的发电系统。
+接地系统的质量决定了这种发电方法的有效性。要找到发电所需的负极接地区域，可以参考美国地质调查局的航空磁测图研究。这些研究提供了一种优秀的方法，用于确定最佳的负极接地位置。当这种方法与前面描述的感应线圈系统结合时，它提供了一种比任何已知传统方法效率高出数百万倍的电力生成系统。
 
 This new system ("E.E.S. II") is uncomplicated, physically small and it is inexpensive to build.  The technology required for it's construction already exists. Maintenance is near zero, as there are no moving parts. Once operating, this system could last forever.  Small mobile E.E.S. II units are already available as replacements for the batteries used in electric automobiles. Larger E.E.S. II units can be provided as a replacement source of power for hotels, office buildings, subdivisions, electric trains, manufacturing, heavy equipment, ships, and generally speaking, any present day application of electrical power.
 
@@ -53,9 +53,9 @@ HIGH VOLTAGE INDUCTION TRANSFORMER MODULE:
 
 高压感应变压器模块：
 
-1. 优选地，类似于电视反激式和/或汽车点火型相关线圈（变压器）的现成单元。
-2. 输入与输出的比率可以从小于1:100到大于1:1000。然后可以使用电压三倍器。
-3. 允许高压输出向前通过感应线圈L-1，然后到达其接地的连接。
+1 最好是现成的组件，类似于电视偏转线圈或汽车点火相关的线圈（变压器）。
+2 输入与输出的比例可以从小于 1:100 到大于 1:1,000，此时可以使用电压倍增器。
+3 连接方式允许高压输出通过感应线圈 L-1 并最终接地。
 
 AN AIR CORE INDUCTION COIL TRANSFORMER MODULE:
 
@@ -65,9 +65,9 @@ AN AIR CORE INDUCTION COIL TRANSFORMER MODULE:
 
 空心感应线圈变压器模块：
 
-1. 有两个线圈：反应器线圈L-1和反应物线圈L-2。L-1和接地之间有一个高压射频电容器。
-2. L-1电感器的输入除以其匝数。L-1每匝提供的磁通量场在L-2每匝中复制为电势。
-3. L-2可能有一圈或几百圈。净增益取决于L-2中的匝数。L-2的输出为V.A.R。在引入功（电阻率）之前，这种输出的电压和电流是相同的
+1 有两个线圈：反应线圈 L-1 和感应线圈 L-2。L-1 与其接地之间有一个高压射频电容器。
+2 输入到 L-1 电感中的电压被其匝数分摊。L-1 每匝产生的磁场在 L-2 的每一匝中复制为电势。
+3 L-2 可以有一匝或多匝。净增益取决于 L-2 的匝数。L-2 的输出为 V.A.R.（电压安培无功功率）。在这种输出类型下，电压和电流是相同的，直到引入工作（电阻）为止。
 
 THE INVERTER MODULE:
 
@@ -77,15 +77,15 @@ THE INVERTER MODULE:
 
 逆变器模块：
 
-1. 转换为直流电（DC）
-2. 根据需要转换为交流电（AC）。
-3. 提供定制的电力输出，可用于指定用途
+1 将电力转换为直流电（DC）。
+2 根据需要将电力转换为交流电（AC）。
+3 提供定制的电力输出，以供指定用途使用。
    
 ![](assets/c0007-02.png)
 
 ![](assets/c0007-03.png)
 
-## 电能参考点
+## 电气能源生成系统
 
 ELECTRICAL ENERGY REFERENCE POINTS 
 
@@ -105,35 +105,39 @@ DONALD L. SMITH ENERGY CONSULTANT 8110 BENT OAK LANE SPRING. TEXAS 77379
 
 The word "electric" comes from the Latin word electron "amber". When rubbed, amber develops an electrical charge, which can be transferred to a dissimilar substance. During the seventeenth and eighteenth centuries, a great deal of attention was centered on this attribute of amber. Amber was used to differentiate the non-metals. Carbon-related substances and other non-metals, when subjected to friction, give up negative electrical charges. On the other hand, metals when subjected to friction, simply conduct the charge. It is important to note that approximately 70% of the Earth's exposed crustal portions (surface) consist of silicone related non-metals (electron donors) and therefore becomes a direct source of electrical energy when properly agitated.
 
-“电”这个词来自拉丁语“电子”琥珀。摩擦时，琥珀会产生电荷，电荷可以转移到不同的物质上。在十七和十八世纪，人们对琥珀的这一特性给予了极大的关注。琥珀被用来区分非金属。碳相关物质和其他非金属在受到摩擦时会释放负电荷。另一方面，金属在受到摩擦时，只会传导电荷。值得注意的是，地球上大约70%的暴露地壳部分（表面）由硅相关的非金属（电子供体）组成，因此在适当搅拌时会成为直接的电能来源。
+“Electric” 这个词来源于拉丁语单词 “electron”，意为 “琥珀”。当琥珀被摩擦时，会产生电荷，这种电荷可以转移到不同的物质上。在十七世纪和十八世纪，人们非常关注琥珀的这一特性。琥珀被用来区分非金属物质。碳相关物质和其他非金属物质在摩擦时会释放负电荷。另一方面，金属在摩擦时只会传导电荷。需要注意的是，地球表面大约 70% 的地壳部分由硅相关非金属（电子供体）组成，因此在适当激发时可以直接成为电能的来源。
 
 Useful electrical energy is obtained by grounding into the Earth's non-metal crust and into it's atmosphere as a natural source of electrons. These electrons have accumulated from the solar plasma during the aging of the Earth for more than 4.5 billion years, at a rate exceeding 3.9 exajoules per year. This indicates that the Earth's electrical field contains in excess of 17.6 x 1018 power of cumulative exajoules of energy. One exajoule is the approximate energy equivalent of 125 million barrels of oil. The electrical energy in one display of lightning is approximately ten trillion joules. During each 24 hour period, the land portions of the Earth's surface yields in excess of 200,000 emissions, which involves more than 2,000 quadrillion watt-seconds of active energy on display.
 
-有用的电能是通过接地进入地球的非金属地壳和大气层作为电子的天然来源而获得的。在地球老化过程中，这些电子以每年超过3.9艾焦耳的速度从太阳等离子体中积累了超过45亿年。这表明地球的电场包含超过17.6 x 1018次方的累积艾焦耳的能量。1艾焦耳大约相当于1.25亿桶石油的能量。一次闪电显示的电能约为10万亿焦耳。在每24小时的时间段内，地球表面的陆地部分产生的排放量超过20万次，这涉及超过2000万亿瓦时的显示有功能量。
+通过将地球的非金属地壳及其大气作为自然电子源进行接地，可以获得有用的电能。这些电子在地球超过 45 亿年的演化过程中，从太阳等离子体中积累而来，每年的累积速率超过 3.9 艾焦耳。这表明地球的电场中累积的能量超过 17.6 × 10^18 艾焦耳。1 艾焦耳大约相当于 1.25 亿桶石油的能量。一次闪电释放的能量约为 10 万亿焦耳。在每个 24 小时周期内，地球表面陆地部分产生的放电次数超过 20 万次，涉及的活跃能量超过 2,000 夸克焦耳（2,000 × 10^15 瓦秒）。
 
 This physical phenomenon indicates that the Earth's crust is an unending source of electrical energy. The surface area involved is a very small portion of the Earth's crust.  J.C. Maxwell (1891) suggested that an active electron field gives rise to an associated magnetic field. Therefore, both are present with pulsating current. Early studies, involving observation of compass needles by microscopy, revealed that the needle vibrates as with alternating current.  More recent studies by A. Nishida and others, confirm that alternating current is common in the Earth's crust.
 
-这一物理现象表明，地壳是一个无休止的电能来源。所涉及的表面积是地壳的一小部分。J.C.Maxwell（1891）提出，活跃的电子场会产生相关的磁场。因此，两者都存在脉动电流。早期的研究，包括通过显微镜观察指南针针，表明指南针针会像交流电一样振动。A.Nishida和其他人最近的研究证实，交流电在地壳中很常见。
+这一物理现象表明，地球的地壳是一个无尽的电能来源。涉及的表面积只是地壳的一小部分。J.C. 麦克斯韦（1891年）提出，活动的电子场会产生相关的磁场。因此，在脉动电流中两者都存在。早期的研究，包括通过显微镜观察指南针针尖，发现针尖像交流电一样振动。最近由 A. Nishida 等人的研究表明，交流电在地球地壳中普遍存在。
 
 C.F. Gauss (1777-1855) and H.C. Oersted (1777-1851), both were separately trying to define the Earth's electrical field with all external influences removed. These external influences being solar-quiet periods and being remote from the land's surface. The air electricity background which they measured varies with latitude. Their European measurements correspond to approximately the latitude of Washington, D.C. They were measuring magnetic field flux as an indicator of negative electron energy active and present.
 
-C.F.高斯（1777-1855）和H.C.奥斯特（1777年-1851）都试图在去除所有外部影响的情况下分别定义地球的电场。这些外部影响是太阳平静期和远离陆地表面。他们测量的空气电背景随纬度而变化。他们在欧洲的测量值大约相当于华盛顿特区的纬度。他们测量磁场通量，作为活跃和存在的负电子能量的指标。
+C.F. 高斯（1777-1855）和 H.C. 奥斯特（1777-1851）分别尝试在排除所有外部影响的情况下定义地球的电场。这些外部影响包括太阳平静期以及远离地表的位置。他们测量的空气电背景随纬度变化。他们在欧洲的测量结果大致对应于华盛顿特区的纬度。他们通过测量磁场通量来指示负电子能量的活跃程度和存在状态。
 
 A related family of measurement is now presented. Units of measurement used to define flux fields include Gauss (one unit = 100,000 volts), Oersted (one unit - 50,000 volts), Tesla (oneunit = 10,000 Gauss) and Gamma (one unit = 1/10,000 th of a Gauss). Much confusion exists in electrical related publications about these units. As presented here, they are correct with values taken from their original definitions.
 
-现在介绍一个相关的测量系列。用于定义通量场的测量单位包括高斯（一个单位=100000伏）、奥斯特（一个单元-50000伏）、特斯拉（一个装置=10000高斯）和伽马（一个部件=高斯的1/10000）。与电气相关的出版物中对这些装置存在很多混淆。如这里所示，它们的值取自其原始定义，是正确的。
+现在介绍一组相关的测量单位。用于定义磁场的测量单位包括高斯（1 单位 = 100,000 伏特）、奥斯特（1 单位 = 50,000 伏特）、特斯拉（1 单位 = 10,000 高斯）和伽马（1 单位 = 1/10,000 高斯）。在与电学相关的出版物中，这些单位常常引起混淆。如这里所述，这些单位及其数值取自其原始定义，是正确的。
 
 The entire surface of the Earth has been surveyed by aerial magnetometer, in most cases using gamma or nano teslas. One gamma is the magnetic flux equivalent of 10 active volts of electricity. When this data is corrected for flight height, it becomes obvious that there are numerous areas where the gamma readings exceed one trillion gammas. Lightning strikes from the ground up are in that energy range. With knowledge of these electron enriched areas, the quality of Earth grounding, becomes enhanced.
 
-航空磁强计已经对地球的整个表面进行了测量，在大多数情况下使用伽马或纳米特斯拉。一个伽马是相当于10伏有效电压的磁通量。当这些数据根据飞行高度进行校正时，很明显，在许多地区，伽马读数超过一万亿伽马。地面上的雷击就在这个能量范围内。随着对这些电子富集区的了解，地球接地的质量得到了提高。
+地球表面已经通过航空磁力仪进行了全面测量，大多数情况下使用伽马或纳特斯拉作为单位。1 伽马相当于 10 伏特的活跃电能。当这些数据经过飞行高度校正后，很明显有许多地区的伽马读数超过了一万亿伽马。地面到空中的闪电就处于这一能量范围内。了解这些富电子区域后，地球接地的质量得到了显著提升。
 
 The correction necessary for land surface data when acquired from aerial magnetometer maps (using the inverse square law) requires that the remote distance be squared and then multiplied by the remote reading. For example, if the reading is 1,600 gammas and the flight height is 1,000 feet. Take 1,000 x 1,000 = 1,000,000 x 1,600 gammas = 1.6 trillion gammas x 10 volts = 16 trillion volts equivalent for land surface data.
 
-从航空磁强计地图（使用平方反比定律）获取的陆地表面数据所需的校正要求将远程距离平方，然后乘以远程读数。例如，如果读数为1600伽马，飞行高度为1000英尺。对于陆地表面数据，取1000 x 1000=1000000 x 1600伽马=1.6万亿伽马x 10伏特=16万亿伏特当量。
+当从航空磁力仪地图获取地表数据时（使用反平方定律），需要对远程距离进行平方，然后乘以远程读数。例如，如果读数为 1,600 伽马，飞行高度为 1,000 英尺。计算如下：
+
+1,000 × 1,000 = 1,000,000 1,000,000 × 1,600 伽马 = 1.6 万亿伽马 1.6 万亿伽马 × 10 伏特 = 16 万亿伏特
+
+这样得到的地表数据相当于 16 万亿伏特。
 
 Present day methodology requires mechanical energy to be expended in exchange for electrical energy. Any required amount of electricity is available by resonant induction transfer from the Earth's magnetic and electrical fields. Each cycling of this resonant induction system pulls in additional electrons, generating energy in any required amount. A small amount of electrical energy is used to activate and pull into the system a much larger amount of energy.
 
-目前的方法需要消耗机械能来换取电能。任何所需的电量都可以通过地球磁场和电场的共振感应传输来获得。这种共振感应系统的每次循环都会吸引额外的电子，产生任何所需量的能量。少量的电能用于激活并将大量的能量引入系统。
+当前的方法论要求通过消耗机械能来换取电能。通过地球磁场和电场的谐振感应传输，可以获得任意所需的电量。每次谐振感应系统的循环都会吸引更多的电子，生成所需的任意数量的能量。一小部分电能用于激活系统并吸引大量能量进入系统。
 
 ![](assets/c0007-04.png)
 
@@ -151,11 +155,11 @@ Active Electrons provide:
 
 活性电子提供：
 
-1. 电力
-2. 磁学
-3. 电动机中的重力推力
-4. 可见光的来源5。
-5. 费用是负数
+1. 电
+2. 磁
+3. 电动机中的引力推力
+4. 可见光的来源
+5. 它的电荷是负的
 
 They move in a closed loop as seen in the Icon for infinity, not in a circle as shown in many books. One half of the loop consist of a magnetic impulse and the return half consist of the electrical impulse. This is seen as the classic sine wave of alternating electrical energy.
 

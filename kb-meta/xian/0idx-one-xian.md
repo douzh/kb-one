@@ -7,6 +7,9 @@
 - [[3doc-one-neidan04]]
 - [[3doc-one-neidan05]]
 - [[3doc-one-neidan06]]
+- [[3doc-one-neidan07]]
+- [[3doc-one-neidan08]]
+- [[3doc-one-neidan09]]
 - [[2dn-one-100zhuji]]
   - 356穴、正定正念一口真气20分钟、一倍121小时
   - 16岁前童子正定正念9口真气一穴，9倍用时，每加十年加一倍用时多121小时，亚健康加一倍

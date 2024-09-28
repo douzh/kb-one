@@ -4,6 +4,9 @@
 - [[3doc-one-neidan01]]
 - [[3doc-one-neidan02]]
 - [[3doc-one-neidan03]]
+- [[3doc-one-neidan04]]
+- [[3doc-one-neidan05]]
+- [[3doc-one-neidan06]]
 - [[2dn-one-100zhuji]]
   - 356穴、正定正念一口真气20分钟、一倍121小时
   - 16岁前童子正定正念9口真气一穴，9倍用时，每加十年加一倍用时多121小时，亚健康加一倍
@@ -21,6 +24,7 @@
 [3doc-one-neidan01]: 3doc-one-neidan01.md "道教内丹修炼（张兴发）第一篇道源"
 [3doc-one-neidan02]: 3doc-one-neidan02.md "道教内丹修炼（张兴发）第二篇斋心"
 [3doc-one-neidan03]: 3doc-one-neidan03.md "道教内丹修炼（张兴发）第三篇道术 筑基"
+[3doc-one-neidan04]: 3doc-one-neidan04.md "道教内丹修炼（张兴发）第四篇 炼精化炁"
 [2dn-one-100zhuji]: 2dn-one-100zhuji.md "百日筑基"
 [2dn-one-xian01]: 2dn-one-xian01.md "最常用的几种修道方法"
 [2dn-one-zsf]: 2dn-one-zsf.md "张三丰老子丹道"

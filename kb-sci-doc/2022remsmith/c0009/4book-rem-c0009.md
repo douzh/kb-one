@@ -193,11 +193,11 @@ At this point, it is necessary to present updated information about electrons an
 
 As a source of electrical energy, non-ionic electrons doublets exist in immense quantities throughout the universe. Their origin is from the emanation of Solar Plasma.  When ambient electrons are disturbed by being spun or pushed apart, they yield both magnetic and electrical energy. The rate of disturbance (cycling) determines the energy level achieved. Practical methods of disturbing them include, moving coils past magnets or vice versa. A better way is the pulsing (resonant induction) with magnetic fields and waves near coils.
 
-作为电能的来源，整个宇宙中存在大量的非离子电子偶。它们的起源是太阳等离子体的发射。当周围的电子被旋转或推开而受到干扰时，它们会产生磁能和电能。干扰（循环）的速率决定了达到的能级。干扰它们的实用方法包括将线圈移过磁铁，反之亦然。更好的方法是在线圈附近用磁场和波进行脉冲（共振感应）。
+非离子电子对在整个宇宙中大量存在。它们的起源是太阳等离子体的辐射。当环境中的电子因旋转或被推开而受到扰动时，会产生磁能和电能。扰动的速率（循环频率）决定了所达到的能量水平。扰动它们的实际方法包括使线圈经过磁铁或反之。更好的方法是在线圈附近用磁场和波进行脉冲（谐振感应）。
 
 In coil systems, magnetic and amperage are one package. This suggests that electrons in their natural non-ionic state, exist as doublets. When pushed apart by agitation, one spins right (yielding Volts-potential electricity) and the other spins left (yielding Amperage-magnetic energy), one being more negative than the other. This further suggests that when they reunite, we have (Volts x Amps = Watts) useful electrical energy. Until now, this idea has been totally absent from the knowledge base. The previous definition of Amperage is therefore flawed.
 
-在线圈系统中，磁场和电流是一个整体。这表明，处于自然非离子状态的电子以双峰形式存在。当被搅拌推开时，一个向右旋转（产生伏特电势），另一个向左旋转（产生安培磁能），一个比另一个更负。这进一步表明，当它们重新结合时，我们拥有（伏特x安培=瓦特）有用的电能。到目前为止，这一想法在知识库中完全缺失。因此，之前对安培的定义是有缺陷的。
+磁性和电流是一个整体。这表明，在自然非离子状态下，电子以双电子对的形式存在。当受到扰动而分开时，一个向右旋转（产生电压电能），另一个向左旋转（产生电流磁能），其中一个比另一个更负。这进一步表明，当它们重新结合时，我们得到的是（电压 × 电流 = 功率）有用的电能。到目前为止，这一概念完全未被知识库所涵盖。因此，之前的电流定义是有缺陷的。
 
 ![](assets/c0009-09.png)
 
@@ -533,9 +533,6 @@ Note: At this point, Don's calculations go adrift and he suggests winding 30 tur
 和R=2500000或2.5兆欧
 
 然后我们把全部三个组件并行放置，于是我们的线圈应该给我们一个50赫兹的输出。
-
-
-
 
 
 ![../c0010/assets/c0009-22.png](../c0010/assets/c0010-1.png)

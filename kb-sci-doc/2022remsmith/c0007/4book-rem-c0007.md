@@ -206,39 +206,23 @@ It is important to note that Ohm and Ampere are after the fact, and are not deci
 
 EXAMPLES OF OVERUNITY
 
-Dominos did not exist in England when the Laws of Conservation were originally put in place.
-Otherwise they might have been very different. For example, let us take a long row of upright
-dominos, (many thousands) and flip number one. The Energy required to flip the first domino
-must now be added with that of thousands more in order to have a correct assessment.
+Dominos did not exist in England when the Laws of Conservation were originally put in place.  Otherwise they might have been very different. For example, let us take a long row of upright dominos, (many thousands) and flip number one. The Energy required to flip the first domino must now be added with that of thousands more in order to have a correct assessment.
 
 当能量守恒定律最初制定时，多米诺骨牌在英国并不存在。如果当时有多米诺骨牌，这些定律可能会有所不同。例如，假设我们有一排竖立的多米诺骨牌（成千上万个），翻倒第一个骨牌所需的能量必须加上后续成千上万个骨牌的能量，才能进行正确的评估。
 
-The Electron itself is an excellent example of over-unity. The electron provides various forms
-of energy continuously throughout eternity and is in no way diminished. It simply cycles
-through the system and is available thereafter.
+The Electron itself is an excellent example of over-unity. The electron provides various forms of energy continuously throughout eternity and is in no way diminished. It simply cycles through the system and is available thereafter.
 
 电子本身就是一个超统一的绝佳例子。电子在整个永恒的过程中不断提供各种形式的能量，并且不会以任何方式减少。它只是在系统中循环，并在此后可用。
 
-In Electrical Systems, Electrons active at point "A" are not the same Electrons active at point
-"B". That is to say, the Electrons activated at the Central Electrical Energy Station are not the
-ones used at your house. When you ground your system by flipping the wall switch, you use
-your own electrons. In closed energy systems, electrons communicate with and replicate the
-activity of the overbalanced potential, when provided with Earth and or Air Groundings.
+In Electrical Systems, Electrons active at point "A" are not the same Electrons active at point "B". That is to say, the Electrons activated at the Central Electrical Energy Station are not the ones used at your house. When you ground your system by flipping the wall switch, you use your own electrons. In closed energy systems, electrons communicate with and replicate the activity of the overbalanced potential, when provided with Earth and or Air Groundings.
 
 在电气系统中，点“A”处活跃的电子与点“B”处活跃的电子不是同一个电子。也就是说，中央电站激活的电子并不是你在家中使用的电子。当你通过翻动墙上的开关接地系统时，你使用的是你自己的电子。在封闭的能源系统中，当提供地球或空气接地时，电子会相互通信并复制过量势能的活动。
 
-The number of Radio sets and Television sets running at any one time do not diminish, in any
-way the electrical output of the source station.
+The number of Radio sets and Television sets running at any one time do not diminish, in any way the electrical output of the source station.
 
 在任何时候运行的收音机和电视机的数量并不会以任何方式减少源头电站的电能输出。
 
-For example, let now use an Air Coil Resonant Induction System for the purpose of flipping
-some electrons. The flipping device (reactor coil L-1) is pulsed, which then provides a resonant
-induction pulse. In turn, this flips the electrons present at the (reactant L-2) Coil. The energy
-input in L-1 is divided by the number of turns present. The induced magnetic pulsing in turn
-flips the electrons in each turn of L-2. If more turns are present in L-2 than L-1, there is a net
-gain in the Energy present, as demonstrated by the dominos above. The farads and henrys of
-the resonant system provide the resonant frequency when pulsed by an external energy system.
+For example, let now use an Air Coil Resonant Induction System for the purpose of flipping some electrons. The flipping device (reactor coil L-1) is pulsed, which then provides a resonant induction pulse. In turn, this flips the electrons present at the (reactant L-2) Coil. The energy input in L-1 is divided by the number of turns present. The induced magnetic pulsing in turn flips the electrons in each turn of L-2. If more turns are present in L-2 than L-1, there is a net gain in the Energy present, as demonstrated by the dominos above. The farads and henrys of the resonant system provide the resonant frequency when pulsed by an external energy system.
 A system shunt in the resonant circuit sets the containment level for energy potential.
 
 例如，现在我们使用一个空气线圈共振感应系统来翻转一些电子。翻转装置（反应线圈 L-1）被脉冲激发，从而提供一个共振感应脉冲。接着，这会翻转（反应物 L-2）线圈中的电子。L-1 中的能量输入被线圈匝数所分摊。由此产生的磁脉冲又会翻转 L-2 中每一匝的电子。如果 L-2 中的匝数多于 L-1，那么就会出现净能量增益，正如上面的多米诺骨牌所示。共振系统的法拉和亨利在受到外部能量系统脉冲激发时提供了共振频率。共振电路中的系统分流器设置了能量潜力的限制水平。
@@ -302,7 +286,7 @@ Useful electrical energy is achieved when the electron density at point "A" beco
 
 摘要
 
-当“A”点的电子密度大于“B”点的密度时，就获得了有用的电能（越负，越负）。线圈在磁场中移动或反之亦然会导致这种不平衡。
+当点“A”的电子密度大于点“B”时（即更负的电子向较正的区域移动），可以实现有用的电能。线圈穿过磁场或反之亦然会导致这种不平衡。
 
 The mindset of the professional Electrical Engineer is restricted to non-resonant and iron-core coil resonant systems. Ohm's Law, when applied to resonant air-core induction systems, becomes, system resistivity (impedance, Z). "Z" becomes zero at resonance. Therefore, in this system, volts and amperes are equal until load (resistivity) is introduced. This is called the Volt Ampere Reactive (V.A.R.) System. With impedance being zero, the System grounding is coupled directly into the Earth's immense electrical potential. Efficiency of induction relates to the square of the cycles per second. Compare the ratio of the conventional 60 c.p.s. System and the 220 million plus cycles of my Earth Electrical System II.
 
@@ -388,11 +372,11 @@ d. 要获得电线长度（英尺），请使用以下公式：如果使用四�
 
 6. Construction of the input L-1 coil. It has already been decided that there will be 10 turns.  The length of the wire here is not critical. Since the L-2 coil is 2-inches in diameter, the next off-the-shelf larger size may be used for L-1. Use a 3" diameter off-the-shelf coil which has 10 turns to the inch. Remove (cut) a 10 turn portion from the larger coil. Use an L.C.R. meter and measure the natural farads (capacitance) and henrys (inductance) values of the L-2 coil. Now do the same for the L-1 coil. It will be necessary to put a capacitor across the voltage input of L-1 in order to match the L-1 coil to the L-2 coil. A spark gap across L1 is also required to deal with the return voltage from L-1. A tuneable capacitor of the pad ("trimmer") type for L-1 is desirable.
 
-6. 输入L-1线圈的构造。已经决定将有10匝。这里的电线长度并不重要。由于L-2线圈的直径为2英寸，因此下一个现成的较大尺寸可用于L-1。使用直径为3英寸的现成线圈，每英寸有10匝。从较大的线圈上取下（切割）10匝部分。使用L.C.R.仪表测量L-2线圈的自然法拉（电容）和亨利（电感）值。现在对L-1线圈也这样做。有必要在L-1的电压输入端放置一个电容器，以使L-1线圈与L-2线圈相匹配。L1两端还需要一个火花隙来处理L-1的返回电压。L-1的可调电容器（“微调器”）类型是理想的。
+6. 已经决定 L-1 线圈有 10 匝。导线的长度不是关键因素。由于 L-2 线圈的直径为 2 英寸，可以选择稍大一点的标准尺寸用于 L-1。使用一个直径为 3 英寸、每英寸 10 匝的标准线圈。从较大线圈上切下 10 匝的部分。使用 LCR 表测量 L-2 线圈的自然法拉（电容）和亨利（电感）值。现在对 L-1 线圈做同样的测量。为了使 L-1 线圈与 L-2 线圈匹配，需要在 L-1 的电压输入端并联一个电容器。还需要在 L-1 上加一个火花间隙，以处理来自 L-1 的返回电压。对于 L-1，建议使用可调电容器（垫片型或微调型）。
 
 7. The performance of the L-2 coil can be further enhanced by having an Earth grounding from the base of the coil. The maximum voltage output will be between the base and the top of the L-2 coil. Lesser voltages can be obtained at intermediate points along the length of the L-2 coil.
 
-7. 通过从线圈底部接地，可以进一步提高L-2线圈的性能。最大电压输出将在L-2线圈的基极和顶部之间。在L-2线圈长度的中间点可以获得较小的电压。
+7. 可以通过从 L-2 线圈底部接地来进一步增强其性能。最大电压输出将在 L-2 线圈的底部和顶部之间。沿着 L-2 线圈长度的中间点可以获得较低的电压。
 
 SUPPLY SOURCES
 

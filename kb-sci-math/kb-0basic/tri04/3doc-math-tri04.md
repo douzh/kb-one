@@ -128,7 +128,11 @@ $$ r=\frac{ab}{\sqrt{{\left(b \cos \theta\right)^2+\left(a \sin\theta\right)^2 }
  如果分子分母同时除以 $a$，再注意到 $e=\frac{\sqrt{b^2-a^2}}{a}$，就可以得到：  
 > 
 
-$$ \begin{align} r&=\frac{b}{\sqrt{{\left(\frac{b}{a} \cos \theta\right)^2+\left( \sin\theta\right)^2 }}}\\ &= \frac{b}{\sqrt{-\left( \frac{b^2}{a^2}-1\right) \cos^2 \theta+\left(\cos^2+ \sin^2\theta\right) }}\\ &=\frac{b}{\sqrt{1-(e \cos \theta)^{2}}} && \color{Red}{ \left ( \frac{b^2}{a^2}-1=\frac{b^2-a^2}{a^2}=e^2 \right ) } \end{align}$$
+$$ \begin{align} 
+r&=\frac{b}{\sqrt{{\left( \frac{b}{a} \cos \theta \right)^2+\left( \sin\theta\right)^2 }}}\\ 
+&= \frac{b}{\sqrt{-\left( \frac{b^2}{a^2}-1 \right) \cos^2 \theta+\left(\cos^2+ \sin^2\theta\right) }}\\ 
+&=\frac{b}{\sqrt{1-(e \cos \theta)^{2}}} && \color{Red}{ \left ( \frac{b^2}{a^2}-1=\frac{b^2-a^2}{a^2}=e^2 \right ) } 
+\end{align}$$
 
 
 

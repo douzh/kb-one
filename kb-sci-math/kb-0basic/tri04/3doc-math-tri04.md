@@ -129,9 +129,9 @@ $$ r=\frac{ab}{\sqrt{{\left(b \cos \theta\right)^2+\left(a \sin\theta\right)^2 }
 > 
 
 $$ \begin{align} 
-r&=\frac{b}{\sqrt{{( \frac{b}{a} \cos \theta)^2+( \sin\theta)^2 }}}\\ 
-&= \frac{b}{\sqrt{-( \frac{b^2}{a^2}-1 ) \cos^2 \theta+(\cos^2+ \sin^2\theta) }}\\ 
-&=\frac{b}{\sqrt{1-(e \cos \theta)^{2}}} && \color{Red}{ ( \frac{b^2}{a^2}-1=\frac{b^2-a^2}{a^2}=e^2)} 
+r&=\frac{b}{\sqrt{ {( \frac{b}{a} \cos \theta)^2+( \sin\theta)^2 } }}\\ 
+&= \frac{b}{\sqrt{-( \frac{b^2}{a^2}-1 ) \cos^2 \theta+(\cos^2+ \sin^2\theta) } }\\ 
+&=\frac{b}{\sqrt{1-(e \cos \theta)^{2} } } && \color{Red}{ ( \frac{b^2}{a^2}-1=\frac{b^2-a^2}{a^2}=e^2)} 
 \end{align}$$
 
 

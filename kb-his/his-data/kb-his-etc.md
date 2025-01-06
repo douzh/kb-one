@@ -3,6 +3,8 @@
 ![1736088871357](assets/kb-his-etc/etc2016-04.png)
 ![1736089101179](assets/kb-his-etc/etc2017-04.png)
 ![1736089183786](assets/kb-his-etc/etc2018-01.png)
+![1736089271018](assets/kb-his-etc/etc2021-05.png)
+![1736089330186](assets/kb-his-etc/etc2024-03.png)
 以太坊历史走势回顾，上涨超过一万倍的公链之王
 
 以太币诞生至今尚未满十年，从 ICO 起算，至今九年多涨幅超过一万倍，数年来持续站稳市值第二大加密货币的位置。

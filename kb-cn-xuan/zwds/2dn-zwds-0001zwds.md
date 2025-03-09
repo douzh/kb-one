@@ -46,7 +46,7 @@
 
 ## 固定盘
 
-![固定盘](assets/2dn-zwds-0001zwds-001.png)
+![固定盘](assets/2dn-zwds-0001zwds/2dn-zwds-0001zwds-001.png)
 
 ## 安命宫和身宫
 
@@ -55,6 +55,10 @@
 口诀：斗柄建寅起正月，数至生月顺流行。子时起数生时止，逆回安命顺安身
 
 解释：命主出生于2022年阴历三月二十三日申时，寅宫起正月，顺数到生月（三月），从寅宫开始顺数，第一个宫位是寅宫，第二个宫位是卯宫，第三个宫位为辰宫。以辰宫为子时起点根据命主出生时辰逆向数，落宫即为命宫。此命主出生于申时，从子时到申时共有九个时辰，也就是说要从辰宫开始逆向数九个宫就是命宫。从辰宫逆向数第一个宫为辰宫，第二个宫为卯宫，第三个宫为寅宫，第四个宫为丑宫……第九个宫为申宫，所以我们可以确定此命主的命宫就落在申宫。
+
+![1741504499412](assets/2dn-zwds-0001zwds/zwds-biao-mingshen.png)
+
+![1741504650055](assets/2dn-zwds-0001zwds/zwds-biao-12gong.png)
 
 安命宫
 
@@ -72,7 +76,7 @@
 
 身宫和命宫以及其他十一宫都安好之后，排面就是这样子的：
 
-![安命宫和身宫](assets/2dn-zwds-0001zwds-002.png)
+![安命宫和身宫](assets/2dn-zwds-0001zwds/2dn-zwds-0001zwds-002.png)
 
 ## 排天干
 
@@ -88,9 +92,11 @@
 
 以上歌诀的含义就是，如果是甲己之年，正月就是丙天干，也就是丙寅；而如果是乙庚之年，正月天干就是戊开始，也就是戊寅；丙辛之年的正月是庚寅；丁壬之年的正月是壬寅；最后戊癸之年的正月是甲寅。
 
+![1741504720315](assets/2dn-zwds-0001zwds/zwds-biao-tangan.png)
+
 壬寅年正月从壬寅开始，所以就在寅宫上安壬干，接下来按照天干的固定顺序（甲乙丙丁戊己庚辛壬癸），顺时针方向，依次在所有宫位上写上天干。写完之后如下：
 
-![2dn-zwds-0001zwds-1741415241587](assets/2dn-zwds-0001zwds-003.png)
+![2dn-zwds-0001zwds-1741415241587](assets/2dn-zwds-0001zwds/2dn-zwds-0001zwds-003.png)
 
 ## 起五行局
 
@@ -98,12 +104,90 @@
 
 五行局的数字和起大限（也就是起大运）的岁数相关，是多少局就是几岁起大限。
 
-![2dn-zwds-0001zwds-1741415497576](assets/2dn-zwds-0001zwds-004.png)
+![1741504787969](assets/2dn-zwds-0001zwds/zwds-biao-wuxingju.png)
+
+![2dn-zwds-0001zwds-1741415497576](assets/2dn-zwds-0001zwds/2dn-zwds-0001zwds-004.png)
 
 本盘的命宫在丙午，纳音为天河水，因此是水二局，在二岁开始起大限。
 
-![2dn-zwds-0001zwds-1741415558686](assets/2dn-zwds-0001zwds-005.png)
+![2dn-zwds-0001zwds-1741415558686](assets/2dn-zwds-0001zwds/2dn-zwds-0001zwds-005.png)
 
 十年一个大限，和八字一样，按阳男阴女顺行，阴男阳女逆行的原则，依次排列。
 
 阴阳是按照出生年干的阴阳来论的，以甲丙戊庚壬为阳，乙丁己辛癸为阴，壬寅年是阳年，出生的男孩是阳男，女孩就是阳女。因此这个盘的主人如果为男孩，则大限顺排，第一大限命宫在午宫，第二大限命宫就走到未宫。如果是女孩，大限逆排，第二大限命宫就走到巳宫。
+
+## 起紫微
+
+![1741504857810](assets/2dn-zwds-0001zwds/zwds-biao-ziwei.png)
+
+## 起紫微诸星
+
+![1741505596388](assets/2dn-zwds-0001zwds/zwds-biao-ziweizhuxing.png)
+
+## 安天府诸星
+
+![1741505670607](assets/2dn-zwds-0001zwds/zwds-biao-tianfuzhuxing.png)
+
+## 安时系诸星
+
+![1741505827533](assets/2dn-zwds-0001zwds/zwds-biao-shixing.png)
+
+## 安月系诸星
+
+![1741505886625](assets/2dn-zwds-0001zwds/zwds-biao-yuexing.png)
+
+## 安日系诸星
+
+![1741505953947](assets/2dn-zwds-0001zwds/zwds-biao-rixing.png)
+
+## 安干系诸星
+
+![1741506021110](assets/2dn-zwds-0001zwds/zwds-biao-ganxing.png)
+
+## 安生年博士十二星
+
+![1741506218818](assets/2dn-zwds-0001zwds/zwds-biao-boshi12xing.png)
+
+## 安支系诸星
+
+![1741506300038](assets/2dn-zwds-0001zwds/zwds-biao-nianzixing.png)
+
+## 安五行长生十二星
+
+![1741506371384](assets/2dn-zwds-0001zwds/zwds-biao-wuxingxing.png)
+
+## 安截路空亡
+
+![1741506466057](assets/2dn-zwds-0001zwds/zwds-biao-jielukongwang.png)
+
+## 安旬中空亡
+
+![1741506542999](assets/2dn-zwds-0001zwds/zwds-biao-xunzhongkongwang.png)
+
+## 安天伤天使
+
+![1741506739856](assets/2dn-zwds-0001zwds/zwds-biao-tianshang.png)
+
+## 安命主
+
+![1741506786106](assets/2dn-zwds-0001zwds/zwds-biao-mingzhu.png)
+
+## 安身主
+
+![1741506839504](assets/2dn-zwds-0001zwds/zwds-biao-shenzhu.png)
+
+## 起大限
+
+![1741506880693](assets/2dn-zwds-0001zwds/zwds-biao-daxian.png)
+
+## 起小限
+
+![1741506968194](assets/2dn-zwds-0001zwds/zwds-biao-xiaoxian.png)
+
+## 安流年将前诸星
+
+![1741507021190](assets/2dn-zwds-0001zwds/zwds-biao-liunian01.png)
+
+## 安流年岁前诸星
+
+![1741507072823](assets/2dn-zwds-0001zwds/zwds-biao-liunian02.png)

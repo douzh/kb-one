@@ -191,3 +191,17 @@
 ## 安流年岁前诸星
 
 ![1741507072823](assets/2dn-zwds-0001zwds/zwds-biao-liunian02.png)
+
+## 安子年斗君
+
+![1741507126523](assets/2dn-zwds-0001zwds/zwds-biao-liunian03.png)
+
+## 诸星在十二宫庙旺利陷
+
+![1741507214054](assets/2dn-zwds-0001zwds/zwds-biao-miaowanglixian.png)
+
+## 诸星分属南北斗五行并化吉凶
+
+![1741507308782](assets/2dn-zwds-0001zwds/zwds-biao-jixiong01.png)
+![1741507351768](assets/2dn-zwds-0001zwds/zwds-biao-jixiong02.png)
+![1741507383522](assets/2dn-zwds-0001zwds/zwds-biao-jixiong03.png)

@@ -122,7 +122,7 @@
 
 ![1741504857810](assets/2dn-zwds-0001zwds/zwds-biao-ziwei.png)
 
-## 起紫微诸星
+起紫微诸星
 
 ![1741505596388](assets/2dn-zwds-0001zwds/zwds-biao-ziweizhuxing.png)
 

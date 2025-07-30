@@ -16,6 +16,7 @@
   - 356穴、正定正念一口真气20分钟、一倍121小时
   - 16岁前童子正定正念9口真气一穴，9倍用时，每加十年加一倍用时多121小时，亚健康加一倍
   - 射遗精一次补9口真气3小时，贪嗔色等起心三次补一口真气
+- [[3doc-one-pmzdg]]
 - [[2dn-one-xian01]]
 - [[2dn-one-zsf]]
 - [[2dn-one-chunyang]]
@@ -38,6 +39,7 @@
 [3doc-one-neidan11]: 3doc-one-neidan11.md "道教内丹学问答（潇湘书隐）"
 [3doc-one-neidan12]: 3doc-one-neidan12.md "道教修炼入静的几种方法（潘延川）"
 [2dn-one-100zhuji]: 2dn-one-100zhuji.md "百日筑基"
+[3doc-one-pmzdg]: 3doc-one-pmzdg.md "破迷证道歌"
 [2dn-one-xian01]: 2dn-one-xian01.md "最常用的几种修道方法"
 [2dn-one-zsf]: 2dn-one-zsf.md "张三丰老子丹道"
 [2dn-one-chunyang]: 2dn-one-chunyang.md "纯阳无极功"

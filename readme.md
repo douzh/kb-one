@@ -26,8 +26,6 @@
 - [[0idx-one-xian]]
 - [[0idx-cn-xuan]]
 
-[[0idx-his]]
-
 
 
 [0idx-sci-math]: kb-sci-math/0idx-sci-math.md "数学"
@@ -71,5 +69,6 @@
 [0idx-meta-index]: kb-meta/0idx-meta-index.md "玄学文化"
 [0idx-one-xian]: kb-meta/xian/0idx-one-xian.md "道教修行"
 [0idx-cn-xuan]: kb-cn-xuan/0idx-cn-xuan.md "玄学-山医命相卜"
-[0idx-his]: kb-his/0idx-his.md "历史和数据"
+
+
 

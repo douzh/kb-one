@@ -20,22 +20,8 @@
 
 # 目录
 - 数学 [[0idx-sci-math]]
-- 文献 
-  - 麦克斯韦 [[1865dynamical-theory-emf]]
-  - 麦克斯韦 [[1873treatise-em]]
-  - 麦克斯韦 [[1873treatise-em-54ether-vortices]]
-  - Keely [[4book-0idx-free-energy-pioneer]]
-  - Keely [[4book-0idx-keely-secrets]]
-  - Russell [[4book-0idx-book-russell]]
-  - Newman [[4book-0dix-emn]]
-  - Keshe [[0idx-book-keshe]]
-  - [[0idx-book-spower]]
-    - [[4book-spower-c8]]
-  - [[0idx-book-rem-smith]]
 - [[0idx-sci-patent]]
-
 [[0idx-one-todo]]
-
 [[0idx-meta-index]]
 - [[0idx-one-xian]]
 - [[0idx-cn-xuan]]
@@ -59,17 +45,27 @@
 
 
 
-[1865dynamical-theory-emf]: kb-sci-doc/1831maxwell/1865dynamical-theory-emf.md "1865电磁场的动力学理论"
-[1873treatise-em]: kb-sci-doc/1831maxwell/1873treatise-em.md "1873电磁通论摘录"
-[1873treatise-em-54ether-vortices]: kb-sci-doc/1831maxwell/1873treatise-em-54ether-vortices.md "电磁通论-第54章对光的磁作用-以太旋涡假说"
-[4book-0idx-free-energy-pioneer]: kb-sci-doc/1837keely/free-energy-pioneer/4book-0idx-free-energy-pioneer.md "自由能先驱-Keely"
-[4book-0idx-keely-secrets]: kb-sci-doc/1837keely/keely-secrets/4book-0idx-keely-secrets.md "从未揭示的宇宙法则：基利的秘密"
-[4book-0idx-book-russell]: kb-sci-doc/1871russell/4book-0idx-book-russell.md "Russell文献"
-[4book-0dix-emn]: kb-sci-doc/1936newman/1968energy-machine-newman/4book-0dix-emn.md "纽曼的能源机"
-[0idx-book-keshe]: kb-sci-doc/1958keshe/0idx-book-keshe.md "keshe科技"
-[0idx-book-spower]: kb-sci-doc/1997shapepower/0idx-book-spower.md "形状的力量"
-[4book-spower-c8]: kb-sci-doc/1997shapepower/4book-spower-c8.md "第8章核结构-形状力量的基础"
-[0idx-book-rem-smith]: kb-sci-doc/2022remsmith/0idx-book-rem-smith.md "共振能量法 唐·史密斯"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [0idx-sci-patent]: kb-sci-patent/0idx-sci-patent.md "专利"
 [0idx-one-todo]: todo/0idx-one-todo.md "TODO 待分类资料"
 [0idx-meta-index]: kb-meta/0idx-meta-index.md "玄学文化"

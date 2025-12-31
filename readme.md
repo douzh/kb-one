@@ -19,7 +19,6 @@
 
 
 # 目录
-- 数学 [[0idx-sci-math]]
 - [[0idx-sci-patent]]
 [[0idx-one-todo]]
 [[0idx-meta-index]]
@@ -28,7 +27,7 @@
 
 
 
-[0idx-sci-math]: kb-sci-math/0idx-sci-math.md "数学"
+
 
 
 
